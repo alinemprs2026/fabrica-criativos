@@ -21,7 +21,7 @@ APIs **sem** mandar cabeçalho de autenticação. Só `SUPABASE_URL` vem como va
   - Usar **sempre o Avatar IV** (o intermediário). Não usar o Avatar III (qualidade ruim) nem o V ou superiores (caros demais). Se a API não deixar escolher o IV para esse avatar, parar e avisar a Aline antes de gerar.
 
 ## Rotina semanal (toda quarta-feira)
-Produtos: **21 Frases Secretas** (espanhol) e **Código Alfa** (campeões numa pasta que a Aline vai separar; quando chegarem, ficam em `criativos/codigo-alfa/campeoes/`).
+Produtos: **21 Frases Secretas** (espanhol) e **Código Alfa** (**também em espanhol**; campeões numa pasta que a Aline vai separar; quando chegarem, ficam em `criativos/codigo-alfa/campeoes/`).
 Para cada produto, por semana: **mínimo 15, até 25 criativos**, bem diferentes entre si: **corpos diferentes**, ganchos diferentes e formatos variados. **Qualidade vem antes da quantidade**: se não der 25 bons, entregar menos (nunca menos de 15 sem avisar o motivo).
 
 ## Como falar com a Aline (pelo painel, nunca só no chat)
@@ -45,6 +45,7 @@ Tabelas no Supabase (REST em `$SUPABASE_URL/rest/v1/...`, cabeçalhos de autenti
 5. Entregar só os melhores: revisar cada vídeo (snapshot) antes de publicar no lote.
 
 ## Regras do Facebook (segurança da conta)
+- Conta 04 (`act_1082802954199978`) para os dois produtos. Modelo de subida = só campanhas **ativas** de teste (CBO, conjuntos cjN com até 3 criativos CRn). A subida é feita pelo painel, nunca pela fábrica.
 - Só a conta de anúncios do 21 Frases. Nunca mexer em campanhas ativas.
 - Subir sempre **PAUSADO**, duplicando a campanha/conjunto campeão (mesmo pixel e configuração), com prefixo **[IA]** no nome.
 - Nas primeiras semanas, só subir depois que a Aline aprovar no painel.
