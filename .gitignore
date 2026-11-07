@@ -5,3 +5,5 @@ node_modules/
 .env
 renders/
 .hyperframes/
+*.mov
+__pycache__/
