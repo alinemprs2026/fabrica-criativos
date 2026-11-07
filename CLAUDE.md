@@ -12,6 +12,8 @@ Toda semana: olhar quais anúncios mais vendem, entender por que funcionam e ent
 - Análise dos campeões: `analise/21-frases/ANALISE.md` e `transcricoes.json`.
 - Modelos de formato (layouts do Canva recriados em vídeo): `formatos/`.
 - HeyGen: `HEYGEN_API_KEY` no ambiente (créditos de API — economizar).
+  - Avatar do 21 Frases: **"Daniel 21 frases secretas"**.
+  - Usar **sempre o Avatar IV** (o intermediário). Não usar o Avatar III (qualidade ruim) nem o V ou superiores (caros demais). Se a API não deixar escolher o IV para esse avatar, parar e avisar a Aline antes de gerar.
 
 ## Regras de criação
 1. Sempre vídeo, 9:16 (fazer também 4:5 quando pedirem). Legendas grandes com palavra-chave colorida, como os campeões.
