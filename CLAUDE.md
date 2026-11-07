@@ -27,6 +27,13 @@ APIs **sem** mandar cabeçalho de autenticação. Só `SUPABASE_URL` vem como va
 - "Depoimento" aqui é **formato UGC** (selfie, carro, conversa casual), mas o avatar **não diz que ele mesmo ganhou dinheiro** ("manifesté $8,000"). Ele conta a história/curiosidade em terceira pessoa ("vi un video de un millonario que…", "dicen que…"), reage, provoca, pergunta. Nada de prometer valor de ganho para quem assiste, nem citar universidade/estudo sem prova.
 - Ângulo campeão: o gancho do "$8,000 por accidente" + "video extraño". Variar em volta disso (curiosidade, segredo escondido, "deja de rezar", parte adormecida da mente, 3 pasos), sempre sem promessa de renda garantida.
 
+## Métricas: escolher ângulos pelos números (toda semana, antes de planejar)
+- Ler no Supabase as tabelas `campaigns`, `ad_sets` e `ads` (gasto, conversões; `campaign_areas` liga campanha → área) das campanhas do produto nos últimos 7–14 dias.
+- Ranquear anúncios por conversões e custo por conversão. Os criativos [IA] já subidos têm o nome "[IA] <título>": ligar ao `creatives.title` para saber qual formato/ângulo/gancho venceu.
+- Repetir e expandir os formatos/ângulos vencedores; cortar os que gastaram e não converteram; testar 2–3 públicos/ângulos novos por lote (ex.: idade, situação, objeção diferente).
+- Escrever no `notes` do lote o resumo: "o que venceu, o que perdeu, o que testo agora".
+- NUNCA mexer em rastreamento (GTM, Stape, pixel). Só leitura.
+
 ## Rotina semanal (toda quarta-feira)
 Produtos: **21 Frases Secretas** (espanhol) e **Código Alfa** (**também em espanhol**; campeões numa pasta que a Aline vai separar; quando chegarem, ficam em `criativos/codigo-alfa/campeoes/`).
 Para cada produto, por semana: **mínimo 15, até 25 criativos**, bem diferentes entre si: **corpos diferentes**, ganchos diferentes e formatos variados. **Qualidade vem antes da quantidade**: se não der 25 bons, entregar menos (nunca menos de 15 sem avisar o motivo).
