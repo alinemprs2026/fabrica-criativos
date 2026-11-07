@@ -20,6 +20,13 @@ APIs **sem** mandar cabeçalho de autenticação. Só `SUPABASE_URL` vem como va
   - Avatar do 21 Frases: **"Daniel 21 frases secretas"**.
   - Usar **sempre o Avatar IV** (o intermediário). Não usar o Avatar III (qualidade ruim) nem o V ou superiores (caros demais). Se a API não deixar escolher o IV para esse avatar, parar e avisar a Aline antes de gerar.
 
+## Código Alfa (regras próprias)
+- Espanhol. Oferta: VSL do "millonario secreto" (resumo em `analise/codigo-alfa/VSL.md`). Objetivo do criativo: levar a pessoa a assistir a VSL.
+- O avatar que apresenta a VSL (o "millonario secreto") **nunca aparece** nos criativos.
+- Avatares: usar os do HeyGen com **"depoimento"** no nome (visuais diferentes). Um deles é **homem**, mas vem com voz de mulher: sempre escolher uma **voz masculina em espanhol** para ele (conferir antes de gerar). Pode criar avatares ou imagens novas, se ajudar.
+- "Depoimento" aqui é **formato UGC** (selfie, carro, conversa casual), mas o avatar **não diz que ele mesmo ganhou dinheiro** ("manifesté $8,000"). Ele conta a história/curiosidade em terceira pessoa ("vi un video de un millonario que…", "dicen que…"), reage, provoca, pergunta. Nada de prometer valor de ganho para quem assiste, nem citar universidade/estudo sem prova.
+- Ângulo campeão: o gancho do "$8,000 por accidente" + "video extraño". Variar em volta disso (curiosidade, segredo escondido, "deja de rezar", parte adormecida da mente, 3 pasos), sempre sem promessa de renda garantida.
+
 ## Rotina semanal (toda quarta-feira)
 Produtos: **21 Frases Secretas** (espanhol) e **Código Alfa** (**também em espanhol**; campeões numa pasta que a Aline vai separar; quando chegarem, ficam em `criativos/codigo-alfa/campeoes/`).
 Para cada produto, por semana: **mínimo 15, até 25 criativos**, bem diferentes entre si: **corpos diferentes**, ganchos diferentes e formatos variados. **Qualidade vem antes da quantidade**: se não der 25 bons, entregar menos (nunca menos de 15 sem avisar o motivo).
