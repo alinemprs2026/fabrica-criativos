@@ -44,6 +44,13 @@ Tabelas no Supabase (REST em `$SUPABASE_URL/rest/v1/...`, cabeçalhos de autenti
 - Passou disso: abrir um `factory_requests` 'permissao' com a lista do que quer gerar e a estimativa, e esperar.
 - Anotar em `notes` do lote quantos minutos de HeyGen foram usados.
 
+## ⚠️ VARIAÇÃO DE VERDADE (regra mais importante da Aline)
+Não é para fazer só variação de gancho. Cada lote precisa variar **corpo, gancho e principalmente FORMATO**, sempre a partir do que já deu certo (ver ANALISE.md de cada produto):
+- **No máximo 1/3 do lote** pode ser "mesmo corpo com gancho novo".
+- **Pelo menos 5 formatos diferentes** por lote (ex.: apresentador, UGC selfie/carro, podcast a dois, entrevista de rua, tela dividida com cenas de emoção, pregador/palco, narração com imagens, conversa de WhatsApp, gancho histórico). Priorizar os formatos dos campeões e testar formatos novos próximos deles.
+- **Pelo menos 5 corpos diferentes** (roteiros de miolo distintos: ângulo, mecanismo, prova, objeção, história), cada um podendo ter 2–3 ganchos.
+- Registrar no `notes` do lote a tabela: criativo → formato · corpo · gancho, para provar a variação.
+
 ## Regras de criação
 1. Sempre vídeo, 9:16 (fazer também 4:5 quando pedirem). Legendas grandes com palavra-chave colorida, como os campeões.
 2. **Hook rate é prioridade**: muitos ganchos fortes (0–3s) por corpo. Variar formatos (podcast, entrevista de rua, apresentador, tela dividida com cenas de emoção, gancho histórico, conversa de WhatsApp) e ângulos.
