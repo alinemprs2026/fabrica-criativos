@@ -6,6 +6,11 @@ Os **criativos** (anúncios em vídeo) são em **espanhol** para o produto 21 Fr
 ## Objetivo
 Toda semana: olhar quais anúncios mais vendem, entender por que funcionam e entregar **variações em vídeo** prontas para revisão, com qualidade alta e custo baixo de HeyGen.
 
+## Chaves (importante)
+Na nuvem, as chaves NÃO estão em variáveis de ambiente: o ambiente "fabrica" injeta sozinho os cabeçalhos
+(`X-Api-Key` em api.heygen.com; `Authorization: Bearer` e `apikey` em *.supabase.co). Nos scripts, chame essas
+APIs **sem** mandar cabeçalho de autenticação. Só `SUPABASE_URL` vem como variável. Teste geral: `bash scripts/teste_nuvem.sh`.
+
 ## Onde estão as coisas
 - Supabase (o mesmo do painel `deash-track`): `SUPABASE_URL` e `SUPABASE_SERVICE_ROLE_KEY` no ambiente.
   - Bucket privado `criativos`: `21-frases/campeoes/*.mp4` são os vídeos campeões. Saídas vão em `21-frases/lotes/<AAAA-MM-DD>/`.
