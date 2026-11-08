@@ -16,16 +16,34 @@ BASE = json.load(open(os.path.join(AQUI, "codigo-alfa-lote-1.json")))
 HEYGEN = os.path.join(F.WORK, "codigo-alfa-lote-1", "heygen")
 
 # cortes dos campeões (só cenas de apoio, sem o millonario secreto, sem cientistas/universidades), região "alto" = sem a legenda antiga
-CORTES = {
-    "regalo": ["k2", 23.5, 27.9], "billetera": ["k2", 28.0, 29.9], "rubia": ["k2", 30.0, 32.9],
-    "reloj": ["k2", 33.0, 35.9], "playa": ["k2", 41.0, 42.9], "barba": ["k2", 43.0, 44.9],
-    "joven": ["k2", 45.0, 47.9], "libro": ["k2", 59.0, 60.9], "meditar": ["k2", 70.0, 71.9],
-    "champan": ["k2", 77.0, 78.9], "mar": ["k2", 85.0, 86.9], "silueta": ["k2", 92.0, 95.9],
-    "montana": ["k3", 5.0, 6.9], "redentor": ["k3", 12.0, 15.9], "buda_cueva": ["k3", 16.0, 20.9],
-    "torres": ["k3", 21.0, 26.9], "torres2": ["k3", 27.0, 30.9], "cruz": ["k3", 37.0, 39.9],
-    "monasterio": ["k3", 45.0, 48.9], "estatua": ["k3", 63.0, 66.9], "brindis": ["k3", 78.0, 81.9],
-    "oficina": ["k4", 5.0, 6.9], "tablet": ["k4", 23.0, 24.9], "billete_vuela": ["k4", 59.0, 60.9],
-    "pareja": ["k4", 61.0, 62.9], "multitud": ["k4", 69.0, 72.9], "despertar": ["k1", 59.0, 60.9],
+CORTES = {  # limites conferidos pela troca de cena real de cada campeão
+    "regalo": ["k2", 23.5, 28.02],
+    "billetera": ["k2", 28.18, 30.19],
+    "rubia": ["k2", 30.35, 32.72],
+    "reloj": ["k2", 32.88, 35.79],
+    "playa": ["k2", 40.65, 42.55],
+    "barba": ["k2", 42.71, 45.25],
+    "joven": ["k2", 45.41, 47.49],
+    "libro": ["k2", 59.51, 61.12],
+    "meditar": ["k2", 70.28, 72.15],
+    "champan": ["k2", 76.85, 79.09],
+    "mar": ["k2", 84.65, 86.92],
+    "silueta": ["k2", 91.75, 96.62],
+    "montana": ["k3", 5.15, 6.9],
+    "redentor": ["k3", 11.75, 15.62],
+    "buda_cueva": ["k3", 15.78, 21.12],
+    "torres": ["k3", 21.28, 26.95],
+    "torres2": ["k3", 27.11, 30.59],
+    "cruz": ["k3", 37.01, 40.29],
+    "monasterio": ["k3", 44.71, 48.65],
+    "estatua": ["k3", 62.68, 66.65],
+    "brindis": ["k3", 77.68, 81.5],
+    "oficina": ["k4", 5.38, 7.29],
+    "tablet": ["k4", 23.31, 25.39],
+    "billete_vuela": ["k4", 58.98, 60.75],
+    "pareja": ["k4", 60.91, 62.75],
+    "multitud": ["k4", 69.48, 72.62],
+    "despertar": ["k1", 59.48, 61.02],
 }
 
 CTA_CARD = {"tipo": "cta", "sobre": "VIDEO CORTO", "titulo": "EL VIDEO DEL<br>MILLONARIO", "botao": "MIRA EL VIDEO ↓"}

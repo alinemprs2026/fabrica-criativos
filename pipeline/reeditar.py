@@ -281,7 +281,7 @@ def montar(plano, cr, base, banco):
     os.makedirs(pasta, exist_ok=True)
     cab = F.normalizar(orig, os.path.join(pasta, "cabeca.mp4"), 0, cr["corte"])
     t_corte = F.duracao(cab)
-    cor = F.normalizar(corpo, os.path.join(pasta, "corpo.mp4"))
+    cor = F.normalizar(corpo, os.path.join(pasta, "corpo.mp4"), 0, dur - 0.1)  # sem o quadro preto do fim do render
     lista = os.path.join(pasta, "lista.txt")
     open(lista, "w").write(f"file '{cab}'\nfile '{cor}'\n")
     t_cauda = None
