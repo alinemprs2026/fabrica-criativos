@@ -26,3 +26,11 @@ Nunca subir nada no Facebook por esta rotina.
   notícia absurda + plot twist, CCTV, tela bloqueada, quiz A/B/C, texto + música (mini VSL), cartão de CTA, comentário.
 - `python3 pipeline/roteiro.py <lote.json> --vozes` (vozes) → `python3 pipeline/roteiro.py <lote.json> [ids]` (render) → revisar → `publicar.py`.
 - Cenas dos campeões: conferir os cortes (o campeão alterna cena em cima/embaixo e tem trocas rápidas; olhar a folha de quadros antes).
+
+## Reeditar um lote já publicado (sem HeyGen novo) — usado no Lote 2 em 08/11/2026
+- Plano: `pipeline/lotes/21-frases-lote-2-v2.json` (`corte` = fim do gancho no vídeo atual; `blocos` = corpo novo).
+  Cada bloco `partes` = frase + imagem do banco (`b:<n>` = item n de `criativos/banco/indice.json`); a imagem entra na 1ª palavra da frase.
+- `python3 pipeline/reeditar.py <plano> --vozes` (vozes grátis + durações e ritmo de cada troca) → `python3 pipeline/reeditar.py <plano> [ids]`.
+  Mantém o começo original intacto, monta o corpo (HyperFrames), música baixa (abaixa sob a voz), efeitos nas trocas, -14 LUFS,
+  e gera `revisao/<id>.jpg` (um quadro a cada 2 s). Recusa clipe repetido no mesmo vídeo e evita trechos já usados em outro vídeo.
+- `python3 pipeline/republicar.py <plano> <batch_id> 21-frases/lotes/<data>-L2v2` atualiza as linhas existentes (não cria lote novo; pula < 60 s).

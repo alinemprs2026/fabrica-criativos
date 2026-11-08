@@ -447,8 +447,8 @@ def v_texto(c, cena, p, a):
     c.add("bg", t0, d, style="background:#0d0d0d")
     fr = p["frases"]  # [[t_rel, "texto com <k>destaque</k>", cor_fundo]]
     for k, f in enumerate(fr):
-        a_ = t0 + f[0]
-        b_ = t0 + fr[k + 1][0] if k + 1 < len(fr) else fim
+        a_ = _t(f[0], cena, t0)  # segundos após o início da cena, ou a palavra falada
+        b_ = _t(fr[k + 1][0], cena, fim) if k + 1 < len(fr) else fim
         if len(f) > 2 and f[2]:
             c.add("bg", a_, b_ - a_, style=f"background:{f[2]}")
         txt = f[1].replace("<k>", '<span class="k">').replace("</k>", "</span>")
