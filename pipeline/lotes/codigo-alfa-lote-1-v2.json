@@ -1,0 +1,3199 @@
+{
+ "produto": "codigo-alfa",
+ "titulo": "Código Alfa · Lote 1 (reeditado: mínimo 1 min)",
+ "obs": "Gancho original intacto, corpo e final novos (VSL), fechamento com o avatar já pago. Sem HeyGen novo: só TTS grátis.",
+ "origem": "codigo-alfa/lotes/2026-11-08/codigo-alfa-lote-1-{id}.mp4",
+ "banco": "banco/indice.json",
+ "vozes": {
+  "VC1": "8b6be7eaa5e54afe9fe76e5e65c45f58",
+  "VC2": "6864748553444832a7f7f1cca4f42c9d",
+  "VC3": "269bb70fa0404ae3b9c68a08a8799d60",
+  "VC4": "b6bb83e115464d75927b7bc505c392fd",
+  "lucia": "7e5eebc368ab477a9175b7d2a2c3317e",
+  "hope": "3984081622be433cbeef93040ab9d041",
+  "sara": "689f48196a9a43c4bbbb67c14fdbb4c6",
+  "amelia": "246cdbf530954380a62109f3107fce0d",
+  "diego": "747e5085c2ed4546bd79934c440d8854",
+  "tatiana": "8124d9bfe389414f8f660d82fb9ddde8",
+  "luciaS": "a40ae4101c5b41748cfb7553538f0f66",
+  "daniela": "c593e249943b4c8d8e6d4cadcc04e000",
+  "sofia": "4621efe09dea43a38a2e1e6682b0b768"
+ },
+ "campeoes": {
+  "k1": "video---1794092028331.mp4",
+  "k2": "video---1794092033124.mp4",
+  "k3": "video---1794092042737.mp4",
+  "k4": "video---1794092050748.mp4"
+ },
+ "brolls": {
+  "regalo": [
+   "k2",
+   23.5,
+   27.9,
+   "alto"
+  ],
+  "billetera": [
+   "k2",
+   28.0,
+   29.9,
+   "alto"
+  ],
+  "rubia": [
+   "k2",
+   30.0,
+   32.9,
+   "alto"
+  ],
+  "reloj": [
+   "k2",
+   33.0,
+   35.9,
+   "alto"
+  ],
+  "playa": [
+   "k2",
+   41.0,
+   42.9,
+   "alto"
+  ],
+  "barba": [
+   "k2",
+   43.0,
+   44.9,
+   "alto"
+  ],
+  "joven": [
+   "k2",
+   45.0,
+   47.9,
+   "alto"
+  ],
+  "libro": [
+   "k2",
+   59.0,
+   60.9,
+   "alto"
+  ],
+  "meditar": [
+   "k2",
+   70.0,
+   71.9,
+   "alto"
+  ],
+  "champan": [
+   "k2",
+   77.0,
+   78.9,
+   "alto"
+  ],
+  "mar": [
+   "k2",
+   85.0,
+   86.9,
+   "alto"
+  ],
+  "silueta": [
+   "k2",
+   92.0,
+   95.9,
+   "alto"
+  ],
+  "montana": [
+   "k3",
+   5.0,
+   6.9,
+   "alto"
+  ],
+  "redentor": [
+   "k3",
+   12.0,
+   15.9,
+   "alto"
+  ],
+  "buda_cueva": [
+   "k3",
+   16.0,
+   20.9,
+   "alto"
+  ],
+  "torres": [
+   "k3",
+   21.0,
+   26.9,
+   "alto"
+  ],
+  "torres2": [
+   "k3",
+   27.0,
+   30.9,
+   "alto"
+  ],
+  "cruz": [
+   "k3",
+   37.0,
+   39.9,
+   "alto"
+  ],
+  "monasterio": [
+   "k3",
+   45.0,
+   48.9,
+   "alto"
+  ],
+  "estatua": [
+   "k3",
+   63.0,
+   66.9,
+   "alto"
+  ],
+  "brindis": [
+   "k3",
+   78.0,
+   81.9,
+   "alto"
+  ],
+  "oficina": [
+   "k4",
+   5.0,
+   6.9,
+   "alto"
+  ],
+  "tablet": [
+   "k4",
+   23.0,
+   24.9,
+   "alto"
+  ],
+  "billete_vuela": [
+   "k4",
+   59.0,
+   60.9,
+   "alto"
+  ],
+  "pareja": [
+   "k4",
+   61.0,
+   62.9,
+   "alto"
+  ],
+  "multitud": [
+   "k4",
+   69.0,
+   72.9,
+   "alto"
+  ],
+  "despertar": [
+   "k1",
+   59.0,
+   60.9,
+   "alto"
+  ]
+ },
+ "criativos": [
+  {
+   "id": "01",
+   "formato": "UGC selfie no carro",
+   "angulo": "$8.000 por accidente (3ª pessoa) + video extraño",
+   "corte": 8.93,
+   "cauda": 3.8,
+   "voz": "VC1",
+   "primary_text": "Ella llevaba años pidiendo y nada cambiaba… hasta que vio un video extraño de un millonario. 😳 Míralo antes de que lo quiten 👇",
+   "blocos": [
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Ella no estaba haciendo nada raro.",
+       "b:140"
+      ],
+      [
+       "Llevaba años pidiendo, repitiendo afirmaciones",
+       "b:169"
+      ],
+      [
+       "y visualizando la vida que quería.",
+       "b:136"
+      ],
+      [
+       "Y cada mes, lo mismo: cuentas, estrés, cansancio.",
+       "b:105"
+      ]
+     ],
+     "destaques": [
+      "raro",
+      "afirmaciones",
+      "estrés"
+     ]
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Hasta que una noche vio un video extraño.",
+       "b:5"
+      ],
+      [
+       "Un millonario que nunca muestra la cara",
+       "b:2"
+      ],
+      [
+       "explica por qué a la mayoría no le funciona nada de eso.",
+       "b:108"
+      ]
+     ],
+     "destaques": [
+      "extraño",
+      "funciona"
+     ]
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Dice que hay una parte espiritual de la mente",
+       "b:161"
+      ],
+      [
+       "que los antiguos cristianos, budistas y egipcios cuidaban como un tesoro.",
+       "c:monasterio"
+      ],
+      [
+       "Y que en casi todos nosotros está dormida.",
+       "b:184"
+      ]
+     ],
+     "destaques": [
+      "espiritual",
+      "tesoro",
+      "dormida"
+     ]
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Si esa parte está apagada, puedes rezar o visualizar mil veces,",
+       "b:83"
+      ],
+      [
+       "y es como hablar por un teléfono sin señal.",
+       "b:22"
+      ]
+     ],
+     "destaques": [
+      "sin",
+      "señal"
+     ]
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Él muestra un ritual de siete minutos para despertarla.",
+       "b:138"
+      ],
+      [
+       "Sin cursos, sin meditar horas, sin cambiar de religión.",
+       "b:170"
+      ]
+     ],
+     "destaques": [
+      "siete",
+      "minutos",
+      "religión"
+     ]
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Ella cuenta que lo primero que notó fue calma.",
+       "b:95"
+      ],
+      [
+       "Dejó de perseguir las cosas con desesperación",
+       "b:145"
+      ],
+      [
+       "y empezó a ver oportunidades que antes no veía.",
+       "c:silueta"
+      ]
+     ],
+     "destaques": [
+      "calma",
+      "desesperación",
+      "oportunidades"
+     ]
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "¿Suena raro? Sí. A mí también me sonó raro.",
+       "b:96"
+      ],
+      [
+       "Pero son siete minutos. Si no es para ti, solo pierdes siete minutos.",
+       "b:129"
+      ],
+      [
+       "¿Y si es justo la pieza que te faltaba?",
+       "b:80"
+      ]
+     ],
+     "destaques": [
+      "raro",
+      "siete",
+      "minutos",
+      "pieza"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "pregador no palco (gancho campeão)",
+   "angulo": "Deja de rezar por bendiciones",
+   "corte": 3.71,
+   "cauda": 3.84,
+   "voz": "VC2",
+   "primary_text": "No te digo que dejes a Dios. Te digo que dejes de rogar como si no te escuchara. 🙏 Mira el video antes de que lo quiten 👇",
+   "blocos": [
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Sí, escuchaste bien.",
+       "c:joven"
+      ],
+      [
+       "No te digo que dejes a Dios.",
+       "c:redentor"
+      ],
+      [
+       "Te digo que dejes de rogar como si Él no te escuchara.",
+       "b:156"
+      ]
+     ],
+     "destaques": [
+      "dios",
+      "rogar"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Piénsalo. Cuando ruegas por una bendición,",
+       "b:157"
+      ],
+      [
+       "le estás repitiendo a tu mente lo que te falta.",
+       "b:188"
+      ],
+      [
+       "Y la mente se queda mirando la falta.",
+       "b:152"
+      ]
+     ],
+     "destaques": [
+      "bendición",
+      "falta",
+      "falta"
+     ]
+    },
+    {
+     "texto": "Los antiguos cristianos hacían algo distinto. Primero despertaban algo por dentro, y después pedían.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "LOS ANTIGUOS <k>CRISTIANOS</k>",
+        "#0d0d0d"
+       ],
+       [
+        "primero",
+        "PRIMERO <k>DESPIERTAS</k>",
+        "#101a2e"
+       ],
+       [
+        "después",
+        "DESPUÉS <k>PIDES</k>",
+        "#0d0d0d"
+       ]
+      ]
+     },
+     "voz": "VC2",
+     "destaques": []
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "En un video que está dando vueltas,",
+       "b:140"
+      ],
+      [
+       "un millonario que no muestra la cara explica esa parte olvidada:",
+       "c:libro"
+      ],
+      [
+       "una parte espiritual de la mente que casi nadie usa.",
+       "b:119"
+      ]
+     ],
+     "destaques": [
+      "olvidada",
+      "espiritual"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Él dice que cuando se enciende,",
+       "b:161"
+      ],
+      [
+       "dejas de perseguir y empiezas a recibir con calma.",
+       "c:mar"
+      ],
+      [
+       "Las puertas correctas aparecen, las personas correctas llegan.",
+       "c:pareja"
+      ]
+     ],
+     "destaques": [
+      "enciende",
+      "recibir",
+      "llegan"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "No es una religión nueva. No tienes que dejar tu fe.",
+       "b:97"
+      ],
+      [
+       "Es un ritual corto, de siete minutos, que puedes hacer en casa.",
+       "b:138"
+      ]
+     ],
+     "destaques": [
+      "fe",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Si después de verlo no te hace sentido, no pierdes nada.",
+       "b:124"
+      ],
+      [
+       "Pero si tiene razón, cada día que sigues rogando es un día perdido.",
+       "c:reloj"
+      ]
+     ],
+     "destaques": [
+      "nada",
+      "perdido"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "formato": "UGC selfie no carro",
+   "angulo": "Video que intentaron borrar",
+   "corte": 4.93,
+   "cauda": 4.25,
+   "voz": "lucia",
+   "primary_text": "Dicen que intentaron borrar este video. Un millonario explica la parte de la mente que casi nadie usa. 🤫 Mírelo antes de que lo quiten 👇",
+   "blocos": [
+    {
+     "voz": "lucia",
+     "partes": [
+      [
+       "Y no, no es un video de motivación.",
+       "b:173"
+      ],
+      [
+       "Es un hombre que se volvió millonario y que nunca muestra la cara.",
+       "b:117"
+      ]
+     ],
+     "destaques": [
+      "motivación",
+      "millonario"
+     ]
+    },
+    {
+     "voz": "lucia",
+     "partes": [
+      [
+       "Él cuenta algo que, según dice, la élite conoce hace mucho tiempo",
+       "b:142"
+      ],
+      [
+       "y que fue borrado de las enseñanzas espirituales.",
+       "c:estatua"
+      ]
+     ],
+     "destaques": [
+      "élite",
+      "borrado"
+     ]
+    },
+    {
+     "voz": "lucia",
+     "partes": [
+      [
+       "Por eso usted reza, repite afirmaciones, visualiza…",
+       "b:83"
+      ],
+      [
+       "y siente que todo se queda en el aire.",
+       "b:126"
+      ]
+     ],
+     "destaques": [
+      "afirmaciones",
+      "aire"
+     ]
+    },
+    {
+     "voz": "lucia",
+     "partes": [
+      [
+       "Según él, no es falta de fe ni de esfuerzo.",
+       "b:77"
+      ],
+      [
+       "Es que hay una parte de la mente que está dormida,",
+       "b:184"
+      ],
+      [
+       "y mientras duerme, nada de eso tiene a dónde llegar.",
+       "b:153"
+      ]
+     ],
+     "destaques": [
+      "fe",
+      "dormida",
+      "llegar"
+     ]
+    },
+    {
+     "voz": "lucia",
+     "partes": [
+      [
+       "Él muestra cómo despertarla con tres pasos sencillos.",
+       "b:169"
+      ],
+      [
+       "Sin cursos caros, sin horas de meditación.",
+       "b:170"
+      ],
+      [
+       "Lo primero que cambia es la forma de ver las cosas: con más calma y más claridad.",
+       "b:82"
+      ]
+     ],
+     "destaques": [
+      "tres",
+      "pasos",
+      "meditación",
+      "calma"
+     ]
+    },
+    {
+     "voz": "lucia",
+     "partes": [
+      [
+       "Yo pensé que era otro video más.",
+       "b:96"
+      ],
+      [
+       "Pero lo vi completo, y entendí por qué lo quieren quitar.",
+       "b:121"
+      ]
+     ],
+     "destaques": [
+      "quitar"
+     ]
+    },
+    {
+     "voz": "lucia",
+     "partes": [
+      [
+       "Si usted también siente que hace todo bien y nada cambia,",
+       "b:85"
+      ],
+      [
+       "no lo deje para después.",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "nada",
+      "cambia",
+      "después"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "formato": "UGC selfie à noite",
+   "angulo": "3 de la mañana sin dormir",
+   "corte": 5.11,
+   "cauda": 4.18,
+   "voz": "hope",
+   "primary_text": "Son las 3 de la mañana y no puedo dejar de pensar en lo que dijo este millonario… 🌙 Míralo antes de dormir 👇",
+   "blocos": [
+    {
+     "texto": "Me lo mandaron hace unas horas, con un mensaje que decía: tienes que ver esto.",
+     "visual": {
+      "tipo": "bloqueio",
+      "hora": "3:07",
+      "data": "madrugada",
+      "notifs": [
+       {
+        "de": "Caro",
+        "txt": "Tienes que ver esto 😳 es el video del millonario",
+        "em": "tienes",
+        "quando": "hace 3 h"
+       }
+      ]
+     },
+     "destaques": [
+      "ver",
+      "esto"
+     ],
+     "leg_topo": 900,
+     "voz": "hope"
+    },
+    {
+     "voz": "hope",
+     "partes": [
+      [
+       "Él dice algo que no me deja de dar vueltas:",
+       "b:5"
+      ],
+      [
+       "que la gente buena trabaja más, reza más, se esfuerza más…",
+       "c:oficina"
+      ],
+      [
+       "y aun así se queda con menos.",
+       "b:79"
+      ]
+     ],
+     "destaques": [
+      "vueltas",
+      "esfuerza",
+      "menos"
+     ]
+    },
+    {
+     "voz": "hope",
+     "partes": [
+      [
+       "Y que no es culpa de ellos.",
+       "b:106"
+      ],
+      [
+       "Que hay una parte de la mente, una parte espiritual,",
+       "b:109"
+      ],
+      [
+       "que en casi todos está apagada.",
+       "b:115"
+      ]
+     ],
+     "destaques": [
+      "culpa",
+      "espiritual",
+      "apagada"
+     ]
+    },
+    {
+     "voz": "hope",
+     "partes": [
+      [
+       "Y mientras está apagada, puedes pedir, visualizar y repetir frases,",
+       "b:169"
+      ],
+      [
+       "pero es como sembrar en tierra seca.",
+       "b:87"
+      ]
+     ],
+     "destaques": [
+      "seca"
+     ]
+    },
+    {
+     "voz": "hope",
+     "partes": [
+      [
+       "Lo que él explica es cómo encenderla.",
+       "b:161"
+      ],
+      [
+       "Un ritual de siete minutos, que se hace en silencio, en casa.",
+       "b:138"
+      ]
+     ],
+     "destaques": [
+      "encenderla",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "hope",
+     "partes": [
+      [
+       "Él dice que después de eso dejas de perseguir las cosas,",
+       "b:99"
+      ],
+      [
+       "y empiezas a notar oportunidades que antes pasaban frente a ti.",
+       "c:multitud"
+      ]
+     ],
+     "destaques": [
+      "perseguir",
+      "oportunidades"
+     ]
+    },
+    {
+     "voz": "hope",
+     "partes": [
+      [
+       "Yo sé que suena raro a esta hora.",
+       "b:184"
+      ],
+      [
+       "Pero si este video te apareció de madrugada, no creo que sea casualidad.",
+       "b:2"
+      ],
+      [
+       "Míralo antes de dormir.",
+       "b:153"
+      ]
+     ],
+     "destaques": [
+      "madrugada",
+      "dormir"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "UGC selfie no carro",
+   "angulo": "No es coincidencia",
+   "corte": 5.7,
+   "cauda": 4.13,
+   "voz": "sara",
+   "primary_text": "Si este video te apareció hoy, no es coincidencia. ✨ Un millonario explica por qué tus pedidos no llegan. Míralo 👇",
+   "blocos": [
+    {
+     "voz": "sara",
+     "partes": [
+      [
+       "Llevas mucho tiempo pidiendo una señal.",
+       "b:155"
+      ],
+      [
+       "Rezando, escribiendo lo que quieres, imaginando otra vida.",
+       "b:124"
+      ],
+      [
+       "Y sientes que el universo no te contesta.",
+       "b:58"
+      ]
+     ],
+     "destaques": [
+      "señal",
+      "imaginando",
+      "contesta"
+     ]
+    },
+    {
+     "voz": "sara",
+     "partes": [
+      [
+       "Hace poco vi un video de un millonario que explica por qué.",
+       "b:176"
+      ],
+      [
+       "Dice que el problema no es el universo.",
+       "b:114"
+      ],
+      [
+       "Es que la parte de tu mente que recibe esas señales está dormida.",
+       "b:92"
+      ]
+     ],
+     "destaques": [
+      "millonario",
+      "universo",
+      "dormida"
+     ]
+    },
+    {
+     "texto": "Se lo mandé a mi hermana, y en dos minutos me contestó: esto es justo lo que me pasaba.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Hermana 💛",
+      "foto": "👩",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Mira este video 👀 dura poquito",
+        "em": 0.2,
+        "hora": "18:02",
+        "alt": 150
+       },
+       {
+        "quem": "dele",
+        "txt": "Esto es justo lo que me pasaba 😳",
+        "em": "esto",
+        "hora": "18:04"
+       }
+      ]
+     },
+     "destaques": [
+      "hermana",
+      "justo"
+     ],
+     "leg_topo": 1000,
+     "voz": "sara"
+    },
+    {
+     "voz": "sara",
+     "partes": [
+      [
+       "Él cuenta que los antiguos cristianos, budistas y egipcios cuidaban esa parte.",
+       "c:buda_cueva"
+      ],
+      [
+       "La llamaban una línea directa con lo divino.",
+       "b:80"
+      ]
+     ],
+     "destaques": [
+      "cuidaban",
+      "divino"
+     ]
+    },
+    {
+     "voz": "sara",
+     "partes": [
+      [
+       "Y que se puede despertar con un ritual de siete minutos.",
+       "b:93"
+      ],
+      [
+       "Cuando despierta, dejas de forzar y empiezas a ver las puertas que se abren.",
+       "b:95"
+      ]
+     ],
+     "destaques": [
+      "siete",
+      "minutos",
+      "puertas"
+     ]
+    },
+    {
+     "voz": "sara",
+     "partes": [
+      [
+       "Tal vez pienses: otra cosa más que no va a funcionar.",
+       "b:108"
+      ],
+      [
+       "Por eso no te pido que creas. Te pido que lo veas.",
+       "b:81"
+      ]
+     ],
+     "destaques": [
+      "funcionar",
+      "veas"
+     ]
+    },
+    {
+     "voz": "sara",
+     "partes": [
+      [
+       "Si llegaste hasta aquí, ya sabes que no fue coincidencia.",
+       "b:143"
+      ]
+     ],
+     "destaques": [
+      "coincidencia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "formato": "UGC na cozinha",
+   "angulo": "Deja de rezar por dinero",
+   "corte": 4.57,
+   "cauda": 4.02,
+   "voz": "amelia",
+   "primary_text": "Rezar por dinero es repetirle a su mente lo que le falta. 🙏 Un millonario explica el error que casi todos cometen. Mírelo 👇",
+   "blocos": [
+    {
+     "voz": "amelia",
+     "partes": [
+      [
+       "Cuando usted le pide dinero a Dios todas las noches,",
+       "b:157"
+      ],
+      [
+       "sin querer está repitiendo una sola idea: no tengo, me falta.",
+       "b:188"
+      ],
+      [
+       "Y eso es lo que su mente escucha.",
+       "b:96"
+      ]
+     ],
+     "destaques": [
+      "dinero",
+      "falta",
+      "escucha"
+     ]
+    },
+    {
+     "texto": "Pedir dinero es pensar en lo que falta. Y la mente se queda donde está su atención.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "PEDIR <k>DINERO</k>",
+        "#0d0d0d"
+       ],
+       [
+        "pensar",
+        "= PENSAR EN LO QUE <k>FALTA</k>",
+        "#2a0d0d"
+       ],
+       [
+        "mente",
+        "LA MENTE SE QUEDA <k>AHÍ</k>",
+        "#0d0d0d"
+       ]
+      ]
+     },
+     "voz": "amelia",
+     "destaques": []
+    },
+    {
+     "voz": "amelia",
+     "partes": [
+      [
+       "Lo vi en un video de un millonario que lo explica mejor que nadie.",
+       "b:176"
+      ],
+      [
+       "Él dice que hay una parte espiritual de la mente que está dormida en casi todos.",
+       "b:119"
+      ],
+      [
+       "Y que mientras duerme, rezar por dinero es como hablar en un cuarto cerrado.",
+       "b:106"
+      ]
+     ],
+     "destaques": [
+      "millonario",
+      "espiritual",
+      "cerrado"
+     ]
+    },
+    {
+     "voz": "amelia",
+     "partes": [
+      [
+       "Los antiguos sabían despertarla primero, y recién después agradecer y pedir.",
+       "b:154"
+      ]
+     ],
+     "destaques": [
+      "primero"
+     ]
+    },
+    {
+     "voz": "amelia",
+     "partes": [
+      [
+       "Él enseña cómo hacerlo con un ritual de siete minutos.",
+       "b:113"
+      ],
+      [
+       "En silencio, sin cursos, sin cambiar sus creencias.",
+       "b:136"
+      ]
+     ],
+     "destaques": [
+      "siete",
+      "minutos",
+      "creencias"
+     ]
+    },
+    {
+     "voz": "amelia",
+     "partes": [
+      [
+       "Lo primero que cambia no es su cuenta del banco.",
+       "b:101"
+      ],
+      [
+       "Es usted: más calma, más claridad,",
+       "b:141"
+      ],
+      [
+       "y menos miedo cuando llegan las cuentas.",
+       "b:132"
+      ]
+     ],
+     "destaques": [
+      "banco",
+      "calma",
+      "cuentas"
+     ]
+    },
+    {
+     "voz": "amelia",
+     "partes": [
+      [
+       "Si le suena raro, está bien. A mí también.",
+       "b:124"
+      ],
+      [
+       "Pero son solo siete minutos, y puede cambiar la forma en que usted reza.",
+       "c:barba"
+      ]
+     ],
+     "destaques": [
+      "reza"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "formato": "pregador no palco",
+   "angulo": "Deja de pedirle a Dios",
+   "corte": 4.09,
+   "cauda": 3.84,
+   "voz": "VC2",
+   "primary_text": "Dios no es el problema. Tu fe no es el problema. El problema es desde dónde pides. 🙏 Mira el video 👇",
+   "blocos": [
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Antes de que te enojes, escúchame.",
+       "c:joven"
+      ],
+      [
+       "Dios no es el problema. Tu fe no es el problema.",
+       "c:redentor"
+      ]
+     ],
+     "destaques": [
+      "escúchame",
+      "fe"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "El problema es desde dónde pides.",
+       "b:83"
+      ],
+      [
+       "Si pides desde el miedo, tu oración nace cansada.",
+       "b:152"
+      ],
+      [
+       "Si pides desde la desesperación, la respuesta parece no llegar nunca.",
+       "b:146"
+      ]
+     ],
+     "destaques": [
+      "dónde",
+      "miedo",
+      "desesperación"
+     ]
+    },
+    {
+     "texto": "Hay una antena espiritual dentro de ti. Y en casi todos está desconectada.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "HAY UNA <k>ANTENA</k>",
+        "#0d0d0d"
+       ],
+       [
+        "dentro",
+        "DENTRO DE <k>TI</k>",
+        "#101a2e"
+       ],
+       [
+        "desconectada",
+        "<k>DESCONECTADA</k>",
+        "#2a0d0d"
+       ]
+      ]
+     },
+     "voz": "VC2",
+     "destaques": []
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Un millonario lo explica en un video corto.",
+       "b:25"
+      ],
+      [
+       "Dice que esa parte se puede volver a conectar",
+       "c:torres"
+      ],
+      [
+       "con un ritual de siete minutos, en silencio, en tu casa.",
+       "b:170"
+      ]
+     ],
+     "destaques": [
+      "video",
+      "conectar",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Y cuando se conecta, dejas de mendigar y empiezas a recibir.",
+       "c:regalo"
+      ],
+      [
+       "Las ideas llegan, las puertas se abren, la paz vuelve.",
+       "b:128"
+      ]
+     ],
+     "destaques": [
+      "mendigar",
+      "puertas"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "No tienes que dejar tu iglesia ni tu fe.",
+       "b:156"
+      ],
+      [
+       "Es al revés: tu oración por fin va a tener a dónde llegar.",
+       "b:52"
+      ]
+     ],
+     "destaques": [
+      "fe",
+      "llegar"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Si sientes que llevas años pidiendo, mira esto hoy.",
+       "b:112"
+      ]
+     ],
+     "destaques": [
+      "pidiendo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "narração com imagens (gancho campeão)",
+   "angulo": "Jesús, Tesla y Buda",
+   "corte": 7.51,
+   "voz": "VC3",
+   "primary_text": "Jesús, Tesla y Buda hablaron del mismo secreto con palabras distintas. 🔱 Un millonario lo reunió en un video corto. Míralo 👇",
+   "blocos": [
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Un maestro en Galilea.",
+       "c:redentor"
+      ],
+      [
+       "Un príncipe que dejó todo para meditar.",
+       "c:buda_cueva"
+      ],
+      [
+       "Un inventor obsesionado con la energía.",
+       "c:torres"
+      ]
+     ],
+     "destaques": [
+      "galilea",
+      "meditar",
+      "energía"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Los tres hablaron de lo mismo con palabras diferentes:",
+       "c:libro"
+      ],
+      [
+       "energía, frecuencia, una luz interior.",
+       "b:89"
+      ]
+     ],
+     "destaques": [
+      "mismo",
+      "frecuencia"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Y los tres apuntaban a una parte de nosotros que casi nadie usa.",
+       "b:109"
+      ],
+      [
+       "Una parte espiritual de la mente, que los antiguos llamaban el tercer ojo.",
+       "b:119"
+      ]
+     ],
+     "destaques": [
+      "nadie",
+      "espiritual"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Hoy la mayoría reza, visualiza y repite afirmaciones",
+       "b:83"
+      ],
+      [
+       "con esa parte completamente dormida.",
+       "b:115"
+      ],
+      [
+       "Por eso sienten que nada llega.",
+       "b:53"
+      ]
+     ],
+     "destaques": [
+      "afirmaciones",
+      "dormida",
+      "nada"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Un millonario que prefiere no mostrar su rostro",
+       "b:2"
+      ],
+      [
+       "reunió esas enseñanzas en un video corto,",
+       "b:78"
+      ],
+      [
+       "y muestra un ritual de siete minutos para despertar esa parte.",
+       "c:estatua"
+      ]
+     ],
+     "destaques": [
+      "rostro",
+      "corto",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "No es una religión. No es un curso.",
+       "c:monasterio"
+      ],
+      [
+       "Es algo que, según él, fue sacado de las enseñanzas a propósito.",
+       "b:162"
+      ]
+     ],
+     "destaques": [
+      "curso",
+      "propósito"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Si sientes curiosidad, no lo dejes para mañana.",
+       "b:153"
+      ],
+      [
+       "Dicen que no va a estar disponible por mucho tiempo.",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "curiosidad",
+      "disponible"
+     ]
+    },
+    {
+     "texto": "Toca el botón de abajo y mira el video corto, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "sobre": "VIDEO CORTO",
+      "titulo": "EL VIDEO DEL<br>MILLONARIO",
+      "botao": "MIRA EL VIDEO ↓",
+      "fundo": "b:142"
+     },
+     "destaques": [
+      "botón",
+      "video",
+      "quiten"
+     ],
+     "leg_topo": 900,
+     "voz": "VC3"
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "formato": "pregador no palco",
+   "angulo": "El reino de Dios está dentro de ti",
+   "corte": 7.33,
+   "cauda": 3.84,
+   "voz": "VC2",
+   "primary_text": "\"El reino de Dios está dentro de ti.\" Casi nadie entendió lo que significaba. 🙏 Un millonario lo explica en este video 👇",
+   "blocos": [
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Nos enseñaron a buscar a Dios afuera.",
+       "b:156"
+      ],
+      [
+       "En el cielo, en un templo, en una oración repetida mil veces.",
+       "b:186"
+      ]
+     ],
+     "destaques": [
+      "afuera",
+      "veces"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Pero Jesús dijo dentro.",
+       "b:97"
+      ],
+      [
+       "Y los antiguos cristianos lo tomaban literal:",
+       "c:monasterio"
+      ],
+      [
+       "hay una parte de ti que conecta con lo divino.",
+       "b:80"
+      ]
+     ],
+     "destaques": [
+      "dentro",
+      "literal",
+      "divino"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Los budistas la cuidaban en silencio.",
+       "b:150"
+      ],
+      [
+       "Los egipcios la dibujaban en sus templos.",
+       "b:151"
+      ],
+      [
+       "Todos hablaban de lo mismo.",
+       "b:109"
+      ]
+     ],
+     "destaques": [
+      "silencio",
+      "templos",
+      "mismo"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Un millonario explica en un video por qué esa parte está dormida en casi todos",
+       "b:134"
+      ],
+      [
+       "y por qué las oraciones parecen no llegar.",
+       "b:107"
+      ]
+     ],
+     "destaques": [
+      "dormida",
+      "llegar"
+     ]
+    },
+    {
+     "texto": "No se trata de pedir más. Se trata de despertar lo que ya está dentro.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "NO ES PEDIR <k>MÁS</k>",
+        "#0d0d0d"
+       ],
+       [
+        "despertar",
+        "ES <k>DESPERTAR</k>",
+        "#101a2e"
+       ],
+       [
+        "dentro",
+        "LO QUE YA ESTÁ <k>DENTRO</k>",
+        "#0d0d0d"
+       ]
+      ]
+     },
+     "voz": "VC2",
+     "destaques": []
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Él muestra un ritual de siete minutos para hacerlo, en silencio, en casa.",
+       "c:meditar"
+      ],
+      [
+       "No reemplaza tu fe. La completa.",
+       "b:83"
+      ]
+     ],
+     "destaques": [
+      "siete",
+      "minutos",
+      "completa"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Según él, cuando esa parte despierta vives con más paz,",
+       "c:mar"
+      ],
+      [
+       "y empiezas a ver tu camino con otros ojos.",
+       "b:99"
+      ]
+     ],
+     "destaques": [
+      "paz",
+      "ojos"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Si ese versículo siempre te tocó el corazón, tienes que ver esto.",
+       "b:136"
+      ]
+     ],
+     "destaques": [
+      "corazón"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "formato": "podcast (apresentadora, gancho campeão)",
+   "angulo": "Ley de atracción solo para millonarios",
+   "corte": 5.31,
+   "cauda": 4.05,
+   "voz": "VC4",
+   "primary_text": "La ley de atracción funciona para unos pocos. Un millonario revela la pieza que falta. 🧲 Mira el video corto 👇",
+   "blocos": [
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Y no es porque ellos trabajen más.",
+       "c:oficina"
+      ],
+      [
+       "Ni porque sean más inteligentes, ni porque tengan más suerte.",
+       "b:175"
+      ]
+     ],
+     "destaques": [
+      "más",
+      "suerte"
+     ]
+    },
+    {
+     "texto": "Si buscas por qué no te funciona, vas a encontrar lo de siempre: piensa positivo, visualiza, repite afirmaciones.",
+     "visual": {
+      "tipo": "busca",
+      "consulta": "por qué no me funciona la ley de atracción",
+      "digitar_ate": "vas",
+      "resultados_em": "piensa",
+      "resultados": [
+       [
+        "blog · consejos",
+        "Piensa positivo todos los días",
+        "Cambia tus pensamientos y todo cambiará…"
+       ],
+       [
+        "video · 12 min",
+        "Visualiza tu vida ideal",
+        "Imagina con detalle lo que quieres…"
+       ],
+       [
+        "foro · preguntas",
+        "Lo hice todo y nada cambia",
+        "¿A alguien más le pasa?"
+       ]
+      ]
+     },
+     "destaques": [
+      "siempre",
+      "positivo",
+      "afirmaciones"
+     ],
+     "leg_topo": 1000,
+     "voz": "VC4"
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Pero nadie te dice la pieza que falta.",
+       "b:161"
+      ],
+      [
+       "Un millonario la explica en un video corto:",
+       "b:140"
+      ],
+      [
+       "hay una parte espiritual en el centro de la mente",
+       "c:tablet"
+      ],
+      [
+       "que en la mayoría de las personas está dormida.",
+       "c:multitud"
+      ]
+     ],
+     "destaques": [
+      "pieza",
+      "corto",
+      "espiritual",
+      "dormida"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Con esa parte apagada, visualizar es como mandar una carta sin dirección.",
+       "b:124"
+      ]
+     ],
+     "destaques": [
+      "dirección"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Él muestra tres pasos sencillos y un ritual de siete minutos para despertarla.",
+       "b:138"
+      ]
+     ],
+     "destaques": [
+      "tres",
+      "pasos"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "No necesitas creer en nada nuevo ni dejar tu fe.",
+       "b:154"
+      ],
+      [
+       "Solo siete minutos y la mente abierta.",
+       "b:93"
+      ]
+     ],
+     "destaques": [
+      "nuevo",
+      "abierta"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Lo que cambia es cómo te sientes: sin perseguir, sin forzar, en paz con lo que viene.",
+       "b:110"
+      ]
+     ],
+     "destaques": [
+      "perseguir"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Si eres de \"todos los demás\", este video es para ti.",
+       "b:8"
+      ]
+     ],
+     "destaques": [
+      "demás"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "formato": "conversa de WhatsApp",
+   "angulo": "Amiga mandou o video (suena loco)",
+   "corte": 5.45,
+   "voz": "VC1",
+   "primary_text": "Mi amiga me mandó este video anoche… 😳 Dice que hay una parte de la mente que está dormida. Míralo antes de que lo borren 👇",
+   "blocos": [
+    {
+     "texto": "Sí. Dice que hay una parte de la mente que está dormida, y que por eso rezamos, pedimos, y nada cambia.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Vale 🌸",
+      "foto": "👩",
+      "topo": 200,
+      "msgs": [
+       {
+        "quem": "dele",
+        "txt": "¿Viste el video que te mandé? 😳",
+        "em": 0,
+        "hora": "22:41",
+        "alt": 130
+       },
+       {
+        "quem": "dela",
+        "txt": "¿El del millonario? 🤔",
+        "em": 0,
+        "hora": "22:41",
+        "alt": 130
+       },
+       {
+        "quem": "dele",
+        "txt": "Sí. Dice que hay una parte de la mente que está dormida",
+        "em": "dice",
+        "hora": "22:42",
+        "alt": 170
+       },
+       {
+        "quem": "dele",
+        "txt": "y que por eso rezamos, pedimos y nada cambia 🙏",
+        "em": "rezamos",
+        "hora": "22:42"
+       }
+      ]
+     },
+     "destaques": [
+      "dormida",
+      "rezamos",
+      "nada"
+     ],
+     "leg_topo": 1040,
+     "voz": "VC1"
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Me quedé pensando. Porque es verdad:",
+       "b:140"
+      ],
+      [
+       "llevo años pidiendo lo mismo,",
+       "b:53"
+      ],
+      [
+       "escribiendo afirmaciones en un cuaderno,",
+       "b:169"
+      ],
+      [
+       "y todo sigue igual.",
+       "b:85"
+      ]
+     ],
+     "destaques": [
+      "pensando",
+      "mismo",
+      "afirmaciones",
+      "igual"
+     ]
+    },
+    {
+     "texto": "Le pregunté: ¿y qué dice que hay que hacer? Y me contestó: un ritual de siete minutos para despertar esa parte. Él lo muestra en el video.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Vale 🌸",
+      "foto": "👩",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "¿Y qué dice que hay que hacer? 🤨",
+        "em": 0.2,
+        "hora": "22:43",
+        "alt": 150
+       },
+       {
+        "quem": "dele",
+        "txt": "Un ritual de 7 minutos para despertar esa parte",
+        "em": "un",
+        "hora": "22:44",
+        "alt": 170
+       },
+       {
+        "quem": "dele",
+        "txt": "Él lo muestra en el video 👇",
+        "em": "él",
+        "hora": "22:44"
+       }
+      ]
+     },
+     "destaques": [
+      "siete",
+      "minutos",
+      "despertar"
+     ],
+     "leg_topo": 1040,
+     "voz": "VC1"
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Dice que los antiguos cristianos, budistas y egipcios ya lo hacían.",
+       "c:buda_cueva"
+      ],
+      [
+       "Que cuando esa parte despierta, dejas de perseguir las cosas,",
+       "b:99"
+      ],
+      [
+       "y empiezas a ver oportunidades que antes no veías.",
+       "c:silueta"
+      ]
+     ],
+     "destaques": [
+      "hacían",
+      "perseguir",
+      "oportunidades"
+     ]
+    },
+    {
+     "texto": "Yo le dije: suena loco. Y ella: eso pensé yo. Pero son siete minutos. ¿Qué pierdes?",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Vale 🌸",
+      "foto": "👩",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Suena loco 😅",
+        "em": "suena",
+        "hora": "22:45",
+        "alt": 130
+       },
+       {
+        "quem": "dele",
+        "txt": "Eso pensé yo. Pero son 7 minutos",
+        "em": "eso",
+        "hora": "22:45",
+        "alt": 130
+       },
+       {
+        "quem": "dele",
+        "txt": "¿Qué pierdes? 🤷‍♀️",
+        "em": "qué",
+        "hora": "22:45"
+       }
+      ]
+     },
+     "destaques": [
+      "loco",
+      "siete",
+      "pierdes"
+     ],
+     "leg_topo": 1040,
+     "voz": "VC1"
+    },
+    {
+     "voz": "VC1",
+     "partes": [
+      [
+       "Esa pregunta me ganó.",
+       "b:96"
+      ],
+      [
+       "Lo vi completo esa misma noche.",
+       "b:5"
+      ]
+     ],
+     "destaques": [
+      "ganó",
+      "noche"
+     ]
+    },
+    {
+     "texto": "Si tú también llevas tiempo pidiendo sin respuesta, toca el botón de abajo y mira el video, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "sobre": "VIDEO CORTO",
+      "titulo": "EL VIDEO DEL<br>MILLONARIO",
+      "botao": "MIRA EL VIDEO ↓",
+      "fundo": "b:153"
+     },
+     "destaques": [
+      "botón",
+      "video",
+      "quiten"
+     ],
+     "leg_topo": 900,
+     "voz": "VC1"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "formato": "podcast (apresentador homem)",
+   "angulo": "Ley de atracción sí funciona, solo para quien sabe esto",
+   "corte": 4.98,
+   "cauda": 4.48,
+   "voz": "diego",
+   "primary_text": "La ley de atracción sí funciona… pero solo si sabes esto. 📡 Un millonario explica la pieza que nadie te contó 👇",
+   "blocos": [
+    {
+     "voz": "diego",
+     "partes": [
+      [
+       "Mira, todos conocemos la teoría:",
+       "b:78"
+      ],
+      [
+       "piensa en lo que quieres, siéntelo, visualízalo.",
+       "b:136"
+      ],
+      [
+       "Y la mayoría lo intenta durante años sin ver nada.",
+       "b:125"
+      ]
+     ],
+     "destaques": [
+      "teoría",
+      "visualízalo",
+      "nada"
+     ]
+    },
+    {
+     "texto": "No es falta de motivación. Ni de disciplina.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "NO ES <k>MOTIVACIÓN</k>",
+        "#0d0d0d"
+       ],
+       [
+        "ni",
+        "NI <k>DISCIPLINA</k>",
+        "#2a0d0d"
+       ]
+      ]
+     },
+     "voz": "diego",
+     "destaques": []
+    },
+    {
+     "voz": "diego",
+     "partes": [
+      [
+       "Es como tener una radio buena con la antena desconectada.",
+       "c:torres2"
+      ],
+      [
+       "Puedes subir el volumen todo lo que quieras,",
+       "b:90"
+      ],
+      [
+       "pero la señal no entra.",
+       "b:91"
+      ]
+     ],
+     "destaques": [
+      "antena",
+      "volumen",
+      "señal"
+     ]
+    },
+    {
+     "voz": "diego",
+     "partes": [
+      [
+       "Un millonario lo explica en un video que me dejó pensando.",
+       "b:134"
+      ],
+      [
+       "La antena es una parte espiritual de tu mente,",
+       "b:109"
+      ],
+      [
+       "la misma que cuidaban los antiguos cristianos, budistas y egipcios.",
+       "b:163"
+      ]
+     ],
+     "destaques": [
+      "pensando",
+      "espiritual",
+      "egipcios"
+     ]
+    },
+    {
+     "voz": "diego",
+     "partes": [
+      [
+       "Y casi nadie sabe que está dormida.",
+       "b:184"
+      ],
+      [
+       "Él muestra cómo reconectarla con un ritual de siete minutos.",
+       "b:170"
+      ]
+     ],
+     "destaques": [
+      "dormida",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "diego",
+     "partes": [
+      [
+       "Ojo: no te promete magia.",
+       "c:joven"
+      ],
+      [
+       "Lo que describe es otra forma de vivir: menos perseguir, más recibir, más claridad.",
+       "c:playa"
+      ]
+     ],
+     "destaques": [
+      "magia",
+      "recibir"
+     ]
+    },
+    {
+     "voz": "diego",
+     "partes": [
+      [
+       "Si ya probaste de todo, esta es la pieza que nadie te contó.",
+       "b:161"
+      ]
+     ],
+     "destaques": [
+      "pieza"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "formato": "podcast (apresentadora)",
+   "angulo": "Millonarios tienen encendida una parte",
+   "corte": 6.53,
+   "cauda": 4.05,
+   "voz": "VC4",
+   "primary_text": "Los millonarios no trabajan más duro que tú. Tienen encendida una parte de la mente que casi todos tienen apagada. 💡 Mira 👇",
+   "blocos": [
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Piénsalo.",
+       "b:96"
+      ],
+      [
+       "Hay gente que trabaja de sol a sol y no sale de las deudas.",
+       "b:38"
+      ],
+      [
+       "Y hay gente a la que todo parece llegarle con calma.",
+       "b:141"
+      ]
+     ],
+     "destaques": [
+      "deudas",
+      "calma"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "No es suerte. Y no siempre es esfuerzo.",
+       "b:188"
+      ],
+      [
+       "Según un millonario que lo cuenta en un video,",
+       "b:176"
+      ],
+      [
+       "la diferencia está en una parte espiritual de la mente.",
+       "b:80"
+      ]
+     ],
+     "destaques": [
+      "suerte",
+      "video",
+      "espiritual"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "En ellos está encendida.",
+       "b:161"
+      ],
+      [
+       "En casi todos los demás está apagada desde hace años.",
+       "b:115"
+      ]
+     ],
+     "destaques": [
+      "encendida",
+      "apagada"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Y con esa parte apagada, rezar, visualizar o repetir frases",
+       "b:156"
+      ],
+      [
+       "se siente como empujar una puerta cerrada.",
+       "b:186"
+      ]
+     ],
+     "destaques": [
+      "cerrada"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Él dice que esto lo conocían los antiguos,",
+       "c:estatua"
+      ],
+      [
+       "y que la élite lo guardó para sí misma.",
+       "b:137"
+      ]
+     ],
+     "destaques": [
+      "antiguos",
+      "élite"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Y muestra cómo encenderla con un ritual de siete minutos.",
+       "b:92"
+      ],
+      [
+       "Sin dejar tu trabajo, sin cambiar tus creencias.",
+       "b:168"
+      ]
+     ],
+     "destaques": [
+      "siete",
+      "minutos",
+      "creencias"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "No te va a prometer que mañana seas rico.",
+       "b:102"
+      ],
+      [
+       "Te va a mostrar lo que ellos saben y tú no.",
+       "b:121"
+      ]
+     ],
+     "destaques": [
+      "rico",
+      "saben"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "formato": "gancho histórico (Egipto)",
+   "angulo": "Secreto de los sacerdotes egipcios",
+   "corte": 5.4,
+   "voz": "VC3",
+   "primary_text": "Hace miles de años, en Egipto, los sacerdotes guardaban un secreto sobre una parte de la mente. 𓂀 Hoy un millonario lo explica en un video corto 👇",
+   "blocos": [
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "La escribían en las paredes de los templos.",
+       "b:162"
+      ],
+      [
+       "La protegían con rituales que solo unos pocos podían aprender.",
+       "b:163"
+      ]
+     ],
+     "destaques": [
+      "templos",
+      "aprender"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Siglos después, los monjes cristianos hablaban de lo mismo.",
+       "b:186"
+      ],
+      [
+       "Y los budistas lo enseñaban en silencio.",
+       "b:154"
+      ]
+     ],
+     "destaques": [
+      "cristianos",
+      "budistas"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Una parte espiritual de la mente, una puerta hacia lo divino.",
+       "b:119"
+      ],
+      [
+       "Con el tiempo, ese conocimiento fue quedando fuera de las enseñanzas.",
+       "c:libro"
+      ]
+     ],
+     "destaques": [
+      "espiritual",
+      "enseñanzas"
+     ]
+    },
+    {
+     "texto": "Y lo que quedó fue pedir. Pedir, repetir, esperar.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "Y LO QUE QUEDÓ FUE…",
+        "#0d0d0d"
+       ],
+       [
+        "pedir.",
+        "<k>PEDIR</k>",
+        "#1a0f12"
+       ],
+       [
+        "repetir",
+        "<k>REPETIR</k>",
+        "#0d0d0d"
+       ],
+       [
+        "esperar",
+        "<k>ESPERAR</k>",
+        "#1a0f12"
+       ]
+      ]
+     },
+     "voz": "VC3",
+     "destaques": []
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Por eso hoy tanta gente reza sin sentir respuesta.",
+       "b:107"
+      ],
+      [
+       "Visualiza sin ver cambios.",
+       "b:105"
+      ]
+     ],
+     "destaques": [
+      "respuesta",
+      "cambios"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Un millonario asegura que esa parte se puede despertar",
+       "b:117"
+      ],
+      [
+       "con un ritual corto, de siete minutos, inspirado en esas tradiciones antiguas.",
+       "b:93"
+      ]
+     ],
+     "destaques": [
+      "despertar",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "VC3",
+     "partes": [
+      [
+       "Él lo explica en un video que, dicen, no va a durar mucho en línea.",
+       "b:4"
+      ],
+      [
+       "Lo que los sacerdotes guardaban, hoy lo puedes ver en tu teléfono.",
+       "b:81"
+      ]
+     ],
+     "destaques": [
+      "línea",
+      "teléfono"
+     ]
+    },
+    {
+     "texto": "Toca el botón de abajo y mira el video corto, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "sobre": "VIDEO CORTO",
+      "titulo": "EL VIDEO DEL<br>MILLONARIO",
+      "botao": "MIRA EL VIDEO ↓",
+      "fundo": "b:114"
+     },
+     "destaques": [
+      "botón",
+      "video",
+      "quiten"
+     ],
+     "leg_topo": 900,
+     "voz": "VC3"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "formato": "entrevista de rua (senhora)",
+   "angulo": "Yo pensaba que era mentira",
+   "corte": 7.21,
+   "cauda": 3.88,
+   "voz": "tatiana",
+   "primary_text": "\"Yo pensaba que era mentira.\" Hasta que vio el video de un millonario que explica por qué a casi nadie le funciona. Mírelo 👇",
+   "blocos": [
+    {
+     "voz": "tatiana",
+     "partes": [
+      [
+       "Yo toda mi vida recé, ¿eh?",
+       "b:157"
+      ],
+      [
+       "Pedí por mis hijos, por la casa, por las cuentas.",
+       "b:132"
+      ],
+      [
+       "Y muchas veces sentí que hablaba sola.",
+       "b:126"
+      ]
+     ],
+     "destaques": [
+      "recé",
+      "cuentas",
+      "sola"
+     ]
+    },
+    {
+     "voz": "tatiana",
+     "partes": [
+      [
+       "Cuando mi nieta me mostró ese video, le dije: otro vendehúmo más.",
+       "b:72"
+      ],
+      [
+       "Pero me quedé escuchando.",
+       "b:140"
+      ]
+     ],
+     "destaques": [
+      "vendehúmo",
+      "escuchando"
+     ]
+    },
+    {
+     "voz": "tatiana",
+     "partes": [
+      [
+       "Él explica que hay una parte espiritual de la mente que está dormida.",
+       "b:80"
+      ],
+      [
+       "Que los antiguos la cuidaban, y nosotros la olvidamos.",
+       "c:buda_cueva"
+      ],
+      [
+       "Y que por eso uno pide y pide, y la oración no encuentra camino.",
+       "b:83"
+      ]
+     ],
+     "destaques": [
+      "espiritual",
+      "olvidamos",
+      "camino"
+     ]
+    },
+    {
+     "voz": "tatiana",
+     "partes": [
+      [
+       "No le pide que deje su fe.",
+       "b:97"
+      ],
+      [
+       "Le enseña un ritual de siete minutos para despertar esa parte.",
+       "b:138"
+      ]
+     ],
+     "destaques": [
+      "fe",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "tatiana",
+     "partes": [
+      [
+       "Lo que más me gustó es que no promete milagros de un día para otro.",
+       "b:124"
+      ],
+      [
+       "Habla de calma, de claridad, de dejar de vivir con miedo.",
+       "b:136"
+      ]
+     ],
+     "destaques": [
+      "milagros",
+      "claridad"
+     ]
+    },
+    {
+     "voz": "tatiana",
+     "partes": [
+      [
+       "Yo ya no soy joven, y no tengo tiempo para perder.",
+       "b:125"
+      ],
+      [
+       "Por eso le digo: mírelo usted también.",
+       "b:173"
+      ],
+      [
+       "Si es mentira, perdió siete minutos. Si no lo es…",
+       "b:187"
+      ]
+     ],
+     "destaques": [
+      "perder",
+      "también"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "formato": "UGC avó em casa",
+   "angulo": "72 años y nadie me lo explicó",
+   "corte": 4.68,
+   "cauda": 4.51,
+   "voz": "luciaS",
+   "primary_text": "Tengo 72 años y nadie me había explicado esto nunca. 🙏 Un millonario cuenta por qué tantas oraciones no llegan. Míralo 👇",
+   "blocos": [
+    {
+     "voz": "luciaS",
+     "partes": [
+      [
+       "Recé toda mi vida, cada noche, con todo mi corazón.",
+       "b:157"
+      ],
+      [
+       "Y siempre pensé que si no llegaba la respuesta, era porque no lo merecía.",
+       "b:125"
+      ]
+     ],
+     "destaques": [
+      "corazón",
+      "merecía"
+     ]
+    },
+    {
+     "voz": "luciaS",
+     "partes": [
+      [
+       "Hasta que vi un video de un millonario que me hizo llorar.",
+       "b:183"
+      ],
+      [
+       "Dice que no es que Dios no escuche.",
+       "c:barba"
+      ],
+      [
+       "Es que hay una parte de nosotros, una parte espiritual, que se queda dormida.",
+       "b:115"
+      ]
+     ],
+     "destaques": [
+      "millonario",
+      "escuche",
+      "espiritual"
+     ]
+    },
+    {
+     "voz": "luciaS",
+     "partes": [
+      [
+       "Y que nadie nos enseñó a despertarla.",
+       "b:97"
+      ]
+     ],
+     "destaques": [
+      "despertarla"
+     ]
+    },
+    {
+     "voz": "luciaS",
+     "partes": [
+      [
+       "Los antiguos sí lo sabían: los cristianos de antes, los monjes, los egipcios.",
+       "c:monasterio"
+      ],
+      [
+       "Lo hacían antes de rezar, como quien enciende una luz.",
+       "b:161"
+      ]
+     ],
+     "destaques": [
+      "egipcios",
+      "enciende"
+     ]
+    },
+    {
+     "voz": "luciaS",
+     "partes": [
+      [
+       "Él muestra cómo hacerlo con un ritual de siete minutos.",
+       "b:138"
+      ],
+      [
+       "Algo simple, que hasta yo pude entender.",
+       "b:8"
+      ]
+     ],
+     "destaques": [
+      "siete",
+      "minutos",
+      "entender"
+     ]
+    },
+    {
+     "voz": "luciaS",
+     "partes": [
+      [
+       "Si yo lo hubiera sabido a los treinta, cuántas noches me habría ahorrado.",
+       "b:106"
+      ],
+      [
+       "Por eso te lo digo a ti, que todavía tienes tiempo.",
+       "b:95"
+      ]
+     ],
+     "destaques": [
+      "ahorrado",
+      "tiempo"
+     ]
+    },
+    {
+     "voz": "luciaS",
+     "partes": [
+      [
+       "No lo dejes para después.",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "después"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "formato": "título de impacto + cena de emoção",
+   "angulo": "¿Rezas y nadie te escucha?",
+   "corte": 3.64,
+   "cauda": 4.05,
+   "voz": "VC4",
+   "primary_text": "¿Rezas todas las noches y sientes que nadie te escucha? 🙏 Un millonario explica por qué tu oración no llega. Míralo 👇",
+   "blocos": [
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Te entiendo.",
+       "b:16"
+      ],
+      [
+       "Das las gracias, pides por los tuyos, pides una salida…",
+       "b:157"
+      ],
+      [
+       "y te acuestas con la misma angustia de siempre.",
+       "b:184"
+      ]
+     ],
+     "destaques": [
+      "entiendo",
+      "salida",
+      "angustia"
+     ]
+    },
+    {
+     "texto": "Y un día terminas buscando en internet por qué tus oraciones no tienen respuesta.",
+     "visual": {
+      "tipo": "busca",
+      "consulta": "por qué mis oraciones no tienen respuesta",
+      "digitar_ate": "por",
+      "resultados_em": "respuesta",
+      "resultados": [
+       [
+        "foro · preguntas",
+        "Rezo todos los días y nada cambia",
+        "¿Alguien más se siente así?"
+       ],
+       [
+        "blog · fe",
+        "Tal vez no es el momento",
+        "Ten paciencia y sigue pidiendo…"
+       ]
+      ]
+     },
+     "destaques": [
+      "internet",
+      "respuesta"
+     ],
+     "leg_topo": 1000,
+     "voz": "VC4"
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Un millonario lo explica distinto en un video corto.",
+       "b:25"
+      ],
+      [
+       "Dice que el problema no es tu fe.",
+       "c:redentor"
+      ],
+      [
+       "Es que la parte de tu mente que conecta con lo divino está dormida.",
+       "b:92"
+      ]
+     ],
+     "destaques": [
+      "distinto",
+      "fe",
+      "divino"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Es como llamar a alguien con el teléfono sin señal.",
+       "b:22"
+      ],
+      [
+       "Tú hablas, pero la llamada no sale.",
+       "b:2"
+      ]
+     ],
+     "destaques": [
+      "señal",
+      "sale"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Los antiguos cristianos, budistas y egipcios despertaban esa parte antes de orar.",
+       "c:buda_cueva"
+      ],
+      [
+       "Él muestra cómo hacerlo hoy, con un ritual de siete minutos.",
+       "c:meditar"
+      ]
+     ],
+     "destaques": [
+      "antes",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Dice que cuando despierta, la oración se siente distinta:",
+       "b:136"
+      ],
+      [
+       "con paz, con certeza, sin rogar.",
+       "b:52"
+      ]
+     ],
+     "destaques": [
+      "distinta",
+      "rogar"
+     ]
+    },
+    {
+     "voz": "VC4",
+     "partes": [
+      [
+       "Si esta noche vas a volver a rezar, primero mira este video.",
+       "b:115"
+      ]
+     ],
+     "destaques": [
+      "video"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "formato": "título de impacto + cena religiosa",
+   "angulo": "Esto no te lo enseñaron en la iglesia",
+   "corte": 3.7,
+   "cauda": 3.84,
+   "voz": "VC2",
+   "primary_text": "Esto no te lo enseñaron en la iglesia… y no es culpa de nadie. ✝️ Un millonario explica la pieza que se perdió. Mira el video 👇",
+   "blocos": [
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Durante siglos, una parte de la enseñanza fue quedando afuera.",
+       "c:libro"
+      ],
+      [
+       "No por maldad. Simplemente se perdió.",
+       "c:monasterio"
+      ]
+     ],
+     "destaques": [
+      "afuera",
+      "perdió"
+     ]
+    },
+    {
+     "texto": "Los antiguos cristianos sabían que antes de pedir, había que despertar algo por dentro.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "LOS ANTIGUOS SABÍAN…",
+        "#0d0d0d"
+       ],
+       [
+        "antes",
+        "ANTES DE <k>PEDIR</k>",
+        "#101a2e"
+       ],
+       [
+        "despertar",
+        "HAY QUE <k>DESPERTAR</k>",
+        "#0d0d0d"
+       ]
+      ]
+     },
+     "voz": "VC2",
+     "destaques": []
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Una parte espiritual de la mente.",
+       "b:119"
+      ],
+      [
+       "La misma que los budistas cuidaban en silencio",
+       "b:76"
+      ],
+      [
+       "y que los egipcios dibujaban en sus templos.",
+       "b:151"
+      ]
+     ],
+     "destaques": [
+      "espiritual",
+      "silencio",
+      "templos"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Hoy casi todos rezamos con esa parte dormida.",
+       "b:156"
+      ],
+      [
+       "Por eso tantas oraciones se sienten vacías.",
+       "b:146"
+      ]
+     ],
+     "destaques": [
+      "dormida",
+      "vacías"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Un millonario lo explica en un video que está circulando.",
+       "b:176"
+      ],
+      [
+       "Y muestra cómo despertarla con un ritual de siete minutos.",
+       "b:170"
+      ]
+     ],
+     "destaques": [
+      "circulando",
+      "siete",
+      "minutos"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "No va contra tu iglesia. No te pide dejar nada.",
+       "c:cruz"
+      ],
+      [
+       "Te devuelve la pieza que faltaba.",
+       "b:80"
+      ]
+     ],
+     "destaques": [
+      "nada",
+      "pieza"
+     ]
+    },
+    {
+     "voz": "VC2",
+     "partes": [
+      [
+       "Cuando esa parte despierta, rezar deja de ser rogar.",
+       "b:157"
+      ],
+      [
+       "Se vuelve una conversación.",
+       "b:128"
+      ],
+      [
+       "Míralo antes de que lo quiten.",
+       "b:81"
+      ]
+     ],
+     "destaques": [
+      "rogar",
+      "conversación",
+      "quiten"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "formato": "UGC na praia",
+   "angulo": "Ritual de 7 minutos que no quieren que conozcas",
+   "corte": 5.31,
+   "cauda": 4.4,
+   "voz": "daniela",
+   "primary_text": "¿Sabías que hay un ritual de 7 minutos que los millonarios no quieren que conozcas? 🤫 Míralo mientras sigue disponible 👇",
+   "blocos": [
+    {
+     "voz": "daniela",
+     "partes": [
+      [
+       "Yo tampoco lo sabía.",
+       "b:122"
+      ],
+      [
+       "Lo vi en un video de un millonario que decidió contarlo todo.",
+       "b:134"
+      ]
+     ],
+     "destaques": [
+      "sabía",
+      "contarlo"
+     ]
+    },
+    {
+     "voz": "daniela",
+     "partes": [
+      [
+       "Él dice que la mayoría intenta atraer abundancia de la forma equivocada:",
+       "c:billete_vuela"
+      ],
+      [
+       "pidiendo, visualizando, repitiendo frases frente al espejo.",
+       "b:7"
+      ]
+     ],
+     "destaques": [
+      "abundancia",
+      "espejo"
+     ]
+    },
+    {
+     "voz": "daniela",
+     "partes": [
+      [
+       "Y que nada de eso funciona si una parte de tu mente está dormida.",
+       "b:58"
+      ],
+      [
+       "Una parte espiritual que los antiguos llamaban la conexión con lo divino.",
+       "b:114"
+      ]
+     ],
+     "destaques": [
+      "dormida",
+      "espiritual"
+     ]
+    },
+    {
+     "voz": "daniela",
+     "partes": [
+      [
+       "El ritual es para despertarla.",
+       "b:89"
+      ],
+      [
+       "Siete minutos. En silencio. Desde tu casa.",
+       "b:113"
+      ]
+     ],
+     "destaques": [
+      "despertarla",
+      "silencio"
+     ]
+    },
+    {
+     "voz": "daniela",
+     "partes": [
+      [
+       "¿Por qué no quieren que lo conozcas?",
+       "b:171"
+      ],
+      [
+       "Porque si todos lo supieran, dejaría de ser una ventaja.",
+       "b:142"
+      ]
+     ],
+     "destaques": [
+      "conozcas",
+      "ventaja"
+     ]
+    },
+    {
+     "voz": "daniela",
+     "partes": [
+      [
+       "Él cuenta que lo primero que cambia es esa sensación de estar siempre corriendo detrás de todo.",
+       "b:99"
+      ],
+      [
+       "Dejas de perseguir. Empiezas a atraer.",
+       "c:silueta"
+      ]
+     ],
+     "destaques": [
+      "corriendo",
+      "perseguir"
+     ]
+    },
+    {
+     "voz": "daniela",
+     "partes": [
+      [
+       "Míralo hoy, mientras sigue disponible.",
+       "b:178"
+      ]
+     ],
+     "destaques": [
+      "disponible"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "formato": "UGC na piscina",
+   "angulo": "Suena loco, escúchame hasta el final",
+   "corte": 4.09,
+   "cauda": 4.18,
+   "voz": "sofia",
+   "primary_text": "Suena loco, pero escúchame hasta el final. 👀 Un millonario cuenta que todo empezó al despertar una parte de su mente 👇",
+   "blocos": [
+    {
+     "voz": "sofia",
+     "partes": [
+      [
+       "Hay un millonario que nunca muestra la cara.",
+       "b:88"
+      ],
+      [
+       "Y en un video cuenta de dónde salió todo lo que tiene.",
+       "b:104"
+      ],
+      [
+       "Dice que no fue por trabajar más duro, ni por suerte.",
+       "b:77"
+      ]
+     ],
+     "destaques": [
+      "cara",
+      "tiene",
+      "duro"
+     ]
+    },
+    {
+     "texto": "Fue por activar una parte de su mente que estaba dormida.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "NO FUE <k>SUERTE</k>",
+        "#0d0d0d"
+       ],
+       [
+        "activar",
+        "FUE <k>ACTIVAR</k>",
+        "#101a2e"
+       ],
+       [
+        "dormida",
+        "ALGO <k>DORMIDO</k>",
+        "#0d0d0d"
+       ]
+      ]
+     },
+     "voz": "sofia",
+     "destaques": []
+    },
+    {
+     "voz": "sofia",
+     "partes": [
+      [
+       "Una parte espiritual que casi todos tenemos apagada.",
+       "b:109"
+      ],
+      [
+       "Por eso rezamos, pedimos, visualizamos…",
+       "c:barba"
+      ],
+      [
+       "y seguimos en el mismo lugar.",
+       "b:152"
+      ]
+     ],
+     "destaques": [
+      "espiritual",
+      "visualizamos",
+      "lugar"
+     ]
+    },
+    {
+     "voz": "sofia",
+     "partes": [
+      [
+       "Él dice que los antiguos lo sabían.",
+       "b:163"
+      ],
+      [
+       "Que los cristianos, los budistas y los egipcios tenían formas de despertarla.",
+       "b:150"
+      ]
+     ],
+     "destaques": [
+      "sabían",
+      "despertarla"
+     ]
+    },
+    {
+     "voz": "sofia",
+     "partes": [
+      [
+       "Y que hoy se puede hacer con tres pasos sencillos y un ritual de siete minutos.",
+       "b:112"
+      ]
+     ],
+     "destaques": [
+      "tres",
+      "pasos"
+     ]
+    },
+    {
+     "voz": "sofia",
+     "partes": [
+      [
+       "Ya sé: suena loco. Te lo dije al principio.",
+       "b:123"
+      ],
+      [
+       "Pero piensa: ¿cuánto tiempo llevas haciendo lo mismo, esperando algo distinto?",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "loco",
+      "distinto"
+     ]
+    },
+    {
+     "voz": "sofia",
+     "partes": [
+      [
+       "Siete minutos no son nada.",
+       "c:reloj"
+      ],
+      [
+       "Míralo hasta el final, como te pedí.",
+       "b:72"
+      ]
+     ],
+     "destaques": [
+      "nada",
+      "final"
+     ]
+    }
+   ]
+  }
+ ]
+}

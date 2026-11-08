@@ -24,7 +24,7 @@ import fabrica as F
 import cenas as C
 
 REGIOES = {"topo": "crop=iw:ih*0.43:0:0", "baixo": "crop=iw:ih*0.45:0:ih*0.53",
-           "cheio": "null", "zoom": "crop=iw*0.55:ih*0.40:iw*0.22:0"}
+           "cheio": "null", "alto": "crop=iw:ih*0.58:0:0", "zoom": "crop=iw*0.55:ih*0.40:iw*0.22:0"}
 
 
 def base_de(caminho):

@@ -11,6 +11,7 @@ Plano (JSON):
   banco:   "banco/indice.json"   (clipes 1080x1920 sem áudio; "b:<n>" = n-ésimo item do índice)
   campeoes + brolls: iguais ao roteiro.py ("c:<nome>")
   criativos[]: {id, corte (segundos: fim do gancho no vídeo atual), primary_text?, blocos[]}
+  cauda?: segundos finais do vídeo atual (CTA com avatar já pago) emendados intactos no fim
      bloco: {"voz": "daniel", "partes": [["frase", "b:16"], ["frase", "c:pareja_flor"], ...], "destaques": [...]}
             -> cada frase ganha UMA imagem que entra no início dela (troca a cada 1,5–3 s)
          ou {"voz": "daniel", "texto": "...", "visual": {...tela HTML de formatos/cenas.py...}, "destaques": [...]}
@@ -283,11 +284,17 @@ def montar(plano, cr, base, banco):
     cor = F.normalizar(corpo, os.path.join(pasta, "corpo.mp4"))
     lista = os.path.join(pasta, "lista.txt")
     open(lista, "w").write(f"file '{cab}'\nfile '{cor}'\n")
+    t_cauda = None
+    if cr.get("cauda"):  # fechamento original (CTA com avatar já pago) emendado no fim, intacto
+        d_orig = F.duracao(orig)
+        cau = F.normalizar(orig, os.path.join(pasta, "cauda.mp4"), d_orig - cr["cauda"], d_orig)
+        t_cauda = t_corte + F.duracao(cor)
+        open(lista, "a").write(f"file '{cau}'\n")
     junto = os.path.join(pasta, "junto.mp4")
     ff(["-f", "concat", "-safe", "0", "-i", lista, "-c", "copy", junto])
     os.makedirs(os.path.join(base, "final"), exist_ok=True)
     saida = os.path.join(base, "final", f"{cr['id']}.mp4")
-    trocas = [(t_corte + a, k) for a, k in trocas]
+    trocas = [(t_corte + a, k) for a, k in trocas] + ([(t_cauda, "whoosh")] if t_cauda else [])
     json.dump({"corte": t_corte, "trocas": trocas}, open(os.path.join(pasta, "tempos.json"), "w"))
     mixar(junto, saida, t_corte, trocas, base)
     folha(saida, os.path.join(base, "revisao", f"{cr['id']}.jpg"))
