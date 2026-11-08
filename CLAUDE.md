@@ -64,6 +64,7 @@ Não é para fazer só variação de gancho. Cada lote precisa variar **corpo, g
 3. **Economia de HeyGen**: reaproveitar áudio e imagem dos campeões para criar corpos novos; usar HeyGen só para ganchos novos e trechos curtos. Antes de gastar crédito, listar o que será gerado.
 4. Copy direta, provocativa e com urgência, **mas**: nada de números/"estudos"/"cientistas" inventados, nada de avatar fingindo ser cliente real, nada de garantir resultado.
 5. Entregar só os melhores: revisar cada vídeo (snapshot) antes de publicar no lote.
+6. **Duração mínima de 1 minuto** (60 s) para todo criativo, salvo pedido dela. Em 08/11/2026 ela reprovou o 21 Frases Lote 2 por estar com ~30 s e qualidade ruim: corpo completo (dor, mecanismo, prova, objeção, CTA), não só gancho + chamada.
 
 ## Regras do Facebook (segurança da conta)
 - Conta 04 (`act_1082802954199978`) para os dois produtos. Modelo de subida = só campanhas **ativas** de teste (CBO, conjuntos cjN com até 3 criativos CRn). A subida é feita pelo painel, nunca pela fábrica.
