@@ -58,6 +58,13 @@ Não é para fazer só variação de gancho. Cada lote precisa variar **corpo, g
 - **Pelo menos 5 corpos diferentes** (roteiros de miolo distintos: ângulo, mecanismo, prova, objeção, história), cada um podendo ter 2–3 ganchos.
 - Registrar no `notes` do lote a tabela: criativo → formato · corpo · gancho, para provar a variação.
 
+## Prioridades da Aline (08/11/2026, valem acima de tudo)
+1. **A COPY é o mais importante.** O objetivo é levar a pessoa à VSL para ela comprar. Se o roteiro não convence, o vídeo não serve, por mais bonito que esteja. Mínimo de 1 minuto.
+2. **Nunca usar avatar idoso** (senhora, avó): atrai o público errado.
+3. **Não misturar nichos:** nada de cenas de casal/celular/relacionamento no Código Alfa, nem cenas espirituais no 21 Frases. Só imagem que faça sentido com a frase.
+4. **Sempre revisar enquadramento e sincronia** de cada corte: a imagem tem de fazer sentido e bater com o que está sendo dito naquele momento. Rosto cortado, nuca, tela vazia ou imagem sem relação = trocar.
+5. **HeyGen quase sem saldo (US$ 2 em 08/11):** não gerar nada no HeyGen sem ela autorizar. Reaproveitar clipes pagos e TTS grátis.
+
 ## Regras de criação
 1. Sempre vídeo, 9:16 (fazer também 4:5 quando pedirem). Legendas grandes com palavra-chave colorida, como os campeões.
 2. **Hook rate é prioridade**: muitos ganchos fortes (0–3s) por corpo. Variar formatos (podcast, entrevista de rua, apresentador, tela dividida com cenas de emoção, gancho histórico, conversa de WhatsApp) e ângulos.
