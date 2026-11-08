@@ -1,0 +1,882 @@
+{
+ "produto": "codigo-alfa",
+ "titulo": "Código Alfa · Lote 1",
+ "campeoes": {
+  "k1": "video---1794092028331.mp4",
+  "k2": "video---1794092033124.mp4",
+  "k3": "video---1794092042737.mp4",
+  "k4": "video---1794092050748.mp4"
+ },
+ "vozes": {
+  "VC1": "8b6be7eaa5e54afe9fe76e5e65c45f58",
+  "VC2": "6864748553444832a7f7f1cca4f42c9d",
+  "VC3": "269bb70fa0404ae3b9c68a08a8799d60",
+  "VC4": "b6bb83e115464d75927b7bc505c392fd",
+  "lucia": "7e5eebc368ab477a9175b7d2a2c3317e",
+  "hope": "3984081622be433cbeef93040ab9d041",
+  "sara": "689f48196a9a43c4bbbb67c14fdbb4c6",
+  "amelia": "246cdbf530954380a62109f3107fce0d",
+  "diego": "747e5085c2ed4546bd79934c440d8854",
+  "tatiana": "8124d9bfe389414f8f660d82fb9ddde8",
+  "luciaS": "a40ae4101c5b41748cfb7553538f0f66",
+  "daniela": "c593e249943b4c8d8e6d4cadcc04e000",
+  "sofia": "4621efe09dea43a38a2e1e6682b0b768"
+ },
+ "vozes_obs": "VC1..VC4 = vozes clonadas dos 4 campeões. As outras são vozes do HeyGen iguais às dos clipes de Avatar IV (conferidas por comparação de espectro). Homens (pregador, podcast) com voz MASCULINA.",
+ "clipes_obs": "Clipes Avatar IV pagos em 07/11 (títulos 'fabrica CAxx_gancho.mp4' e 'fabrica cta_*.mp4'). gerar_avatares.py baixa da conta, não gera de novo.",
+ "clipes": {
+  "CA01_gancho": "Una mujer contó que manifestó 8 mil dólares por accidente en un solo fin de semana, y cuando vi el video que ella vio, entendí por qué.",
+  "CA03_gancho": "Dicen que hay un video que intentaron borrar de internet, y ayer por fin lo encontré.",
+  "CA04_gancho": "Son las tres de la mañana y no puedo dormir, por algo que dijo un millonario en un video.",
+  "CA05_gancho": "Si este video te apareció hoy, no es coincidencia. Quédate 30 segundos.",
+  "CA06_gancho": "¡Deja de rezar por dinero! ¡En serio! ¡Ese es justo el error!",
+  "CA07_gancho": "Deja de pedirle a Dios que te mande dinero. Pedir es el problema.",
+  "CA09_gancho": "Jesús lo dijo hace 2.000 años: el reino de Dios está dentro de ti. Y casi nadie entendió lo que significaba.",
+  "CA12_gancho": "La ley de atracción sí funciona, pero solo para los que saben esto.",
+  "CA13_gancho": "Los millonarios no trabajan más duro que tú. Tienen encendida una parte de la mente que tú tienes apagada.",
+  "CA15_gancho": "Mire, yo pensaba que eso era mentira, hasta que vi el video de un millonario que explica por qué a casi nadie le funciona.",
+  "CA16_gancho": "Tengo 72 años, y nadie me había explicado esto nunca.",
+  "CA19_gancho": "¿Sabías que hay un ritual de siete minutos que los millonarios no quieren que conozcas?",
+  "CA20_gancho": "Lo que te voy a contar suena loco, pero escúchame hasta el final.",
+  "cta_mira": "Toca el botón de abajo y mira el video, antes de que lo quiten.",
+  "cta_mire": "Toca el botón de abajo y mire el video, antes de que lo quiten."
+ },
+ "cta_texto": "Toca el botón de abajo y mira el video corto, antes de que lo quiten.",
+ "broll": {
+  "C1": [
+   [
+    "k3",
+    1.63,
+    4.57
+   ],
+   [
+    "k1",
+    31.43,
+    32.63
+   ],
+   [
+    "k1",
+    32.83,
+    35.1
+   ],
+   [
+    "k4",
+    39.67,
+    40.93
+   ],
+   [
+    "k4",
+    37.4,
+    38.4
+   ],
+   [
+    "k3",
+    15.8,
+    21.1
+   ],
+   [
+    "k1",
+    10.23,
+    11.27
+   ],
+   [
+    "k2",
+    16.6,
+    17.93
+   ],
+   [
+    "k4",
+    50.9,
+    53.33
+   ],
+   [
+    "k1",
+    58.2,
+    59.3
+   ]
+  ],
+  "C2": [
+   [
+    "k2",
+    42.73,
+    45.23
+   ],
+   [
+    "k2",
+    45.43,
+    47.47
+   ],
+   [
+    "k3",
+    37.03,
+    40.27
+   ],
+   [
+    "k2",
+    16.6,
+    17.93
+   ],
+   [
+    "k4",
+    37.4,
+    38.4
+   ],
+   [
+    "k3",
+    56.07,
+    62.5
+   ],
+   [
+    "k2",
+    70.3,
+    72.13
+   ],
+   [
+    "k4",
+    50.9,
+    53.33
+   ],
+   [
+    "k2",
+    91.77,
+    96.6
+   ]
+  ],
+  "C3": [
+   [
+    "k3",
+    11.77,
+    15.6
+   ],
+   [
+    "k3",
+    15.8,
+    21.1
+   ],
+   [
+    "k3",
+    21.3,
+    26.93
+   ],
+   [
+    "k3",
+    27.13,
+    30.57
+   ],
+   [
+    "k3",
+    44.73,
+    48.63
+   ],
+   [
+    "k3",
+    56.07,
+    62.5
+   ],
+   [
+    "k3",
+    62.7,
+    66.63
+   ],
+   [
+    "k3",
+    93.07,
+    98.83
+   ],
+   [
+    "k3",
+    1.63,
+    4.57
+   ]
+  ],
+  "C4": [
+   [
+    "k4",
+    1.7,
+    3.37
+   ],
+   [
+    "k4",
+    5.4,
+    7.27
+   ],
+   [
+    "k4",
+    23.33,
+    25.37
+   ],
+   [
+    "k4",
+    15.17,
+    19.83
+   ],
+   [
+    "k1",
+    43.83,
+    45.63
+   ],
+   [
+    "k2",
+    28.2,
+    30.17
+   ],
+   [
+    "k4",
+    64.97,
+    69.3
+   ],
+   [
+    "k4",
+    50.9,
+    53.33
+   ],
+   [
+    "k2",
+    32.9,
+    35.77
+   ]
+  ],
+  "C5": [
+   [
+    "k1",
+    10.23,
+    11.27
+   ],
+   [
+    "k2",
+    45.43,
+    47.47
+   ],
+   [
+    "k2",
+    32.9,
+    35.77
+   ],
+   [
+    "k1",
+    43.83,
+    45.63
+   ],
+   [
+    "k2",
+    30.37,
+    32.7
+   ],
+   [
+    "k4",
+    60.93,
+    62.73
+   ],
+   [
+    "k1",
+    58.2,
+    59.3
+   ],
+   [
+    "k2",
+    84.67,
+    86.9
+   ],
+   [
+    "k2",
+    91.77,
+    96.6
+   ]
+  ]
+ },
+ "corpos": {
+  "C1": {
+   "nome": "Parte espiritual dormida + ritual de 7 min",
+   "broll": "C1",
+   "selo": "La parte dormida",
+   "destaques": [
+    "espiritual",
+    "dormida",
+    "abundancia",
+    "egipcios",
+    "divino",
+    "extraño",
+    "siete"
+   ],
+   "texto": "Hay una parte espiritual en tu mente que casi nadie usa. Cuando está dormida, la abundancia no te encuentra, por más que reces o trabajes. Los antiguos cristianos, budistas y egipcios la veneraban. La llamaban una línea directa con lo divino. En un video extraño, un millonario secreto muestra cómo despertarla con un ritual de solo siete minutos. Al principio suena raro. Pero son solo siete minutos.",
+   "primary_text": "Hay una parte espiritual en tu mente que casi nadie usa. 🧠✨ Los antiguos cristianos, budistas y egipcios la veneraban. En este video corto, un millonario secreto muestra el ritual de 7 minutos para despertarla. Míralo antes de que lo quiten 👇"
+  },
+  "C2a": {
+   "nome": "Deja de pedir: rezas con la parte apagada",
+   "broll": "C2",
+   "selo": "Deja de pedir",
+   "destaques": [
+    "apagada",
+    "oraciones",
+    "primero",
+    "nueva",
+    "horas",
+    "siete"
+   ],
+   "texto": "Y no lo digo yo. En un video que está circulando, un millonario secreto explica que la mayoría reza con una parte de la mente apagada. Por eso sientes que tus oraciones no llegan a ningún lado. Los antiguos cristianos lo sabían: primero se despierta esa parte, después se pide. No es una oración nueva. No es meditar horas. Es un ritual corto de siete minutos que él muestra paso a paso.",
+   "primary_text": "¿Sientes que tus oraciones no llegan a ningún lado? 🙏 Tal vez el problema no es lo que pides, sino desde dónde lo pides. Mira el video corto que lo explica 👇"
+  },
+  "C2b": {
+   "nome": "Objeção: ya lo intentaste todo (no es tu culpa)",
+   "broll": "C2",
+   "selo": "No es tu culpa",
+   "destaques": [
+    "culpa",
+    "pieza",
+    "dormida",
+    "vacías",
+    "siete",
+    "decide"
+   ],
+   "texto": "Si ya rezaste, visualizaste, hiciste afirmaciones y nada cambió, no es tu culpa. Te faltaba una pieza. Un millonario secreto grabó un video corto contando lo que los antiguos cristianos, budistas y egipcios sabían sobre una parte dormida de la mente. Sin oraciones vacías. Sin meditaciones de horas. Solo un ritual de siete minutos. Míralo con calma, y decide tú.",
+   "primary_text": "Si ya rezaste, visualizaste y nada cambió… no es tu culpa. Te faltaba una pieza. 🔑 Mira el video corto y decide tú 👇"
+  },
+  "C3a": {
+   "nome": "Jesús, Buda y Tesla: el mismo secreto",
+   "broll": "C3",
+   "selo": "El mismo secreto",
+   "destaques": [
+    "Jesús",
+    "Buda",
+    "Tesla",
+    "dentro",
+    "energía",
+    "frecuencia",
+    "ojo",
+    "sonido",
+    "borrarlo"
+   ],
+   "texto": "En un video, un millonario secreto dice que Jesús, Buda y Tesla hablaban de lo mismo. Jesús decía que el reino de Dios está dentro de ti. Buda enseñaba que todo es energía. Tesla hablaba de frecuencia y vibración. Los antiguos lo llamaban el tercer ojo. Y él muestra cómo despertarlo con una secuencia de sonido de siete minutos. Por eso dicen que quieren borrarlo.",
+   "primary_text": "Jesús, Buda y Tesla hablaban del mismo secreto. 🔺 Un millonario secreto lo explica en un video corto que muchos quieren borrar. Míralo ahora 👇"
+  },
+  "C3b": {
+   "nome": "Manuscrito antiguo + frecuencia del tercer ojo",
+   "broll": "C3",
+   "selo": "Manuscritos antiguos",
+   "destaques": [
+    "manuscritos",
+    "monasterios",
+    "vacías",
+    "frecuencia",
+    "divino",
+    "ojo",
+    "siete"
+   ],
+   "texto": "Lo que pocas personas saben es que ese secreto quedó escrito en manuscritos antiguos, guardados en monasterios. No hablan de oraciones vacías ni de rituales largos. Hablan de una frecuencia capaz de despertar la conexión con lo divino que los antiguos llamaban el tercer ojo. Un millonario secreto la muestra en un video corto, con un ritual de siete minutos.",
+   "primary_text": "Un secreto guardado en manuscritos antiguos sobre la conexión con lo divino. 📜 Mira el video corto antes de que lo quiten 👇"
+  },
+  "C4a": {
+   "nome": "Millonarios no trabajan más duro (élite)",
+   "broll": "C4",
+   "selo": "Lo que no te cuentan",
+   "destaques": [
+    "duro",
+    "inteligentes",
+    "despierta",
+    "existe",
+    "perseguir",
+    "siete"
+   ],
+   "texto": "Él dice que los millonarios no trabajan más duro que tú. No son más inteligentes. Y no viven de frases motivacionales. La diferencia está en una parte de la mente que ellos mantienen despierta, y que casi nadie sabe que existe. Cuando esa parte despierta, dejas de perseguir la abundancia. Y en un video corto, él revela el ritual de siete minutos que hace todos los días.",
+   "primary_text": "Los millonarios no trabajan más duro que tú. La diferencia está en una parte de la mente que casi nadie conoce. 🧠 Mira el video corto 👇"
+  },
+  "C4b": {
+   "nome": "No es suerte: la parte en el centro del cerebro",
+   "broll": "C4",
+   "selo": "No es suerte",
+   "destaques": [
+    "suerte",
+    "centro",
+    "divino",
+    "dormida",
+    "persigue",
+    "siete"
+   ],
+   "texto": "Y no es suerte, ni pensar positivo. Un millonario secreto explica en un video corto que todo depende de una parte de la mente que está en el centro del cerebro. Los antiguos cristianos, budistas y egipcios la llamaban la línea directa con lo divino. Cuando está dormida, tú persigues la abundancia. Cuando despierta, dice él, la abundancia te persigue a ti. Y se activa con un ritual de siete minutos.",
+   "primary_text": "No es suerte ni pensar positivo. 🔑 Un millonario secreto explica la parte de la mente que cambia cómo vives la abundancia. Mira el video 👇"
+  },
+  "C5a": {
+   "nome": "3 señales + solo pierdes 7 minutos",
+   "broll": "C5",
+   "selo": "¿Te pasa esto?",
+   "destaques": [
+    "señales",
+    "uno",
+    "dos",
+    "tres",
+    "escucha",
+    "alcanza",
+    "doble",
+    "siete",
+    "razón"
+   ],
+   "texto": "Tres señales de que esa parte de tu mente está dormida. Uno: rezas y sientes que nadie te escucha. Dos: trabajas mucho y el dinero nunca alcanza. Tres: sientes que todo te cuesta el doble que a los demás. Un millonario secreto explica en un video corto por qué pasa esto. Si no es para ti, solo pierdes siete minutos. Pero, ¿y si tiene razón?",
+   "primary_text": "3 señales de que una parte de tu mente está dormida. ¿Te identificaste? 👀 Son solo 7 minutos. Mira el video corto 👇"
+  },
+  "C5b": {
+   "nome": "Cético: pensé que era estafa (baixo risco)",
+   "broll": "C5",
+   "selo": "Míralo y decide",
+   "destaques": [
+    "estafa",
+    "dinero",
+    "pocos",
+    "dormida",
+    "siete",
+    "razón"
+   ],
+   "texto": "Yo también pensé que era otra estafa de internet. Pero no te piden dinero para verlo. Es un video corto de un millonario secreto que explica por qué la abundancia llega fácil a unos pocos, y a los demás les cuesta todo. Habla de una parte dormida de la mente que los antiguos veneraban, y de un ritual de siete minutos para despertarla. Si me equivoco, solo pierdes siete minutos. Pero, ¿y si tengo razón?",
+   "primary_text": "Yo también pensé que era otra cosa más de internet. Son solo 7 minutos… ¿y si tiene razón? Mira el video corto 👇"
+  },
+  "C6": {
+   "nome": "Conversa de WhatsApp entre amigas (dramatização)",
+   "chat": true,
+   "texto": "¿Viste el video que te mandé? ¿El del millonario? Sí. Dice que hay una parte de la mente que está dormida, y que por eso rezamos y nada cambia. Suena loco. Eso pensé yo. Son siete minutos. Míralo hoy, antes de que lo borren.",
+   "mensagens": [
+    [
+     "ela",
+     "¿Viste el video que te mandé? 😳",
+     "viste"
+    ],
+    [
+     "eu",
+     "¿El del millonario? 🤔",
+     "el"
+    ],
+    [
+     "ela",
+     "Sí. Dice que hay una parte de la mente que está dormida",
+     "sí"
+    ],
+    [
+     "ela",
+     "y que por eso rezamos y nada cambia 🙏",
+     "y"
+    ],
+    [
+     "eu",
+     "Suena loco 😅",
+     "suena"
+    ],
+    [
+     "ela",
+     "Eso pensé yo. Son 7 minutos",
+     "eso"
+    ],
+    [
+     "ela",
+     "Míralo hoy, antes de que lo borren ⚠️",
+     "míralo"
+    ]
+   ],
+   "primary_text": "Mi amiga me mandó este video anoche… 😳 Míralo antes de que lo borren 👇"
+  }
+ },
+ "criativos": [
+  {
+   "id": "01",
+   "formato": "UGC selfie no carro",
+   "angulo": "$8.000 por accidente (3ª pessoa) + video extraño",
+   "corpo": "C1",
+   "voz": "VC1",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA01_gancho",
+    "destaques": [
+     "accidente",
+     "fin",
+     "semana",
+     "por",
+     "qué"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_hoodie_carro_VC1",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "02",
+   "formato": "pregador no palco (gancho campeão)",
+   "angulo": "Deja de rezar por bendiciones",
+   "corpo": "C2a",
+   "voz": "VC2",
+   "gancho": {
+    "tipo": "campeao",
+    "corte": [
+     "k2",
+     0.0,
+     3.75
+    ],
+    "texto": "Deja de rezar por bendiciones. Rezar por bendiciones es el problema."
+   },
+   "cta": {
+    "clipe": "cta_pregador_VC2",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "03",
+   "formato": "UGC selfie no carro",
+   "angulo": "Video que intentaron borrar",
+   "corpo": "C3a",
+   "voz": "lucia",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA03_gancho",
+    "destaques": [
+     "borrar",
+     "encontré"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_morena_carro_lucia",
+    "texto": "cta_mire"
+   }
+  },
+  {
+   "id": "04",
+   "formato": "UGC selfie à noite",
+   "angulo": "3 de la mañana sin dormir",
+   "corpo": "C4a",
+   "voz": "hope",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA04_gancho",
+    "destaques": [
+     "tres",
+     "dormir",
+     "millonario"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_noite_hope",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "05",
+   "formato": "UGC selfie no carro",
+   "angulo": "No es coincidencia",
+   "corpo": "C5a",
+   "voz": "sara",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA05_gancho",
+    "destaques": [
+     "coincidencia",
+     "30"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_loira_carro_sara",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "06",
+   "formato": "UGC na cozinha",
+   "angulo": "Deja de rezar por dinero",
+   "corpo": "C2b",
+   "voz": "amelia",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA06_gancho",
+    "destaques": [
+     "rezar",
+     "dinero",
+     "error"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_cozinha_amelia",
+    "texto": "cta_mire"
+   }
+  },
+  {
+   "id": "07",
+   "formato": "pregador no palco",
+   "angulo": "Deja de pedirle a Dios",
+   "corpo": "C2a",
+   "voz": "VC2",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA07_gancho",
+    "destaques": [
+     "pedirle",
+     "problema"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_pregador_VC2",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "08",
+   "formato": "narração com imagens (gancho campeão)",
+   "angulo": "Jesús, Tesla y Buda",
+   "corpo": "C3b",
+   "voz": "VC3",
+   "gancho": {
+    "tipo": "campeao",
+    "corte": [
+     "k3",
+     0.0,
+     7.55
+    ],
+    "texto": "Jesús, Tesla y Buda descubrieron exactamente el mismo secreto sobre Dios, y todos fueron silenciados por intentar decir la verdad."
+   },
+   "cta": {
+    "texto_narrado": true
+   }
+  },
+  {
+   "id": "09",
+   "formato": "pregador no palco",
+   "angulo": "El reino de Dios está dentro de ti",
+   "corpo": "C3b",
+   "voz": "VC2",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA09_gancho",
+    "destaques": [
+     "Jesús",
+     "dentro",
+     "nadie"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_pregador_VC2",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "10",
+   "formato": "podcast (apresentadora, gancho campeão)",
+   "angulo": "Ley de atracción solo para millonarios",
+   "corpo": "C4b",
+   "voz": "VC4",
+   "gancho": {
+    "tipo": "campeao",
+    "corte": [
+     "k4",
+     0.0,
+     5.35
+    ],
+    "texto": "La ley de atracción funciona para millonarios y celebridades, pero no para todos los demás."
+   },
+   "cta": {
+    "clipe": "cta_podcast_mulher_VC4",
+    "texto": "cta_mire"
+   }
+  },
+  {
+   "id": "11",
+   "formato": "conversa de WhatsApp",
+   "angulo": "Amiga mandou o video (suena loco)",
+   "corpo": "C6",
+   "voz": "VC1",
+   "gancho": {
+    "tipo": "chat"
+   },
+   "cta": {
+    "texto_narrado": false
+   }
+  },
+  {
+   "id": "12",
+   "formato": "podcast (apresentador homem)",
+   "angulo": "Ley de atracción sí funciona, solo para quien sabe esto",
+   "corpo": "C4b",
+   "voz": "diego",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA12_gancho",
+    "destaques": [
+     "atracción",
+     "saben",
+     "esto"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_podcast_homem_diego",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "13",
+   "formato": "podcast (apresentadora)",
+   "angulo": "Millonarios tienen encendida una parte",
+   "corpo": "C1",
+   "voz": "VC4",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA13_gancho",
+    "destaques": [
+     "duro",
+     "encendida",
+     "apagada"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_podcast_mulher_VC4",
+    "texto": "cta_mire"
+   }
+  },
+  {
+   "id": "14",
+   "formato": "gancho histórico (Egipto)",
+   "angulo": "Secreto de los sacerdotes egipcios",
+   "corpo": "C1",
+   "voz": "VC3",
+   "gancho": {
+    "tipo": "historico",
+    "selo": "Egipto antiguo",
+    "fundo": [
+     "k1",
+     31.43,
+     32.63
+    ],
+    "texto": "Hace miles de años, en Egipto, los sacerdotes guardaban un secreto sobre una parte de la mente.",
+    "destaques": [
+     "Egipto",
+     "secreto",
+     "mente"
+    ]
+   },
+   "cta": {
+    "texto_narrado": true
+   }
+  },
+  {
+   "id": "15",
+   "formato": "entrevista de rua (senhora)",
+   "angulo": "Yo pensaba que era mentira",
+   "corpo": "C4a",
+   "voz": "tatiana",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA15_gancho",
+    "destaques": [
+     "mentira",
+     "millonario",
+     "nadie"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_senhora_rua_tatiana",
+    "texto": "cta_mire"
+   }
+  },
+  {
+   "id": "16",
+   "formato": "UGC avó em casa",
+   "angulo": "72 años y nadie me lo explicó",
+   "corpo": "C3a",
+   "voz": "luciaS",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA16_gancho",
+    "destaques": [
+     "72",
+     "nunca"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_avo_luciaS",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "17",
+   "formato": "título de impacto + cena de emoção",
+   "angulo": "¿Rezas y nadie te escucha?",
+   "corpo": "C5a",
+   "voz": "VC4",
+   "gancho": {
+    "tipo": "texto",
+    "grande": "¿NADIE TE ESCUCHA?",
+    "fundo": [
+     "k2",
+     45.43,
+     47.47
+    ],
+    "texto": "¿Rezas todas las noches y sientes que nadie te escucha?",
+    "destaques": [
+     "noches",
+     "nadie",
+     "escucha"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_podcast_mulher_VC4",
+    "texto": "cta_mire"
+   }
+  },
+  {
+   "id": "18",
+   "formato": "título de impacto + cena religiosa",
+   "angulo": "Esto no te lo enseñaron en la iglesia",
+   "corpo": "C2b",
+   "voz": "VC2",
+   "gancho": {
+    "tipo": "texto",
+    "grande": "ESTO NO TE LO ENSEÑARON",
+    "fundo": [
+     "k4",
+     37.4,
+     38.4
+    ],
+    "texto": "Nadie te enseñó esto en la iglesia. Y no es culpa de nadie.",
+    "destaques": [
+     "iglesia",
+     "culpa"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_pregador_VC2",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "19",
+   "formato": "UGC na praia",
+   "angulo": "Ritual de 7 minutos que no quieren que conozcas",
+   "corpo": "C5b",
+   "voz": "daniela",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA19_gancho",
+    "destaques": [
+     "siete",
+     "minutos",
+     "conozcas"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_praia_daniela",
+    "texto": "cta_mira"
+   }
+  },
+  {
+   "id": "20",
+   "formato": "UGC na piscina",
+   "angulo": "Suena loco, escúchame hasta el final",
+   "corpo": "C5b",
+   "voz": "sofia",
+   "gancho": {
+    "tipo": "avatar",
+    "clipe": "CA20_gancho",
+    "destaques": [
+     "loco",
+     "final"
+    ]
+   },
+   "cta": {
+    "clipe": "cta_piscina_sofia",
+    "texto": "cta_mira"
+   }
+  }
+ ]
+}
