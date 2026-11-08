@@ -431,7 +431,7 @@
   "C6": {
    "nome": "Conversa de WhatsApp entre amigas (dramatização)",
    "chat": true,
-   "texto": "¿Viste el video que te mandé? ¿El del millonario? Sí. Dice que hay una parte de la mente que está dormida, y que por eso rezamos y nada cambia. Suena loco. Eso pensé yo. Son siete minutos. Míralo hoy, antes de que lo borren.",
+   "texto": "Mira lo que me mandó mi amiga anoche. ¿Viste el video que te mandé? ¿El del millonario? Sí. Dice que hay una parte de la mente que está dormida, y que por eso rezamos y nada cambia. Suena loco. Eso pensé yo. Son siete minutos. Míralo hoy, antes de que lo borren.",
    "mensagens": [
     [
      "ela",
@@ -469,7 +469,16 @@
      "míralo"
     ]
    ],
-   "primary_text": "Mi amiga me mandó este video anoche… 😳 Míralo antes de que lo borren 👇"
+   "primary_text": "Mi amiga me mandó este video anoche… 😳 Míralo antes de que lo borren 👇",
+   "titulo": "MI AMIGA ME MANDÓ ESTO 😳",
+   "destaques": [
+    "millonario",
+    "dormida",
+    "rezamos",
+    "loco",
+    "siete",
+    "borren"
+   ]
   }
  },
  "criativos": [

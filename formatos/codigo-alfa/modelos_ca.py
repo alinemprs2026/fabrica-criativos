@@ -51,23 +51,40 @@ def narracao(voz, destaques, selo=None, grande=None, badge_desde=None):
     return dur, h
 
 
-def chat(voz, mensagens, destaques, nome="Vale 🌸", badge_desde=None):
-    """mensagens: [(quem 'ela'|'eu', texto, palavra_que_dispara)]. A voz lê as mensagens."""
+def chat(voz, mensagens, destaques, nome="Vale 🌸", badge_desde=None, titulo=None):
+    """mensagens: [(quem 'ela'|'eu', texto, palavra_que_dispara)]. A voz lê as mensagens.
+    A conversa 'rola' para cima quando passa da metade de baixo; legendas grandes embaixo."""
     dur = voz["duracao"] + 0.4
-    partes = [f'<div class="clip zap" data-start="0" data-duration="{dur:.3f}"></div>',
-              f'<div class="clip topo" data-start="0" data-duration="{dur:.3f}"><div class="foto">🙋‍♀️</div><div class="nome">{html.escape(nome)}</div></div>',
-              f'<div class="clip status" data-start="0" data-duration="{dur:.3f}">en línea</div>',
-              M.audio_tag("voz.wav", 0, dur)]
-    anim, topo, t_prev = [], 210, -1.0
+    partes = [f'<div class="clip zap" data-start="0" data-duration="{dur:.3f}"></div>']
+    anim, topo, t_prev, desloc = [], 200, -1.0, 0
+    t0 = None
     for i, (quem, txt, gatilho) in enumerate(mensagens):
         t = max(0.0 if i == 0 else t_prev + 0.3, M._tempo(voz["palavras"], gatilho, t_prev + 1.0) - 0.15)
         t_prev = t
+        t0 = t if t0 is None else t0
         classe = "dele" if quem == "ela" else "dela"
+        linhas = 1 + len(txt) // 25
+        altura = 100 + 52 * (linhas - 1)
+        if topo + altura - desloc > 960:
+            novo = topo + altura - 960
+            anim.append(f'tl.to(".bolha",{{top:"-={novo - desloc}",duration:0.25,ease:"power2.out"}},{t:.3f});')
+            desloc = novo
         partes.append(M._bolha(f"m{i}", classe, txt, "23:1%d" % i, topo, t, dur - t, tick=(quem == "eu")))
         anim.append(f'tl.fromTo("#m{i}",{{y:30,opacity:0}},{{y:0,opacity:1,duration:0.18}},{t:.3f});')
-        topo += 92 + 52 * (len(txt) // 24)
-    css = M.ZAP_CSS + BADGE_CSS + ".bolha{font-size:36px;padding:14px 22px 34px;}"
+        topo += altura + 16
+    partes += [f'<div class="clip topo" data-start="0" data-duration="{dur:.3f}"><div class="foto">🙋‍♀️</div><div class="nome">{html.escape(nome)}</div></div>',
+               f'<div class="clip status" data-start="0" data-duration="{dur:.3f}">en línea</div>',
+               M.audio_tag("voz.wav", 0, dur)]
+    if titulo and t0 and t0 > 0.5:
+        partes.append(f'<div id="tit" class="clip grande" style="top:430px" data-start="0" data-duration="{t0:.3f}">{titulo}</div>')
+        anim.append('tl.fromTo("#tit",{scale:1.25},{scale:1,duration:0.28,ease:"power4.out"},0);')
+    bl = M.blocos_legenda(voz["palavras"], destaques, dur)
+    leg, an = M.legendas_html(bl, topo=1010)
+    partes.append(leg); anim.append(an)
+    css = (M.ZAP_CSS + M.CARTAO_CSS + BADGE_CSS +
+           ".bolha{font-size:40px;padding:16px 24px 36px;max-width:640px;} .zap{z-index:0} .topo,.status{z-index:5}"
+           " .leg{z-index:6} .grande{font-size:84px}")
     if badge_desde is not None:
-        el, an = _badge(badge_desde, dur, topo=1150)
+        el, an = _badge(badge_desde, dur, topo=1170)
         partes.append(el); anim.append(an)
     return dur, M.pagina(dur, "\n".join(partes), "\n".join(anim), css)
