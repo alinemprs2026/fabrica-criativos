@@ -47,7 +47,7 @@ CSS = """
         display:flex; align-items:center; justify-content:center; font-size:38px; }
 .nome { font-size:42px; font-weight:800; font-family:'Inter','Noto Color Emoji',sans-serif; }
 .zst { left:126px; top:126px; font-size:26px; color:#8696a0; font-family:'Inter',sans-serif; }
-.bolha { max-width:600px; padding:18px 26px 40px; border-radius:22px; font-size:40px; line-height:1.25;
+.bolha { max-width:620px; padding:20px 28px 42px; border-radius:24px; font-size:46px; line-height:1.25;
          color:#e9edef; font-family:'Inter','Noto Color Emoji',sans-serif; font-weight:500; }
 .dela { right:24px; background:#005c4b; border-top-right-radius:4px; }
 .dele { left:24px; background:#202c33; border-top-left-radius:4px; }
@@ -259,7 +259,7 @@ def v_zap(c, cena, p, a, area=(0, 1280)):
         c.add("ztopo", t0, d, f'<div class="foto">{p.get("foto", "👤")}</div><div class="nome">{E(p.get("nome", "Él ❤️"))}</div>')
         for (sa, sb, txt) in _status(cena, p, fim):
             c.add("zst", sa, sb - sa, E(txt))
-    topo = p.get("topo", 230)
+    topo = p.get("topo", 260)
     for m in p["msgs"]:
         ini = _t(m.get("em"), cena, t0)
         azul = _t(m["azul"], cena, None) if m.get("azul") is not None else None

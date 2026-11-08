@@ -1,276 +1,1442 @@
 {
-  "produto": "21-frases",
-  "titulo": "21 Frases · Lote 2",
-  "vozes": {
-    "daniel": "0e07ee5d68de482aa44d5095dfa2f900",
-    "mulher": "1777080b7f574979875dc144b9fbf0de",
-    "jornal": "6ce26db0cb6f4e7881b85452619f7f19",
-    "locutor": "70bc24b8126c446c8cf50fc1a01eb834"
+ "produto": "21-frases",
+ "titulo": "21 Frases · Lote 2",
+ "vozes": {
+  "daniel": "0e07ee5d68de482aa44d5095dfa2f900",
+  "mulher": "1777080b7f574979875dc144b9fbf0de",
+  "jornal": "6ce26db0cb6f4e7881b85452619f7f19",
+  "locutor": "70bc24b8126c446c8cf50fc1a01eb834"
+ },
+ "vozes_obs": "daniel = voz clonada do campeão; mulher = Montserrat; jornal = Camila Vega; locutor = Emiliano. Todas TTS turbo-free (grátis).",
+ "avatares": {
+  "04": {
+   "arquivo": "av04.mp4",
+   "transcricao": "tr04.json",
+   "look": "estúdio escuro a3a6cc14d107a13ca791239aac42f177",
+   "video_id": "1ddf27c8ce2a728358338cf141ee6dd8"
   },
-  "vozes_obs": "daniel = voz clonada do campeão; mulher = Montserrat; jornal = Camila Vega; locutor = Emiliano. Todas TTS turbo-free (grátis).",
-  "avatares": {
-    "04": {"arquivo": "av04.mp4", "transcricao": "tr04.json", "look": "estúdio escuro a3a6cc14d107a13ca791239aac42f177", "video_id": "1ddf27c8ce2a728358338cf141ee6dd8"},
-    "07": {"arquivo": "av07.mp4", "transcricao": "tr07.json", "look": "estúdio escuro a3a6cc14d107a13ca791239aac42f177", "video_id": "a3483b42afabe6f4c598178ba16830fc"},
-    "12": {"arquivo": "av12.mp4", "transcricao": "tr12.json", "correcoes": {"ella": "él"}, "look": "café 2eee4422ca295960ffd0f88f3b7c8dc1", "video_id": "f638611c7c736853ef638f8a7d10960c"},
-    "13": {"arquivo": "av13.mp4", "transcricao": "tr13.json", "look": "carro c7ecba3467b700af9d57435e7ca9146c", "video_id": "208ba56f1ad3b4be21a712e4b6a92cbe"},
-    "15": {"arquivo": "av15.mp4", "transcricao": "tr15.json", "correcoes": {"Ysi": "¿Y si", "Yeso": "Y eso"}, "look": "café 2eee4422ca295960ffd0f88f3b7c8dc1", "video_id": "371387450530e930f86e53790730f665"}
+  "07": {
+   "arquivo": "av07.mp4",
+   "transcricao": "tr07.json",
+   "look": "estúdio escuro a3a6cc14d107a13ca791239aac42f177",
+   "video_id": "a3483b42afabe6f4c598178ba16830fc"
   },
-  "campeoes": {
-    "c1": "criativo-mais-campeao-de-todos.mp4",
-    "c2": "video---1794084830597.mp4",
-    "c3": "video---1794084838097.mp4",
-    "c7": "video---1794085426838.mp4"
+  "12": {
+   "arquivo": "av12.mp4",
+   "transcricao": "tr12.json",
+   "correcoes": {
+    "ella": "él"
+   },
+   "look": "café 2eee4422ca295960ffd0f88f3b7c8dc1",
+   "video_id": "f638611c7c736853ef638f8a7d10960c"
   },
-  "brolls": {
-    "noche_cel": ["c2", 4.9, 6.7, "topo"],
-    "cctv_cel": ["c2", 4.9, 6.7, "zoom", 3],
-    "llora_mano": ["c3", 4.3, 6.4, "topo"],
-    "pareja_sofa": ["c3", 6.6, 8.0, "topo"],
-    "pareja_rie": ["c2", 10.2, 12.0, "topo"],
-    "hombre_noche": ["c3", 46.0, 47.8, "topo"],
-    "llora_velas": ["c3", 48.2, 50.8, "topo"],
-    "llora_carro": ["c3", 51.0, 52.8, "topo"],
-    "llora_carro2": ["c3", 20.6, 23.0, "baixo"],
-    "pareja_cama": ["c3", 23.2, 25.0, "baixo"],
-    "desesperada": ["c3", 0.0, 2.0, "baixo"],
-    "duerme_sonrie": ["c3", 74.0, 75.8, "baixo"],
-    "pareja_flor": ["c3", 79.2, 82.0, "topo"],
-    "rubia": ["c3", 12.3, 15.8, "topo"]
+  "13": {
+   "arquivo": "av13.mp4",
+   "transcricao": "tr13.json",
+   "look": "carro c7ecba3467b700af9d57435e7ca9146c",
+   "video_id": "208ba56f1ad3b4be21a712e4b6a92cbe"
   },
-  "ctas": {
-    "c7": ["c7", 49.70, 59.09],
-    "c1": ["c1", 40.47, 61.25]
-  },
-  "criativos": [
-    {"id": "01", "formato": "reação exagerada + reviravolta (Daniel, estúdio escuro)", "angulo": "Homem frio", "corpo": "K1 homem frio: reclamar esfria, tom tranquilo vira o jogo",
-     "gancho": "No, no, no, no, no. No le mandes eso.", "cta": "c7",
-     "primary_text": "¿Él se enfrió y tú le preguntas qué hiciste mal? 🚫 Para. Ese mensaje lo aleja más. Mira qué escribirle en su lugar 👇",
-     "cenas": [
-       {"avatar": "04", "destaques": ["no", "frío", "presión", "él"], "leg_topo": 900,
-        "visual": {"tipo": "avatar", "punch": [0, "mira", "pero"], "selo": "ejemplo",
-                   "bolha": {"txt": "¿Por qué estás tan frío conmigo? ¿Hice algo mal? 🥺", "em": "seguidora", "ate": "pero", "topo": 620}}},
-       {"voz": "daniel", "texto": "Mira la diferencia. En vez de reclamar, ella le escribe algo corto y tranquilo, que no le pide nada. Y ahora el que pregunta es él.",
-        "destaques": ["diferencia", "tranquilo", "él"], "leg_topo": 1000,
-        "visual": {"tipo": "zap", "nome": "Él ❤️", "selo": "ejemplo", "status": [[0, "en línea"], ["ahora", "escribiendo…"]],
-                   "msgs": [{"quem": "dela", "txt": "Hoy no puedo, salgo con mis amigas 😊 que tengas linda noche", "em": "corto", "azul": "tranquilo", "hora": "20:41", "alt": 210},
-                            {"quem": "dele", "txt": "¿Con quién vas? 👀", "em": "pregunta", "hora": "20:42"}]}}
-     ]},
-    {"id": "02", "formato": "antes e depois da conversa (tela dividida)", "angulo": "Ciúmes (like na foto de outra)", "corpo": "K5 ciúmes: reclamar dá o controle a ele, segurança devolve o controle a você",
-     "gancho": "Él le dio like a la foto de otra. Arriba, lo que le mandan casi todas. Abajo, lo que lo deja pensando en ti.", "cta": "texto",
-     "primary_text": "Le dio like a la foto de otra 😤 Antes de mandarle ese reclamo, mira el ANTES y el DESPUÉS. Los celos no se gritan: se usan a tu favor.",
-     "cenas": [
-       {"voz": "daniel", "texto": "Él le dio like a la foto de otra. Arriba, lo que le mandan casi todas. Abajo, lo que lo deja pensando en ti.",
-        "destaques": ["otra", "arriba", "abajo", "pensando"], "leg_topo": 545,
-        "visual": {"tipo": "split", "selo": "ejemplo", "selo_style": "top:1220px",
-                   "antes": {"msgs": [{"quem": "dela", "txt": "¿Y esa quién es? 😡 ¿Por qué le das like?", "em": 0, "azul": "casi", "alt": 180},
-                                      {"quem": "dele", "txt": "Ya vas a empezar… 🙄", "em": "casi"}]},
-                   "depois": {"msgs": [{"quem": "dela", "txt": "Vi la foto 😂 linda… aunque a tu perfil le falta algo 😏", "em": "abajo", "azul": "deja", "alt": 180},
-                                       {"quem": "dele", "txt": "¿Ah sí? ¿Qué le falta? 😏", "em": "pensando"}]}}},
-       {"voz": "daniel", "texto": "Cuando le reclamas, le das el control: él se defiende, se aleja, y tú quedas como la celosa. Cuando le hablas con seguridad, el control es tuyo, y el que empieza a preguntarse si te puede perder es él. Los celos no se gritan. Se usan a tu favor, con las palabras correctas.",
-        "destaques": ["control", "celosa", "seguridad", "perder", "gritan", "favor"], "leg_topo": 860,
-        "brolls": ["llora_velas", "hombre_noche", "pareja_rie", "pareja_flor"], "visual": {"tipo": "broll"}},
-       {"voz": "daniel", "texto": "Toca el botón de abajo y mira la clase gratuita. Son cinco minutos, y ahí están las frases exactas. Míralo ahora, antes de que la quiten.",
-        "destaques": ["botón", "gratuita", "exactas", "ahora"], "leg_topo": 900, "brolls": ["pareja_flor"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "03", "formato": "gancho + história (fofoca), voz feminina", "angulo": "Ex que voltou", "corpo": "K2 ex: ex volta quando sente que já não te tem",
-     "gancho": "Mi amiga llevaba semanas rogándole a su ex… y lo que pasó cuando dejó de hacerlo me dejó loca.", "cta": "c7",
-     "primary_text": "Semanas rogándole a su ex. Audios llorando. Nada. Hasta que hizo lo contrario 😮 (dramatización) Mira lo que funciona de verdad 👇",
-     "cenas": [
-       {"voz": "mulher", "texto": "Mi amiga llevaba semanas rogándole a su ex… y lo que pasó cuando dejó de hacerlo me dejó loca.",
-        "destaques": ["rogándole", "ex", "loca"], "leg_topo": 860, "brolls": ["llora_carro", "llora_velas"],
-        "visual": {"tipo": "broll", "selo": "dramatización"}},
-       {"voz": "mulher", "texto": "Mensajes largos, audios llorando a las dos de la mañana, todo. Y él, nada. Una noche le dije: basta. Mándale una sola frase, corta, tranquila, y no le escribas más.",
-        "destaques": ["largos", "nada", "basta", "frase"], "leg_topo": 860, "brolls": ["desesperada", "llora_carro2", "llora_mano"],
-        "visual": {"tipo": "broll", "selo": "dramatización"}},
-       {"voz": "mulher", "texto": "Dos días después, él le escribió.",
-        "destaques": ["él"], "leg_topo": 1000,
-        "visual": {"tipo": "zap", "nome": "Ex 🖤", "selo": "dramatización", "status": [[0, "últ. vez hace 2 días"], ["escribió", "en línea"]],
-                   "msgs": [{"quem": "dela", "txt": "Te deseo lo mejor, de verdad 🙂", "em": 0, "azul": 0.3, "hora": "21:10", "alt": 170},
-                            {"quem": "dele", "txt": "¿Podemos hablar? 🥺", "em": "escribió", "hora": "23:02"}]}},
-       {"voz": "mulher", "texto": "Un ex no vuelve cuando lo persigues. Vuelve cuando siente que ya no te tiene. Y la frase correcta es la que le hace sentir eso.",
-        "destaques": ["persigues", "tiene", "correcta"], "leg_topo": 860, "brolls": ["hombre_noche", "pareja_flor"],
-        "visual": {"tipo": "broll", "selo": "dramatización"}}
-     ]},
-    {"id": "04", "formato": "demonstração na tela (errado x certo)", "angulo": "Ele só aparece à noite", "corpo": "K4 noite: responder na hora dele te faz plano de última hora",
-     "gancho": "¿Solo te escribe a las once de la noche? Te muestro qué responder, y qué no.", "cta": "texto",
-     "primary_text": "¿Solo te escribe de noche? 🌙 No eres su plan de última hora. Mira en la pantalla qué responder (y qué NO) 👇",
-     "cenas": [
-       {"voz": "daniel", "texto": "¿Solo te escribe a las once de la noche? Te muestro qué responder, y qué no.",
-        "destaques": ["noche", "responder", "no"], "leg_topo": 1000,
-        "visual": {"tipo": "zap", "nome": "Él 🌙", "selo": "ejemplo", "status": [[0, "en línea"]],
-                   "msgs": [{"quem": "dele", "txt": "¿Despierta? 😏", "em": 0, "hora": "23:14"}]}},
-       {"voz": "daniel", "texto": "Esto es lo que casi todas responden. Rápido, emocionada, disponible. Error. Le acabas de enseñar que eres su plan de última hora.",
-        "destaques": ["rápido", "disponible", "error", "última"], "leg_topo": 1000,
-        "visual": {"tipo": "zap", "nome": "Él 🌙", "selo": "ejemplo", "status": [[0, "en línea"]],
-                   "msgs": [{"quem": "dele", "txt": "¿Despierta? 😏", "em": 0, "hora": "23:14", "alt": 150},
-                            {"quem": "dela", "txt": "¡Sí! 😍 ¿Quieres que hablemos?", "em": "responden", "azul": "rápido", "hora": "23:14"}],
-                   "carimbos": [{"tipo": "mau", "txt": "ERROR ✗", "em": "error", "topo": 600, "x": 300}]}},
-       {"voz": "daniel", "texto": "Ahora mira esta. Corta, tranquila, sin reclamo, y lo pasa a tu horario.",
-        "destaques": ["corta", "tranquila", "horario"], "leg_topo": 1000,
-        "visual": {"tipo": "zap", "nome": "Él 🌙", "selo": "ejemplo", "status": [[0, "en línea"], ["horario", "escribiendo…"]],
-                   "msgs": [{"quem": "dele", "txt": "¿Despierta? 😏", "em": 0, "hora": "23:14", "alt": 150},
-                            {"quem": "dela", "txt": "Ya me iba a dormir 😴 mañana me cuentas… de día 😉", "em": 0.2, "azul": "corta", "hora": "23:40"}],
-                   "carimbos": [{"tipo": "bom", "txt": "MEJOR ✓", "em": "tranquila", "topo": 640, "x": 300}]}},
-       {"voz": "daniel", "texto": "El hombre que de verdad te quiere ver, te busca de día. Y hay frases que hacen que lo haga.",
-        "destaques": ["verdad", "día", "frases"], "leg_topo": 860, "brolls": ["pareja_rie", "pareja_sofa", "pareja_cama"], "visual": {"tipo": "broll"}},
-       {"voz": "daniel", "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala hoy, mientras sigue disponible.",
-        "destaques": ["exactas", "gratuita", "botón", "hoy"], "leg_topo": 900, "brolls": ["pareja_rie"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "05", "formato": "simulação de notícia com tarja URGENTE", "angulo": "Comparação com a outra", "corpo": "K7 a outra: parar de competir, ele escolhe quem sente que pode perder",
-     "gancho": "Urgente. El error que cometen muchas mujeres cuando descubren que él le escribe a otra.", "cta": "texto",
-     "primary_text": "🚨 ¿Descubriste que le escribe a otra? Antes de revisar su celular o mandar indirectas, mira esto. (dramatización)",
-     "cenas": [
-       {"voz": "jornal", "texto": "Urgente. El error que cometen muchas mujeres cuando descubren que él le escribe a otra.",
-        "destaques": ["urgente", "error", "otra"], "leg_topo": 1035, "brolls": ["llora_mano", "llora_carro"],
-        "visual": {"tipo": "noticia", "selo": "dramatización", "selo_style": "top:198px",
-                   "manchetes": [[0, "El error que casi todas cometen cuando aparece «la otra»"]],
-                   "letreiro": "ÚLTIMA HORA · revisar su celular no funciona · las indirectas lo alejan · deja de competir · cambia el mensaje ·"}},
-       {"voz": "jornal", "texto": "Revisan su celular, le escriben a ella, publican indirectas. Y sin querer, lo empujan más lejos. Lo que sí funciona es lo contrario: dejar de competir y cambiar el mensaje. Porque un hombre no elige a la que más pelea por él. Elige a la que siente que puede perder.",
-        "destaques": ["celular", "indirectas", "lejos", "contrario", "competir", "perder"], "leg_topo": 1035,
-        "brolls": ["desesperada", "llora_velas", "hombre_noche", "pareja_flor"],
-        "visual": {"tipo": "noticia", "selo": "dramatización", "selo_style": "top:198px",
-                   "manchetes": [[0, "Revisar su celular lo aleja todavía más"], ["contrario", "Lo que sí funciona: dejar de competir"], ["porque", "Él elige a la que siente que puede perder"]],
-                   "letreiro": "ÚLTIMA HORA · revisar su celular no funciona · las indirectas lo alejan · deja de competir · cambia el mensaje ·"}},
-       {"voz": "jornal", "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala ahora.",
-        "destaques": ["exactas", "gratuita", "botón"], "leg_topo": 900, "brolls": ["pareja_flor"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "06", "formato": "mini VSL 15s só texto + música", "angulo": "Autoestima / valor", "corpo": "K6 valor: você não precisa escrever mais, precisa escrever certo",
-     "gancho": "ÉL TE DEJA EN VISTO… Y TÚ LE ESCRIBES OTRA VEZ", "cta": "texto", "musica": "musica.wav", "musica_vol": 0.85,
-     "primary_text": "Él te deja en visto y tú le escribes otra vez. Y otra. Para. 🛑 No te falta amor: te sobra disponibilidad. Clase gratis de 5 min 👇",
-     "cenas": [
-       {"dur": 16.0, "visual": {"tipo": "texto", "frases": [
-         [0.0, "ÉL TE DEJA<br>EN <k>VISTO</k>"],
-         [1.5, "Y TÚ LE<br>ESCRIBES<br><k>OTRA VEZ</k>", "#3a0d12"],
-         [3.0, "Y OTRA", "#0d0d0d"],
-         [3.5, "Y <k>OTRA</k>", "#3a0d12"],
-         [4.0, "<k>PARA.</k>", "#d90429"],
-         [5.5, "NO TE FALTA<br><k>AMOR</k>", "#0d0d0d"],
-         [7.0, "TE SOBRA<br><k>DISPONIBILIDAD</k>", "#14213d", "font-size:70px"],
-         [8.5, "UNA FRASE<br>CAMBIA<br><k>QUIÉN BUSCA<br>A QUIÉN</k>", "#0d0d0d", "font-size:84px"],
-         [10.5, "<k>21</k> FRASES<br>SECRETAS", "#3a0d12"],
-         [12.0, "CLASE <k>GRATIS</k><br>DE 5 MIN", "#0d0d0d"],
-         [13.5, "TOCA<br><k>ABAJO ↓</k>", "#1b7f3a"]]}}
-     ]},
-    {"id": "07", "formato": "zoom & movimento (Daniel, estúdio escuro)", "angulo": "Pare de escrever primeiro (valor)", "corpo": "K6b valor: a que sempre escreve primeiro tira o esforço dele",
-     "gancho": "Deja de ser la que siempre escribe primero.", "cta": "c1",
-     "primary_text": "¿Siempre eres tú la que escribe primero? 😶 Cada vez que lo haces, él se esfuerza menos. No lo ignores: escríbele distinto 👇",
-     "cenas": [
-       {"avatar": "07", "destaques": ["primero", "esforzarse", "aburre", "distinto", "detrás"], "leg_topo": 900, "visual": {"tipo": "avatar", "zoom": true}},
-       {"voz": "daniel", "texto": "Una frase con curiosidad, sin ruego y sin explicación, que lo deje pensando en ti el resto del día.",
-        "destaques": ["curiosidad", "ruego", "pensando"], "leg_topo": 860, "brolls": ["pareja_cama", "duerme_sonrie", "pareja_flor"], "visual": {"tipo": "broll"}}
-     ]},
-    {"id": "08", "formato": "câmera de segurança (CCTV) + stories", "angulo": "Vê seus stories mas não responde", "corpo": "K3 stories: olhar não custa nada, dê a ele uma razão para escrever",
-     "gancho": "Él vio tu historia a las once y cuarenta y siete. Tres veces. Y no te escribió.", "cta": "texto",
-     "primary_text": "Ve todas tus historias… pero no te escribe 👀 No subas más fotos para él. Dale una razón para escribirte. (dramatización)",
-     "cenas": [
-       {"voz": "daniel", "texto": "Él vio tu historia a las once y cuarenta y siete. Tres veces. Y no te escribió.",
-        "destaques": ["historia", "tres", "escribió"], "leg_topo": 860, "brolls": ["cctv_cel"],
-        "visual": {"tipo": "cctv", "cam": "CAM 02 · SALA", "hora": "23:47:05", "selo": "dramatización", "selo_style": "top:1100px;right:40px"}},
-       {"voz": "daniel", "texto": "Ver tus historias no le cuesta nada. Le permite mirarte sin comprometerse. No subas más fotos para él, y no le reacciones primero.",
-        "destaques": ["nada", "comprometerse", "fotos", "primero"], "leg_topo": 690, "brolls": ["rubia"],
-        "visual": {"tipo": "stories", "selo": "ejemplo", "selo_style": "top:50px", "rotulo": "Visto por 1", "vistos_em": 0.3,
-                   "vistos": [["🧔", "Él ❤️", "vio tu historia 3 veces · 23:47"]]}},
-       {"voz": "daniel", "texto": "Mándale una frase que le dé una razón para escribirte, y mira cómo pasa de mirar… a escribir.",
-        "destaques": ["razón", "mirar", "escribir"], "leg_topo": 1000,
-        "visual": {"tipo": "zap", "nome": "Él ❤️", "selo": "ejemplo", "status": [[0, "en línea"], ["mira", "escribiendo…"]],
-                   "msgs": [{"quem": "dela", "txt": "Te vi mirando 👀 ¿te gustó algo o solo pasabas?", "em": "frase", "azul": "razón", "hora": "23:52", "alt": 210},
-                            {"quem": "dele", "txt": "Jaja me atrapaste 🙈", "em": "escribir", "hora": "23:52"}]}},
-       {"voz": "daniel", "texto": "¿Quieres saber qué escribirle? Toca el botón de abajo y mira la clase gratuita ahora mismo.",
-        "destaques": ["escribirle", "botón", "gratuita"], "leg_topo": 900, "brolls": ["pareja_rie"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "09", "formato": "notícia absurda + plot twist", "angulo": "Homem frio / tédio", "corpo": "K1b frio: mensagem previsível entedia, curiosidade traz de volta",
-     "gancho": "Hombre deja de responderle a su novia durante tres días… y la razón es absurda.", "cta": "texto",
-     "primary_text": "No estaba ocupado. No había otra. Estaba ABURRIDO 😳 Si le escribes siempre lo mismo, mira esto. (dramatización)",
-     "cenas": [
-       {"voz": "locutor", "texto": "Hombre deja de responderle a su novia durante tres días… y la razón es absurda.",
-        "destaques": ["tres", "absurda"], "leg_topo": 1050, "brolls": ["hombre_noche"],
-        "visual": {"tipo": "viral", "selo": "dramatización", "selo_style": "top:140px", "manchete": "Hombre deja de responder a su novia durante 3 días… y la razón es absurda"}},
-       {"voz": "locutor", "texto": "No estaba ocupado. No había otra. Estaba aburrido.", "leg_topo": 1050, "brolls": ["hombre_noche"],
-        "visual": {"tipo": "viral", "legenda": false, "selo": "dramatización", "selo_style": "top:140px", "manchete": "Hombre deja de responder a su novia durante 3 días… y la razón es absurda",
-                   "twist": "NO ESTABA OCUPADO.<br>NO HABÍA OTRA.<br>ESTABA <span class='k'>ABURRIDO</span>", "twist_em": 0}},
-       {"voz": "daniel", "texto": "Sí, aburrido. Ella le escribía siempre lo mismo: ¿cómo estás?, ¿qué haces?, ¿por qué no me contestas? Él ya sabía la respuesta antes de abrirlo. Un hombre frío no vuelve con reclamos. Vuelve con curiosidad.",
-        "destaques": ["aburrido", "mismo", "abrirlo", "reclamos", "curiosidad"], "leg_topo": 860,
-        "brolls": ["noche_cel", "llora_carro2", "hombre_noche"], "visual": {"tipo": "broll"}},
-       {"voz": "daniel", "texto": "Toca el botón de abajo y mira la clase gratuita. Son cinco minutos, y ahí están las frases exactas. Míralo ahora, antes de que la quiten.",
-        "destaques": ["botón", "gratuita", "exactas", "ahora"], "leg_topo": 900, "brolls": ["pareja_flor"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "10", "formato": "interface de busca (sem marca)", "angulo": "Fazer ele sentir sua falta", "corpo": "K10 saudade: sumir não funciona, deixar uma sensação funciona",
-     "gancho": "Si alguna vez buscaste esto a medianoche, mira.", "cta": "texto",
-     "primary_text": "“Cómo hacer que me extrañe” 🔍 Casi todos dicen: desaparece. Error. Él se acostumbra. Mira lo que sí deja huella 👇",
-     "cenas": [
-       {"voz": "daniel", "texto": "Si alguna vez buscaste esto a medianoche, mira.", "destaques": ["medianoche", "mira"], "leg_topo": 1000,
-        "visual": {"tipo": "busca", "consulta": "cómo hacer que me extrañe", "digitar_de": 0.05, "digitar_ate": "mira",
-                   "sugestoes": [" si ya no me escribe", " sin escribirle", " en 3 días"], "resultados_em": 9}},
-       {"voz": "daniel", "texto": "Casi todos los consejos dicen lo mismo: desaparece. Error. Si desapareces sin más, él se acostumbra a no tenerte.",
-        "destaques": ["desaparece", "error", "acostumbra"], "leg_topo": 1000,
-        "visual": {"tipo": "busca", "selo": "ejemplo", "selo_style": "top:60px;background:#888", "consulta": "cómo hacer que me extrañe", "digitar_de": 0, "digitar_ate": 0.01, "resultados_em": 0.05,
-                   "resultados": [["blog de consejos", "Cómo hacer que te extrañe: desaparece una semana", "Deja de escribirle y él volverá solo…"],
-                                  ["foro de mujeres", "¿Funciona la ley del hielo?", "Lo intenté y él nunca volvió a escribir…"],
-                                  ["revista online", "Desaparecer para que te valore", "La distancia hace que te extrañe…"]]}},
-       {"voz": "daniel", "texto": "Un hombre extraña lo que le dejó una sensación: una frase, una risa, una duda. No se trata de escribir menos. Se trata de escribir lo correcto.",
-        "destaques": ["sensación", "frase", "menos", "correcto"], "leg_topo": 860, "brolls": ["hombre_noche", "duerme_sonrie", "pareja_flor"], "visual": {"tipo": "broll"}},
-       {"voz": "daniel", "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala hoy, mientras sigue disponible.",
-        "destaques": ["exactas", "gratuita", "botón", "hoy"], "leg_topo": 900, "brolls": ["pareja_rie"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "11", "formato": "UGC no carro (Daniel)", "angulo": "Primeiro encontro", "corpo": "K8 primeiro encontro: deixe ele com vontade, não pergunte quando se veem",
-     "gancho": "Tuviste una primera cita increíble, entonces no le mandes “me encantó, ¿cuándo nos vemos?”.", "cta": "texto",
-     "primary_text": "Primera cita increíble 😍 y ahora… ¿qué le escribes? NO le mandes “¿cuándo nos vemos?”. Mira qué hace que él vuelva 👇",
-     "cenas": [
-       {"avatar": "13", "destaques": ["primera", "encantó", "ganas", "corta", "cabeza"], "leg_topo": 880, "visual": {"tipo": "avatar"}},
-       {"voz": "daniel", "texto": "Por ejemplo: todavía me río de lo que pasó con el mesero. Y nada más. Deja que la próxima cita la pida él.",
-        "destaques": ["ejemplo", "nada", "él"], "leg_topo": 1000,
-        "visual": {"tipo": "zap", "nome": "Él ❤️", "selo": "ejemplo", "status": [[0, "en línea"], ["deja", "escribiendo…"]],
-                   "msgs": [{"quem": "dela", "txt": "Todavía me río de lo que pasó con el mesero 😂", "em": "todavía", "azul": "nada", "hora": "10:12", "alt": 210},
-                            {"quem": "dele", "txt": "Jajaja ¿cuándo repetimos? 😏", "em": "pida", "hora": "10:13"}]}},
-       {"voz": "daniel", "texto": "¿Quieres saber qué escribirle? Toca el botón de abajo y mira la clase gratuita ahora mismo.",
-        "destaques": ["escribirle", "botón", "gratuita"], "leg_topo": 900, "brolls": ["pareja_sofa"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "12", "formato": "conselho de amigo no café (Daniel)", "angulo": "Ele está falando com outra", "corpo": "K7b a outra: não compita, seja a que ele sente que pode perder",
-     "gancho": "Si él está hablando con otra, escucha esto antes de hacer una locura.", "cta": "c7",
-     "primary_text": "¿Él está hablando con otra? 💔 Antes de revisar su perfil o mandarle indirectas, escucha esto. La que gana no es la más bonita.",
-     "cenas": [
-       {"avatar": "12", "destaques": ["otra", "locura", "compites", "bonita", "perder"], "leg_topo": 880, "visual": {"tipo": "avatar"}},
-       {"voz": "daniel", "texto": "Y cuando te escriba, no le preguntes por ella. Háblale como la mujer que tiene su propia vida. Eso es lo que le cambia la cabeza.",
-        "destaques": ["ella", "propia", "cabeza"], "leg_topo": 860, "brolls": ["pareja_sofa", "pareja_rie"], "visual": {"tipo": "broll"}}
-     ]},
-    {"id": "13", "formato": "resposta a comentário (Daniel no café)", "angulo": "Medo de que ele nunca volte", "corpo": "K9 medo: conversa de um lado só não é dos dois",
-     "gancho": "¿Y si dejo de escribirle y él nunca vuelve?", "cta": "texto",
-     "primary_text": "“¿Y si dejo de escribirle y él nunca vuelve?” 😢 Si él solo habla contigo cuando tú escribes, esa conversación es solo tuya. Mira esto 👇",
-     "cenas": [
-       {"avatar": "15", "destaques": ["nunca", "tuya", "sola", "tono", "ganar"], "leg_topo": 900,
-        "visual": {"tipo": "avatar", "comentario": {"user": "seguidora", "txt": "¿Y si dejo de escribirle y él nunca vuelve? 😢", "em": 0, "ate": "habla"}}},
-       {"voz": "daniel", "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala hoy, mientras sigue disponible.",
-        "destaques": ["exactas", "gratuita", "botón", "hoy"], "leg_topo": 900, "brolls": ["duerme_sonrie"], "visual": {"tipo": "cta"}}
-     ]},
-    {"id": "14", "formato": "notificações na tela bloqueada", "angulo": "Ex que voltou de madrugada", "corpo": "K2b ex: a mensagem da madrugada é um teste",
-     "gancho": "Si tu ex te escribió esto a medianoche, no le respondas todavía.", "cta": "c1",
-     "primary_text": "Tu ex te escribió “te extraño” a medianoche 📱 No le respondas todavía. Ese mensaje muchas veces es una prueba. Mira por qué 👇",
-     "cenas": [
-       {"voz": "daniel", "texto": "Si tu ex te escribió esto a medianoche, no le respondas todavía.",
-        "destaques": ["ex", "medianoche", "todavía"], "leg_topo": 1050,
-        "visual": {"tipo": "bloqueio", "hora": "23:58", "selo": "ejemplo",
-                   "notifs": [{"de": "Ex 🖤", "txt": "hola", "em": 0, "quando": "hace 2 min"},
-                              {"de": "Ex 🖤", "txt": "¿estás despierta?", "em": 0.6, "quando": "hace 1 min"},
-                              {"de": "Ex 🖤", "txt": "te extraño 🥺", "em": "medianoche"}]}},
-       {"voz": "daniel", "texto": "Ese mensaje no siempre es amor. Muchas veces es una prueba: quiere saber si sigues ahí. Si respondes rápido, con todo el corazón, vuelve a desaparecer. Si respondes con calma y con las palabras correctas, el que tiene que esforzarse es él.",
-        "destaques": ["amor", "prueba", "desaparecer", "calma", "correctas", "él"], "leg_topo": 860,
-        "brolls": ["noche_cel", "hombre_noche", "llora_velas", "pareja_flor"], "visual": {"tipo": "broll"}}
-     ]},
-    {"id": "15", "formato": "quiz A/B/C (teste)", "angulo": "Ciúmes ao contrário (ele sai com amigos)", "corpo": "K5b ciúmes: segurança deixa a dúvida na cabeça dele",
-     "gancho": "Él te dice: hoy salgo con mis amigos. ¿Qué le respondes?", "cta": "texto",
-     "primary_text": "Él: “Hoy salgo con mis amigos” 🍻 ¿Qué le respondes? A, B o C… La mayoría elige mal. Mira la respuesta 👇",
-     "cenas": [
-       {"voz": "daniel", "texto": "Él te dice: hoy salgo con mis amigos. ¿Qué le respondes?", "destaques": ["amigos", "respondes"], "leg_topo": 1000,
-        "visual": {"tipo": "quiz", "pergunta": "Él: “Hoy salgo con mis amigos” 🍻 ¿Qué le respondes?",
-                   "opcoes": [{"txt": "¿Con quién? ¿Va a ir ella? 😒", "em": 0.15}, {"txt": "¡Diviértete mucho! 😘", "em": 0.45}, {"txt": "Perfecto, yo también tengo planes 😉", "em": 0.75}]}},
-       {"voz": "daniel", "texto": "Si elegiste la A, él siente control y presión. La B parece buena, pero le dice que te da igual. La C le deja una pregunta en la cabeza: ¿con quién estará ella? Ese pequeño cambio es todo el juego.",
-        "destaques": ["presión", "igual", "pregunta", "juego"], "leg_topo": 1000,
-        "visual": {"tipo": "quiz", "fixo": true, "pergunta": "Él: “Hoy salgo con mis amigos” 🍻 ¿Qué le respondes?",
-                   "opcoes": [{"txt": "¿Con quién? ¿Va a ir ella? 😒", "veredito_em": "presión", "certa": false},
-                              {"txt": "¡Diviértete mucho! 😘", "veredito_em": "igual", "certa": false},
-                              {"txt": "Perfecto, yo también tengo planes 😉", "veredito_em": "pregunta", "certa": true}]}},
-       {"voz": "daniel", "texto": "Toca el botón de abajo y mira la clase gratuita. Son cinco minutos, y ahí están las frases exactas. Míralo ahora, antes de que la quiten.",
-        "destaques": ["botón", "gratuita", "exactas", "ahora"], "leg_topo": 900, "brolls": ["pareja_rie"], "visual": {"tipo": "cta"}}
-     ]}
+  "15": {
+   "arquivo": "av15.mp4",
+   "transcricao": "tr15.json",
+   "correcoes": {
+    "Ysi": "¿Y si",
+    "Yeso": "Y eso"
+   },
+   "look": "café 2eee4422ca295960ffd0f88f3b7c8dc1",
+   "video_id": "371387450530e930f86e53790730f665"
+  }
+ },
+ "campeoes": {
+  "c1": "criativo-mais-campeao-de-todos.mp4",
+  "c2": "video---1794084830597.mp4",
+  "c3": "video---1794084838097.mp4",
+  "c7": "video---1794085426838.mp4"
+ },
+ "brolls": {
+  "noche_cel": [
+   "c2",
+   5.15,
+   6.7,
+   "topo"
+  ],
+  "cctv_cel": [
+   "c2",
+   5.15,
+   6.7,
+   "zoom",
+   3.5
+  ],
+  "pareja_sofa": [
+   "c3",
+   6.95,
+   8.0,
+   "topo"
+  ],
+  "hombre_noche": [
+   "c3",
+   46.0,
+   47.8,
+   "topo"
+  ],
+  "llora_velas": [
+   "c3",
+   48.2,
+   50.8,
+   "topo"
+  ],
+  "llora_carro": [
+   "c3",
+   51.55,
+   52.8,
+   "topo"
+  ],
+  "llora_carro2": [
+   "c3",
+   20.6,
+   22.6,
+   "baixo"
+  ],
+  "pareja_cama": [
+   "c3",
+   23.2,
+   24.6,
+   "baixo"
+  ],
+  "desesperada": [
+   "c3",
+   0.0,
+   2.0,
+   "baixo"
+  ],
+  "duerme_sonrie": [
+   "c3",
+   74.0,
+   75.4,
+   "baixo"
+  ],
+  "pareja_flor": [
+   "c3",
+   79.2,
+   81.6,
+   "topo"
+  ],
+  "rubia": [
+   "c3",
+   12.95,
+   15.2,
+   "topo"
   ]
+ },
+ "ctas": {
+  "c7": [
+   "c7",
+   49.7,
+   59.09
+  ],
+  "c1": [
+   "c1",
+   40.47,
+   61.25
+  ]
+ },
+ "criativos": [
+  {
+   "id": "01",
+   "formato": "reação exagerada + reviravolta (Daniel, estúdio escuro)",
+   "angulo": "Homem frio",
+   "corpo": "K1 homem frio: reclamar esfria, tom tranquilo vira o jogo",
+   "gancho": "No, no, no, no, no. No le mandes eso.",
+   "cta": "c7",
+   "primary_text": "¿Él se enfrió y tú le preguntas qué hiciste mal? 🚫 Para. Ese mensaje lo aleja más. Mira qué escribirle en su lugar 👇",
+   "cenas": [
+    {
+     "avatar": "04",
+     "destaques": [
+      "no",
+      "frío",
+      "presión",
+      "él"
+     ],
+     "leg_topo": 900,
+     "visual": {
+      "tipo": "avatar",
+      "punch": [
+       0,
+       "mira",
+       "pero"
+      ],
+      "selo": "ejemplo",
+      "bolha": {
+       "txt": "¿Por qué estás tan frío conmigo? ¿Hice algo mal? 🥺",
+       "em": "seguidora",
+       "ate": "pero",
+       "topo": 620
+      }
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Mira la diferencia. En vez de reclamar, ella le escribe algo corto y tranquilo, que no le pide nada. Y ahora el que pregunta es él.",
+     "destaques": [
+      "diferencia",
+      "tranquilo",
+      "él"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "ahora",
+        "escribiendo…"
+       ]
+      ],
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Hoy no puedo, salgo con mis amigas 😊 que tengas linda noche",
+        "em": 0.3,
+        "azul": "tranquilo",
+        "hora": "20:41",
+        "alt": 210
+       },
+       {
+        "quem": "dele",
+        "txt": "¿Con quién vas? 👀",
+        "em": "pregunta",
+        "hora": "20:42"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "antes e depois da conversa (tela dividida)",
+   "angulo": "Ciúmes (like na foto de outra)",
+   "corpo": "K5 ciúmes: reclamar dá o controle a ele, segurança devolve o controle a você",
+   "gancho": "Él le dio like a la foto de otra. Arriba, lo que le mandan casi todas. Abajo, lo que lo deja pensando en ti.",
+   "cta": "texto",
+   "primary_text": "Le dio like a la foto de otra 😤 Antes de mandarle ese reclamo, mira el ANTES y el DESPUÉS. Los celos no se gritan: se usan a tu favor.",
+   "cenas": [
+    {
+     "voz": "daniel",
+     "texto": "Él le dio like a la foto de otra. Arriba, lo que le mandan casi todas. Abajo, lo que lo deja pensando en ti.",
+     "destaques": [
+      "otra",
+      "arriba",
+      "abajo",
+      "pensando"
+     ],
+     "leg_topo": 545,
+     "visual": {
+      "tipo": "split",
+      "selo": "ejemplo",
+      "selo_style": "top:1220px",
+      "antes": {
+       "msgs": [
+        {
+         "quem": "dela",
+         "txt": "¿Y esa quién es? 😡 ¿Por qué le das like?",
+         "em": 0,
+         "azul": "casi",
+         "alt": 180
+        },
+        {
+         "quem": "dele",
+         "txt": "Ya vas a empezar… 🙄",
+         "em": "casi"
+        }
+       ]
+      },
+      "depois": {
+       "msgs": [
+        {
+         "quem": "dela",
+         "txt": "Vi la foto 😂 linda… aunque a tu perfil le falta algo 😏",
+         "em": 0,
+         "azul": "deja",
+         "alt": 235
+        },
+        {
+         "quem": "dele",
+         "txt": "¿Ah sí? ¿Qué le falta? 😏",
+         "em": "pensando"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Cuando le reclamas, le das el control: él se defiende, se aleja, y tú quedas como la celosa. Cuando le hablas con seguridad, el control es tuyo, y el que empieza a preguntarse si te puede perder es él. Los celos no se gritan. Se usan a tu favor, con las palabras correctas.",
+     "destaques": [
+      "control",
+      "celosa",
+      "seguridad",
+      "perder",
+      "gritan",
+      "favor"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "llora_velas",
+      "hombre_noche",
+      "pareja_sofa",
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "broll"
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Toca el botón de abajo y mira la clase gratuita. Son cinco minutos, y ahí están las frases exactas. Míralo ahora, antes de que la quiten.",
+     "destaques": [
+      "botón",
+      "gratuita",
+      "exactas",
+      "ahora"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "formato": "gancho + história (fofoca), voz feminina",
+   "angulo": "Ex que voltou",
+   "corpo": "K2 ex: ex volta quando sente que já não te tem",
+   "gancho": "Mi amiga llevaba semanas rogándole a su ex… y lo que pasó cuando dejó de hacerlo me dejó loca.",
+   "cta": "c7",
+   "primary_text": "Semanas rogándole a su ex. Audios llorando. Nada. Hasta que hizo lo contrario 😮 (dramatización) Mira lo que funciona de verdad 👇",
+   "cenas": [
+    {
+     "voz": "mulher",
+     "texto": "Mi amiga llevaba semanas rogándole a su ex… y lo que pasó cuando dejó de hacerlo me dejó loca.",
+     "destaques": [
+      "rogándole",
+      "ex",
+      "loca"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "llora_carro",
+      "llora_velas"
+     ],
+     "visual": {
+      "tipo": "broll",
+      "selo": "dramatización"
+     }
+    },
+    {
+     "voz": "mulher",
+     "texto": "Mensajes largos, audios llorando a las dos de la mañana, todo. Y él, nada. Una noche le dije: basta. Mándale una sola frase, corta, tranquila, y no le escribas más.",
+     "destaques": [
+      "largos",
+      "nada",
+      "basta",
+      "frase"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "desesperada",
+      "llora_carro2",
+      "llora_velas"
+     ],
+     "visual": {
+      "tipo": "broll",
+      "selo": "dramatización"
+     }
+    },
+    {
+     "voz": "mulher",
+     "texto": "Dos días después, él le escribió.",
+     "destaques": [
+      "él"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "zap",
+      "nome": "Ex 🖤",
+      "selo": "dramatización",
+      "status": [
+       [
+        0,
+        "últ. vez hace 2 días"
+       ],
+       [
+        "escribió",
+        "en línea"
+       ]
+      ],
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Te deseo lo mejor, de verdad 🙂",
+        "em": 0,
+        "azul": 0.3,
+        "hora": "21:10",
+        "alt": 170
+       },
+       {
+        "quem": "dele",
+        "txt": "¿Podemos hablar? 🥺",
+        "em": "escribió",
+        "hora": "23:02"
+       }
+      ]
+     }
+    },
+    {
+     "voz": "mulher",
+     "texto": "Un ex no vuelve cuando lo persigues. Vuelve cuando siente que ya no te tiene. Y la frase correcta es la que le hace sentir eso.",
+     "destaques": [
+      "persigues",
+      "tiene",
+      "correcta"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "hombre_noche",
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "broll",
+      "selo": "dramatización"
+     }
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "formato": "demonstração na tela (errado x certo)",
+   "angulo": "Ele só aparece à noite",
+   "corpo": "K4 noite: responder na hora dele te faz plano de última hora",
+   "gancho": "¿Solo te escribe a las once de la noche? Te muestro qué responder, y qué no.",
+   "cta": "texto",
+   "primary_text": "¿Solo te escribe de noche? 🌙 No eres su plan de última hora. Mira en la pantalla qué responder (y qué NO) 👇",
+   "cenas": [
+    {
+     "voz": "daniel",
+     "texto": "¿Solo te escribe a las once de la noche? Te muestro qué responder, y qué no.",
+     "destaques": [
+      "noche",
+      "responder",
+      "no"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él 🌙",
+      "selo": "ejemplo",
+      "status": [
+       [
+        0,
+        "en línea"
+       ]
+      ],
+      "msgs": [
+       {
+        "quem": "dele",
+        "txt": "¿Despierta? 😏",
+        "em": 0,
+        "hora": "23:14"
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Esto es lo que casi todas responden. Rápido, emocionada, disponible. Error. Le acabas de enseñar que eres su plan de última hora.",
+     "destaques": [
+      "rápido",
+      "disponible",
+      "error",
+      "última"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él 🌙",
+      "selo": "ejemplo",
+      "status": [
+       [
+        0,
+        "en línea"
+       ]
+      ],
+      "msgs": [
+       {
+        "quem": "dele",
+        "txt": "¿Despierta? 😏",
+        "em": 0,
+        "hora": "23:14",
+        "alt": 150
+       },
+       {
+        "quem": "dela",
+        "txt": "¡Sí! 😍 ¿Quieres que hablemos?",
+        "em": "responden",
+        "azul": "rápido",
+        "hora": "23:14"
+       }
+      ],
+      "carimbos": [
+       {
+        "tipo": "mau",
+        "txt": "ERROR ✗",
+        "em": "error",
+        "topo": 600,
+        "x": 300
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Ahora mira esta. Corta, tranquila, sin reclamo, y lo pasa a tu horario.",
+     "destaques": [
+      "corta",
+      "tranquila",
+      "horario"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él 🌙",
+      "selo": "ejemplo",
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "horario",
+        "escribiendo…"
+       ]
+      ],
+      "msgs": [
+       {
+        "quem": "dele",
+        "txt": "¿Despierta? 😏",
+        "em": 0,
+        "hora": "23:14",
+        "alt": 150
+       },
+       {
+        "quem": "dela",
+        "txt": "Ya me iba a dormir 😴 mañana me cuentas… de día 😉",
+        "em": 0.2,
+        "azul": "corta",
+        "hora": "23:40"
+       }
+      ],
+      "carimbos": [
+       {
+        "tipo": "bom",
+        "txt": "MEJOR ✓",
+        "em": "tranquila",
+        "topo": 640,
+        "x": 300
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "El hombre que de verdad te quiere ver, te busca de día. Y hay frases que hacen que lo haga.",
+     "destaques": [
+      "verdad",
+      "día",
+      "frases"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "pareja_sofa",
+      "pareja_cama",
+      "duerme_sonrie"
+     ],
+     "visual": {
+      "tipo": "broll"
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala hoy, mientras sigue disponible.",
+     "destaques": [
+      "exactas",
+      "gratuita",
+      "botón",
+      "hoy"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_sofa"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "simulação de notícia com tarja URGENTE",
+   "angulo": "Comparação com a outra",
+   "corpo": "K7 a outra: parar de competir, ele escolhe quem sente que pode perder",
+   "gancho": "Urgente. El error que cometen muchas mujeres cuando descubren que él le escribe a otra.",
+   "cta": "texto",
+   "primary_text": "🚨 ¿Descubriste que le escribe a otra? Antes de revisar su celular o mandar indirectas, mira esto. (dramatización)",
+   "cenas": [
+    {
+     "voz": "jornal",
+     "texto": "Urgente. El error que cometen muchas mujeres cuando descubren que él le escribe a otra.",
+     "destaques": [
+      "urgente",
+      "error",
+      "otra"
+     ],
+     "leg_topo": 1035,
+     "brolls": [
+      "llora_velas",
+      "llora_carro"
+     ],
+     "visual": {
+      "tipo": "noticia",
+      "selo": "dramatización",
+      "selo_style": "top:198px",
+      "manchetes": [
+       [
+        0,
+        "El error que casi todas cometen cuando aparece «la otra»"
+       ]
+      ],
+      "letreiro": "ÚLTIMA HORA · revisar su celular no funciona · las indirectas lo alejan · deja de competir · cambia el mensaje ·"
+     }
+    },
+    {
+     "voz": "jornal",
+     "texto": "Revisan su celular, le escriben a ella, publican indirectas. Y sin querer, lo empujan más lejos. Lo que sí funciona es lo contrario: dejar de competir y cambiar el mensaje. Porque un hombre no elige a la que más pelea por él. Elige a la que siente que puede perder.",
+     "destaques": [
+      "celular",
+      "indirectas",
+      "lejos",
+      "contrario",
+      "competir",
+      "perder"
+     ],
+     "leg_topo": 1035,
+     "brolls": [
+      "desesperada",
+      "llora_velas",
+      "hombre_noche",
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "noticia",
+      "selo": "dramatización",
+      "selo_style": "top:198px",
+      "manchetes": [
+       [
+        0,
+        "Revisar su celular lo aleja todavía más"
+       ],
+       [
+        "contrario",
+        "Lo que sí funciona: dejar de competir"
+       ],
+       [
+        "porque",
+        "Él elige a la que siente que puede perder"
+       ]
+      ],
+      "letreiro": "ÚLTIMA HORA · revisar su celular no funciona · las indirectas lo alejan · deja de competir · cambia el mensaje ·"
+     }
+    },
+    {
+     "voz": "jornal",
+     "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala ahora.",
+     "destaques": [
+      "exactas",
+      "gratuita",
+      "botón"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "formato": "mini VSL 15s só texto + música",
+   "angulo": "Autoestima / valor",
+   "corpo": "K6 valor: você não precisa escrever mais, precisa escrever certo",
+   "gancho": "ÉL TE DEJA EN VISTO… Y TÚ LE ESCRIBES OTRA VEZ",
+   "cta": "texto",
+   "musica": "musica.wav",
+   "musica_vol": 0.85,
+   "primary_text": "Él te deja en visto y tú le escribes otra vez. Y otra. Para. 🛑 No te falta amor: te sobra disponibilidad. Clase gratis de 5 min 👇",
+   "cenas": [
+    {
+     "dur": 16.0,
+     "visual": {
+      "tipo": "texto",
+      "frases": [
+       [
+        0.0,
+        "ÉL TE DEJA<br>EN <k>VISTO</k>"
+       ],
+       [
+        1.5,
+        "Y TÚ LE<br>ESCRIBES<br><k>OTRA VEZ</k>",
+        "#3a0d12"
+       ],
+       [
+        3.0,
+        "Y OTRA",
+        "#0d0d0d"
+       ],
+       [
+        3.5,
+        "Y <k>OTRA</k>",
+        "#3a0d12"
+       ],
+       [
+        4.0,
+        "<k>PARA.</k>",
+        "#d90429"
+       ],
+       [
+        5.5,
+        "NO TE FALTA<br><k>AMOR</k>",
+        "#0d0d0d"
+       ],
+       [
+        7.0,
+        "TE SOBRA<br><k>DISPONIBILIDAD</k>",
+        "#14213d",
+        "font-size:70px"
+       ],
+       [
+        8.5,
+        "UNA FRASE<br>CAMBIA<br><k>QUIÉN BUSCA<br>A QUIÉN</k>",
+        "#0d0d0d",
+        "font-size:84px"
+       ],
+       [
+        10.5,
+        "<k>21</k> FRASES<br>SECRETAS",
+        "#3a0d12"
+       ],
+       [
+        12.0,
+        "CLASE <k>GRATIS</k><br>DE 5 MIN",
+        "#0d0d0d"
+       ],
+       [
+        13.5,
+        "TOCA<br><k>ABAJO ↓</k>",
+        "#1b7f3a"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "formato": "zoom & movimento (Daniel, estúdio escuro)",
+   "angulo": "Pare de escrever primeiro (valor)",
+   "corpo": "K6b valor: a que sempre escreve primeiro tira o esforço dele",
+   "gancho": "Deja de ser la que siempre escribe primero.",
+   "cta": "c1",
+   "primary_text": "¿Siempre eres tú la que escribe primero? 😶 Cada vez que lo haces, él se esfuerza menos. No lo ignores: escríbele distinto 👇",
+   "cenas": [
+    {
+     "avatar": "07",
+     "destaques": [
+      "primero",
+      "esforzarse",
+      "aburre",
+      "distinto",
+      "detrás"
+     ],
+     "leg_topo": 900,
+     "visual": {
+      "tipo": "avatar",
+      "zoom": true
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Una frase con curiosidad, sin ruego y sin explicación, que lo deje pensando en ti el resto del día.",
+     "destaques": [
+      "curiosidad",
+      "ruego",
+      "pensando"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "pareja_cama",
+      "duerme_sonrie",
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "broll"
+     }
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "câmera de segurança (CCTV) + stories",
+   "angulo": "Vê seus stories mas não responde",
+   "corpo": "K3 stories: olhar não custa nada, dê a ele uma razão para escrever",
+   "gancho": "Él vio tu historia a las once y cuarenta y siete. Tres veces. Y no te escribió.",
+   "cta": "texto",
+   "primary_text": "Ve todas tus historias… pero no te escribe 👀 No subas más fotos para él. Dale una razón para escribirte. (dramatización)",
+   "cenas": [
+    {
+     "voz": "daniel",
+     "texto": "Él vio tu historia a las once y cuarenta y siete. Tres veces. Y no te escribió.",
+     "destaques": [
+      "historia",
+      "tres",
+      "escribió"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "cctv_cel"
+     ],
+     "visual": {
+      "tipo": "cctv",
+      "cam": "CAM 02 · SALA",
+      "hora": "23:47:05",
+      "selo": "dramatización",
+      "selo_style": "top:1100px;right:40px"
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Ver tus historias no le cuesta nada. Le permite mirarte sin comprometerse. No subas más fotos para él, y no le reacciones primero.",
+     "destaques": [
+      "nada",
+      "comprometerse",
+      "fotos",
+      "primero"
+     ],
+     "leg_topo": 690,
+     "brolls": [
+      "rubia"
+     ],
+     "visual": {
+      "tipo": "stories",
+      "selo": "ejemplo",
+      "selo_style": "top:50px",
+      "rotulo": "Visto por 1",
+      "vistos_em": 0.3,
+      "vistos": [
+       [
+        "🧔",
+        "Él ❤️",
+        "vio tu historia 3 veces · 23:47"
+       ]
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Mándale una frase que le dé una razón para escribirte, y mira cómo pasa de mirar… a escribir.",
+     "destaques": [
+      "razón",
+      "mirar",
+      "escribir"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "mira",
+        "escribiendo…"
+       ]
+      ],
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Te vi mirando 👀 ¿te gustó algo o solo pasabas?",
+        "em": "frase",
+        "azul": "razón",
+        "hora": "23:52",
+        "alt": 210
+       },
+       {
+        "quem": "dele",
+        "txt": "Jaja me atrapaste 🙈",
+        "em": "escribir",
+        "hora": "23:52"
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "¿Quieres saber qué escribirle? Toca el botón de abajo y mira la clase gratuita ahora mismo.",
+     "destaques": [
+      "escribirle",
+      "botón",
+      "gratuita"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_sofa"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "formato": "notícia absurda + plot twist",
+   "angulo": "Homem frio / tédio",
+   "corpo": "K1b frio: mensagem previsível entedia, curiosidade traz de volta",
+   "gancho": "Hombre deja de responderle a su novia durante tres días… y la razón es absurda.",
+   "cta": "texto",
+   "primary_text": "No estaba ocupado. No había otra. Estaba ABURRIDO 😳 Si le escribes siempre lo mismo, mira esto. (dramatización)",
+   "cenas": [
+    {
+     "voz": "locutor",
+     "texto": "Hombre deja de responderle a su novia durante tres días… y la razón es absurda.",
+     "destaques": [
+      "tres",
+      "absurda"
+     ],
+     "leg_topo": 1050,
+     "brolls": [
+      "noche_cel"
+     ],
+     "visual": {
+      "tipo": "viral",
+      "selo": "dramatización",
+      "selo_style": "top:140px",
+      "manchete": "Hombre deja de responder a su novia durante 3 días… y la razón es absurda"
+     }
+    },
+    {
+     "voz": "locutor",
+     "texto": "No estaba ocupado. No había otra. Estaba aburrido.",
+     "leg_topo": 1050,
+     "brolls": [
+      "noche_cel"
+     ],
+     "visual": {
+      "tipo": "viral",
+      "legenda": false,
+      "selo": "dramatización",
+      "selo_style": "top:140px",
+      "manchete": "Hombre deja de responder a su novia durante 3 días… y la razón es absurda",
+      "twist": "NO ESTABA OCUPADO.<br>NO HABÍA OTRA.<br>ESTABA <span class='k'>ABURRIDO</span>",
+      "twist_em": 0
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Sí, aburrido. Ella le escribía siempre lo mismo: ¿cómo estás?, ¿qué haces?, ¿por qué no me contestas? Él ya sabía la respuesta antes de abrirlo. Un hombre frío no vuelve con reclamos. Vuelve con curiosidad.",
+     "destaques": [
+      "aburrido",
+      "mismo",
+      "abrirlo",
+      "reclamos",
+      "curiosidad"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "noche_cel",
+      "llora_carro2",
+      "hombre_noche"
+     ],
+     "visual": {
+      "tipo": "broll"
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Toca el botón de abajo y mira la clase gratuita. Son cinco minutos, y ahí están las frases exactas. Míralo ahora, antes de que la quiten.",
+     "destaques": [
+      "botón",
+      "gratuita",
+      "exactas",
+      "ahora"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "formato": "interface de busca (sem marca)",
+   "angulo": "Fazer ele sentir sua falta",
+   "corpo": "K10 saudade: sumir não funciona, deixar uma sensação funciona",
+   "gancho": "Si alguna vez buscaste esto a medianoche, mira.",
+   "cta": "texto",
+   "primary_text": "“Cómo hacer que me extrañe” 🔍 Casi todos dicen: desaparece. Error. Él se acostumbra. Mira lo que sí deja huella 👇",
+   "cenas": [
+    {
+     "voz": "daniel",
+     "texto": "Si alguna vez buscaste esto a medianoche, mira.",
+     "destaques": [
+      "medianoche",
+      "mira"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "busca",
+      "consulta": "cómo hacer que me extrañe",
+      "digitar_de": 0.05,
+      "digitar_ate": "mira",
+      "sugestoes": [
+       " si ya no me escribe",
+       " sin escribirle",
+       " en 3 días"
+      ],
+      "resultados_em": 9
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Casi todos los consejos dicen lo mismo: desaparece. Error. Si desapareces sin más, él se acostumbra a no tenerte.",
+     "destaques": [
+      "desaparece",
+      "error",
+      "acostumbra"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "busca",
+      "selo": "ejemplo",
+      "selo_style": "top:60px;background:#888",
+      "consulta": "cómo hacer que me extrañe",
+      "digitar_de": 0,
+      "digitar_ate": 0.01,
+      "resultados_em": 0.05,
+      "resultados": [
+       [
+        "blog de consejos",
+        "Cómo hacer que te extrañe: desaparece una semana",
+        "Deja de escribirle y él volverá solo…"
+       ],
+       [
+        "foro de mujeres",
+        "¿Funciona la ley del hielo?",
+        "Lo intenté y él nunca volvió a escribir…"
+       ],
+       [
+        "revista online",
+        "Desaparecer para que te valore",
+        "La distancia hace que te extrañe…"
+       ]
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Un hombre extraña lo que le dejó una sensación: una frase, una risa, una duda. No se trata de escribir menos. Se trata de escribir lo correcto.",
+     "destaques": [
+      "sensación",
+      "frase",
+      "menos",
+      "correcto"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "hombre_noche",
+      "duerme_sonrie",
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "broll"
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala hoy, mientras sigue disponible.",
+     "destaques": [
+      "exactas",
+      "gratuita",
+      "botón",
+      "hoy"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_sofa"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "formato": "UGC no carro (Daniel)",
+   "angulo": "Primeiro encontro",
+   "corpo": "K8 primeiro encontro: deixe ele com vontade, não pergunte quando se veem",
+   "gancho": "Tuviste una primera cita increíble, entonces no le mandes “me encantó, ¿cuándo nos vemos?”.",
+   "cta": "texto",
+   "primary_text": "Primera cita increíble 😍 y ahora… ¿qué le escribes? NO le mandes “¿cuándo nos vemos?”. Mira qué hace que él vuelva 👇",
+   "cenas": [
+    {
+     "avatar": "13",
+     "destaques": [
+      "primera",
+      "encantó",
+      "ganas",
+      "corta",
+      "cabeza"
+     ],
+     "leg_topo": 880,
+     "visual": {
+      "tipo": "avatar"
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Por ejemplo: todavía me río de lo que pasó con el mesero. Y nada más. Deja que la próxima cita la pida él.",
+     "destaques": [
+      "ejemplo",
+      "nada",
+      "él"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "deja",
+        "escribiendo…"
+       ]
+      ],
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Todavía me río de lo que pasó con el mesero 😂",
+        "em": 0.2,
+        "azul": "nada",
+        "hora": "10:12",
+        "alt": 210
+       },
+       {
+        "quem": "dele",
+        "txt": "Jajaja ¿cuándo repetimos? 😏",
+        "em": "pida",
+        "hora": "10:13"
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "¿Quieres saber qué escribirle? Toca el botón de abajo y mira la clase gratuita ahora mismo.",
+     "destaques": [
+      "escribirle",
+      "botón",
+      "gratuita"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_sofa"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "formato": "conselho de amigo no café (Daniel)",
+   "angulo": "Ele está falando com outra",
+   "corpo": "K7b a outra: não compita, seja a que ele sente que pode perder",
+   "gancho": "Si él está hablando con otra, escucha esto antes de hacer una locura.",
+   "cta": "c7",
+   "primary_text": "¿Él está hablando con otra? 💔 Antes de revisar su perfil o mandarle indirectas, escucha esto. La que gana no es la más bonita.",
+   "cenas": [
+    {
+     "avatar": "12",
+     "destaques": [
+      "otra",
+      "locura",
+      "compites",
+      "bonita",
+      "perder"
+     ],
+     "leg_topo": 880,
+     "visual": {
+      "tipo": "avatar"
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Y cuando te escriba, no le preguntes por ella. Háblale como la mujer que tiene su propia vida. Eso es lo que le cambia la cabeza.",
+     "destaques": [
+      "ella",
+      "propia",
+      "cabeza"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "pareja_sofa",
+      "pareja_cama"
+     ],
+     "visual": {
+      "tipo": "broll"
+     }
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "formato": "resposta a comentário (Daniel no café)",
+   "angulo": "Medo de que ele nunca volte",
+   "corpo": "K9 medo: conversa de um lado só não é dos dois",
+   "gancho": "¿Y si dejo de escribirle y él nunca vuelve?",
+   "cta": "texto",
+   "primary_text": "“¿Y si dejo de escribirle y él nunca vuelve?” 😢 Si él solo habla contigo cuando tú escribes, esa conversación es solo tuya. Mira esto 👇",
+   "cenas": [
+    {
+     "avatar": "15",
+     "destaques": [
+      "nunca",
+      "tuya",
+      "sola",
+      "tono",
+      "ganar"
+     ],
+     "leg_topo": 900,
+     "visual": {
+      "tipo": "avatar",
+      "comentario": {
+       "user": "seguidora",
+       "txt": "¿Y si dejo de escribirle y él nunca vuelve? 😢",
+       "em": 0,
+       "ate": "habla"
+      }
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Las frases exactas están en una clase gratuita de cinco minutos. Toca el botón de abajo y mírala hoy, mientras sigue disponible.",
+     "destaques": [
+      "exactas",
+      "gratuita",
+      "botón",
+      "hoy"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "duerme_sonrie"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "formato": "notificações na tela bloqueada",
+   "angulo": "Ex que voltou de madrugada",
+   "corpo": "K2b ex: a mensagem da madrugada é um teste",
+   "gancho": "Si tu ex te escribió esto a medianoche, no le respondas todavía.",
+   "cta": "c1",
+   "primary_text": "Tu ex te escribió “te extraño” a medianoche 📱 No le respondas todavía. Ese mensaje muchas veces es una prueba. Mira por qué 👇",
+   "cenas": [
+    {
+     "voz": "daniel",
+     "texto": "Si tu ex te escribió esto a medianoche, no le respondas todavía.",
+     "destaques": [
+      "ex",
+      "medianoche",
+      "todavía"
+     ],
+     "leg_topo": 1050,
+     "visual": {
+      "tipo": "bloqueio",
+      "hora": "23:58",
+      "selo": "ejemplo",
+      "notifs": [
+       {
+        "de": "Ex 🖤",
+        "txt": "hola",
+        "em": 0,
+        "quando": "hace 2 min"
+       },
+       {
+        "de": "Ex 🖤",
+        "txt": "¿estás despierta?",
+        "em": 0.6,
+        "quando": "hace 1 min"
+       },
+       {
+        "de": "Ex 🖤",
+        "txt": "te extraño 🥺",
+        "em": "medianoche"
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Ese mensaje no siempre es amor. Muchas veces es una prueba: quiere saber si sigues ahí. Si respondes rápido, con todo el corazón, vuelve a desaparecer. Si respondes con calma y con las palabras correctas, el que tiene que esforzarse es él.",
+     "destaques": [
+      "amor",
+      "prueba",
+      "desaparecer",
+      "calma",
+      "correctas",
+      "él"
+     ],
+     "leg_topo": 860,
+     "brolls": [
+      "noche_cel",
+      "hombre_noche",
+      "llora_velas",
+      "pareja_flor"
+     ],
+     "visual": {
+      "tipo": "broll"
+     }
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "formato": "quiz A/B/C (teste)",
+   "angulo": "Ciúmes ao contrário (ele sai com amigos)",
+   "corpo": "K5b ciúmes: segurança deixa a dúvida na cabeça dele",
+   "gancho": "Él te dice: hoy salgo con mis amigos. ¿Qué le respondes?",
+   "cta": "texto",
+   "primary_text": "Él: “Hoy salgo con mis amigos” 🍻 ¿Qué le respondes? A, B o C… La mayoría elige mal. Mira la respuesta 👇",
+   "cenas": [
+    {
+     "voz": "daniel",
+     "texto": "Él te dice: hoy salgo con mis amigos. ¿Qué le respondes?",
+     "destaques": [
+      "amigos",
+      "respondes"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "quiz",
+      "pergunta": "Él: “Hoy salgo con mis amigos” 🍻 ¿Qué le respondes?",
+      "opcoes": [
+       {
+        "txt": "¿Con quién? ¿Va a ir ella? 😒",
+        "em": 0.15
+       },
+       {
+        "txt": "¡Diviértete mucho! 😘",
+        "em": 0.45
+       },
+       {
+        "txt": "Perfecto, yo también tengo planes 😉",
+        "em": 0.75
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Si elegiste la A, él siente control y presión. La B parece buena, pero le dice que te da igual. La C le deja una pregunta en la cabeza: ¿con quién estará ella? Ese pequeño cambio es todo el juego.",
+     "destaques": [
+      "presión",
+      "igual",
+      "pregunta",
+      "juego"
+     ],
+     "leg_topo": 1000,
+     "visual": {
+      "tipo": "quiz",
+      "fixo": true,
+      "pergunta": "Él: “Hoy salgo con mis amigos” 🍻 ¿Qué le respondes?",
+      "opcoes": [
+       {
+        "txt": "¿Con quién? ¿Va a ir ella? 😒",
+        "veredito_em": "presión",
+        "certa": false
+       },
+       {
+        "txt": "¡Diviértete mucho! 😘",
+        "veredito_em": "igual",
+        "certa": false
+       },
+       {
+        "txt": "Perfecto, yo también tengo planes 😉",
+        "veredito_em": "pregunta",
+        "certa": true
+       }
+      ]
+     }
+    },
+    {
+     "voz": "daniel",
+     "texto": "Toca el botón de abajo y mira la clase gratuita. Son cinco minutos, y ahí están las frases exactas. Míralo ahora, antes de que la quiten.",
+     "destaques": [
+      "botón",
+      "gratuita",
+      "exactas",
+      "ahora"
+     ],
+     "leg_topo": 900,
+     "brolls": [
+      "pareja_sofa"
+     ],
+     "visual": {
+      "tipo": "cta"
+     }
+    }
+   ]
+  }
+ ],
+ "notas_fim": "MÉTRICAS (últimos 30 dias, conta 04): poucos dados — CR10.3, cr1 e CR9.2 com 3 conversões cada (CR9.2 mais barato, ~US$23/conv.); cr12 gastou US$191 com 1 conversão (cortar). Nenhum criativo [IA] no ar ainda, então este lote testa FORMATOS novos em volta do ângulo campeão (visto / tom certo / ele se afasta).\nO QUE TESTO AGORA: 12 formatos novos do catálogo + 10 ângulos novos (ciúmes, ex, noite, stories, primeiro encontro, valor, a outra, homem frio, medo de ele não voltar, saudade). Corpos: 15 roteiros diferentes (0 'mesmo corpo com gancho novo').\n\nTABELA criativo → formato · corpo · gancho\n01 → reação exagerada + reviravolta (Daniel, estúdio escuro) · K1 homem frio (Homem frio) · gancho: \"No, no, no, no, no. No le mandes eso.\"\n02 → antes e depois da conversa (tela dividida) · K5 ciúmes (Ciúmes (like na foto de outra)) · gancho: \"Él le dio like a la foto de otra. Arriba, lo que le mandan casi todas. Abajo, lo que lo deja pensando en ti.\"\n03 → gancho + história (fofoca), voz feminina · K2 ex (Ex que voltou) · gancho: \"Mi amiga llevaba semanas rogándole a su ex… y lo que pasó cuando dejó de hacerlo me dejó loca.\"\n04 → demonstração na tela (errado x certo) · K4 noite (Ele só aparece à noite) · gancho: \"¿Solo te escribe a las once de la noche? Te muestro qué responder, y qué no.\"\n05 → simulação de notícia com tarja URGENTE · K7 a outra (Comparação com a outra) · gancho: \"Urgente. El error que cometen muchas mujeres cuando descubren que él le escribe a otra.\"\n06 → mini VSL 15s só texto + música · K6 valor (Autoestima / valor) · gancho: \"ÉL TE DEJA EN VISTO… Y TÚ LE ESCRIBES OTRA VEZ\"\n07 → zoom & movimento (Daniel, estúdio escuro) · K6b valor (Pare de escrever primeiro (valor)) · gancho: \"Deja de ser la que siempre escribe primero.\"\n08 → câmera de segurança (CCTV) + stories · K3 stories (Vê seus stories mas não responde) · gancho: \"Él vio tu historia a las once y cuarenta y siete. Tres veces. Y no te escribió.\"\n09 → notícia absurda + plot twist · K1b frio (Homem frio / tédio) · gancho: \"Hombre deja de responderle a su novia durante tres días… y la razón es absurda.\"\n10 → interface de busca (sem marca) · K10 saudade (Fazer ele sentir sua falta) · gancho: \"Si alguna vez buscaste esto a medianoche, mira.\"\n11 → UGC no carro (Daniel) · K8 primeiro encontro (Primeiro encontro) · gancho: \"Tuviste una primera cita increíble, entonces no le mandes “me encantó, ¿cuándo nos vemos?”.\"\n12 → conselho de amigo no café (Daniel) · K7b a outra (Ele está falando com outra) · gancho: \"Si él está hablando con otra, escucha esto antes de hacer una locura.\"\n13 → resposta a comentário (Daniel no café) · K9 medo (Medo de que ele nunca volte) · gancho: \"¿Y si dejo de escribirle y él nunca vuelve?\"\n14 → notificações na tela bloqueada · K2b ex (Ex que voltou de madrugada) · gancho: \"Si tu ex te escribió esto a medianoche, no le respondas todavía.\"\n15 → quiz A/B/C (teste) · K5b ciúmes (Ciúmes ao contrário (ele sai com amigos)) · gancho: \"Él te dice: hoy salgo con mis amigos. ¿Qué le respondes?\"\n\nRESULTADO: {enviados} criativos publicados para revisão (pasta 21-frases/lotes/2026-11-08-L2/). Cada vídeo revisado quadro a quadro; cortes de cenas de campeão ajustados para não mostrar troca de imagem nem legenda antiga.\nHeyGen: 0 s novos gerados nesta execução. Reaproveitados os 5 clipes de Avatar IV do Daniel já pagos em 07/11 (84 s = 1,4 min; visuais estúdio escuro, café e carro). Saldo da carteira HeyGen: US$ 2,95 (sem uso hoje). Vozes: TTS gratuito (turbo-free): voz clonada do Daniel + 3 vozes prontas (mulher, jornal, locutor).\nSimulações (WhatsApp, notícia, CCTV, busca, notificações, comentário) marcadas com 'ejemplo'/'dramatización'. Ninguém afirma ser cliente; sem números ou estudos inventados."
 }

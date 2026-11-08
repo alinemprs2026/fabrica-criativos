@@ -68,7 +68,7 @@ def palavras_avatar(av, pasta):
     cor = dict(av.get("correcoes", {}))
     out = []
     for w in ws:
-        t = w["text"].strip()
+        t = w["text"].strip().replace(",¿", ", ").replace("?¿", "? ").replace(".¿", ". ")
         if t in cor:
             t = cor.pop(t)
         out.append({"txt": t, "ini": w["start"], "fim": w["end"]})
@@ -89,7 +89,8 @@ def montar_um(plano, cr, base, brolls):
             wav, r = tts_cache(base, plano["vozes"][ce["voz"]], ce["texto"])
             shutil.copy(wav, os.path.join(proj, f"voz{k}.wav"))
             cena["audio"] = f"voz{k}.wav"
-            dur = r["duracao"] + ce.get("pausa", 0.12)
+            fala = r["palavras"][-1]["fim"] + 0.2 if r["palavras"] else r["duracao"]
+            dur = min(r["duracao"], fala) + ce.get("pausa", 0.05)  # corta o silêncio do fim (ritmo)
             cena["palavras"] = [dict(w, ini=w["ini"] + t, fim=w["fim"] + t) for w in r["palavras"]]
         elif "avatar" in ce:
             av = plano["avatares"][ce["avatar"]]

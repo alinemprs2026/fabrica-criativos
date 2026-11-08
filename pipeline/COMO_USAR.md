@@ -19,3 +19,10 @@ Os vídeos ficam só em `$FABRICA_WORK` (padrão `/tmp/fabrica`) e no bucket —
 IDs úteis (21 Frases): avatar "Daniel 21 frases secretas" = grupo `e0fdc9ef8c8b44198ce9742e28310d54` (4 visuais no JSON do lote);
 voz clonada do campeão = `0e07ee5d68de482aa44d5095dfa2f900`.
 Nunca subir nada no Facebook por esta rotina.
+
+## Formatos novos (Lote 2 em diante): criativo inteiro por roteiro de cenas
+- Plano: `pipeline/lotes/21-frases-lote-2.json` (cenas com voz grátis, clipes de Avatar IV já pagos, cenas dos campeões e visuais em HTML).
+- Visuais prontos em `formatos/cenas.py`: avatar (com zoom & movimento), broll, zap, split (antes/depois), busca, stories, notícia URGENTE,
+  notícia absurda + plot twist, CCTV, tela bloqueada, quiz A/B/C, texto + música (mini VSL), cartão de CTA, comentário.
+- `python3 pipeline/roteiro.py <lote.json> --vozes` (vozes) → `python3 pipeline/roteiro.py <lote.json> [ids]` (render) → revisar → `publicar.py`.
+- Cenas dos campeões: conferir os cortes (o campeão alterna cena em cima/embaixo e tem trocas rápidas; olhar a folha de quadros antes).

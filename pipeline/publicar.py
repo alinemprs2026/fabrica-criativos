@@ -41,13 +41,17 @@ def main():
         F.storage_enviar(v, sp, "video/mp4")
         F.storage_enviar(thumb, tp, "image/jpeg")
         if sp not in ja:
-            corpo = plano["corpos"][cr["corpo"]]["nome"]
-            st, d = F.rest("POST", "creatives", {
+            corpo = plano.get("corpos", {}).get(cr["corpo"], {}).get("nome", cr["corpo"])
+            gancho = cr["gancho"]["texto"] if isinstance(cr["gancho"], dict) else cr["gancho"]
+            linha = {
                 "batch_id": batch_id, "workspace_id": area,
                 "title": f"{plano['titulo']} · {cr['id']} · {cr['angulo']}",
                 "format": cr["formato"], "angle": f"{cr['angulo']} (corpo: {corpo})",
-                "hook": cr["gancho"]["texto"], "storage_path": sp, "thumb_path": tp,
-                "duration_s": round(F.duracao(v), 1), "status": "pendente"})
+                "hook": gancho, "storage_path": sp, "thumb_path": tp,
+                "duration_s": round(F.duracao(v), 1), "status": "pendente"}
+            if cr.get("primary_text"):
+                linha["primary_text"] = cr["primary_text"]
+            st, d = F.rest("POST", "creatives", linha)
             if st not in (200, 201):
                 raise RuntimeError(f"creatives {cr['id']}: {st} {d}")
         enviados += 1
@@ -57,10 +61,13 @@ def main():
     seg = json.load(open(gasto))["segundos"] if os.path.exists(gasto) else 0
     st, b = F.rest("GET", f"creative_batches?id=eq.{batch_id}&select=notes")
     notas = (b[0]["notes"] or "") if st == 200 and b else ""
-    notas += (f"\n\nRESULTADO: {enviados} criativos publicados para revisão "
-              f"({len(descartar)} descartados na revisão).\n"
-              f"HeyGen usado: {seg:.0f} s = {seg/60:.2f} min de Avatar IV (teto semanal: 3 min). "
-              f"Vozes: TTS gratuito (turbo-free) com voz clonada do campeão.")
+    if plano.get("notas_fim"):  # texto pronto do lote (tabela de variação, gasto de HeyGen)
+        notas += "\n\n" + plano["notas_fim"].replace("{enviados}", str(enviados))
+    else:
+        notas += (f"\n\nRESULTADO: {enviados} criativos publicados para revisão "
+                  f"({len(descartar)} descartados na revisão).\n"
+                  f"HeyGen usado: {seg:.0f} s = {seg/60:.2f} min de Avatar IV (teto semanal: 3 min). "
+                  f"Vozes: TTS gratuito (turbo-free) com voz clonada do campeão.")
     st, d = F.rest("PATCH", f"creative_batches?id=eq.{batch_id}", {"notes": notas, "status": "pronto"})
     print("lote pronto" if st in (200, 204) else f"erro ao fechar lote {st} {d}")
 
