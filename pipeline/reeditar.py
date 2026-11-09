@@ -48,7 +48,9 @@ class Banco:
         tipo, nome = chave.split(":", 1)
         if tipo == "b":
             arq = self.idx[int(nome)]["arquivo"]
-            return F.storage_baixar(arq, os.path.join(F.WORK, arq)), None
+            src = F.storage_baixar(arq, os.path.join(F.WORK, arq))
+            lim = self.plano.get("limites", {}).get(chave)  # só o trecho bom do clipe
+            return src, ((lim[0], lim[1], "null") if lim else None)
         c, ini, fim, reg, *_ = self.plano["brolls"][nome]
         arq = self.plano["campeoes"][c]
         src = F.storage_baixar(f"{self.plano['produto']}/campeoes/{arq}",

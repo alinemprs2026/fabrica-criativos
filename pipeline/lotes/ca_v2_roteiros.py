@@ -93,7 +93,7 @@ V["02"] = dict(primary_text="No te digo que dejes a Dios. Te digo que dejes de r
 ])
 
 V["03"] = dict(primary_text="Dicen que intentaron borrar este video. Un millonario explica la parte de la mente que casi nadie usa. 🤫 Mírelo antes de que lo quiten 👇", blocos=[
-    [("Y no, no es un video de *motivación*.", 96), ("Es un hombre que se volvió *millonario*", 137), ("y que nunca muestra la *cara*.", "c:montana")],
+    [("Y no, no es un video de *motivación*.", 96), ("Es un hombre que se volvió *millonario*", 137), ("y que nunca muestra la *cara*.", 88)],
     [("Él cuenta algo que, según dice,", 141), ("la *élite* conoce hace mucho tiempo", 142), ("y que fue *borrado*", "c:estatua"),
      ("de las enseñanzas espirituales.", "c:libro")],
     [("Por eso usted reza,", 83), ("repite *afirmaciones*, visualiza…", 169), ("y siente que todo se queda en el *aire*.", 126)],
@@ -364,21 +364,44 @@ V["20"] = dict(primary_text="Suena loco, pero escúchame hasta el final. 👀 Un
 
 # grupos de sentido para espalhar as imagens entre os vídeos (troca só dentro do mesmo tema)
 GRUPOS = [
-    ["b:161", "b:92", "b:80", "b:119", "b:89", "b:128", "b:114", "b:109", "b:153", "c:despertar", "b:90", "b:91", "c:torres"],
+    ["b:161", "b:92", "b:80", "b:119", "b:89", "b:128", "b:114", "b:109", "b:153", "c:despertar", "b:90", "b:91",
+     "b:95", "b:82", "b:145", "c:cruz", "b:133"],
     ["b:184", "b:105", "b:106", "b:107", "b:108", "b:146", "b:152", "b:183", "b:126", "b:85"],
-    ["b:157", "b:83", "b:154", "c:barba", "c:meditar", "b:76", "b:150"],
+    ["b:157", "b:83", "b:154", "c:barba", "b:76", "b:150"],
     ["b:186", "c:cruz", "b:97", "c:redentor"],
-    ["b:95", "b:136", "b:141", "b:110", "b:82", "c:mar", "c:playa", "c:silueta", "b:172", "b:145", "b:155", "b:75", "b:94"],
+    ["b:95", "b:136", "b:141", "b:110", "b:82", "c:mar", "c:playa", "b:172", "b:145", "b:155", "b:75", "b:94"],
     ["b:129", "b:93", "b:112", "b:113", "c:reloj"],
-    ["b:96", "b:124", "b:185", "c:joven", "b:126"],
+    ["b:96", "b:124", "b:185", "b:126"],
     ["b:121", "b:122", "b:143", "b:187", "b:123"],
     ["c:monasterio", "c:estatua", "c:libro", "b:162", "b:163", "b:151", "c:buda_cueva"],
-    ["b:138", "b:170", "c:meditar", "b:136"],
+    ["b:138", "b:170", "b:136"],
     ["b:99", "b:94", "b:172", "b:82"],
-    ["b:115", "b:153", "c:montana"],
+    ["b:115", "b:153"],
 ]
-LIMITE = 6
+LIMITE = 7
+# cortes que, sem a legenda antiga (só a parte de cima), ficam vazios ou com rosto cortado: trocados por imagem do mesmo tema
+PROIBIDOS = {"c:torres": 0, "c:torres2": 0, "c:joven": 6, "c:meditar": 9, "c:montana": 11, "c:silueta": 4}
+# trechos úteis de clipes do banco (o resto fica escuro ou vazio)
+LIMITES = {"b:161": [0.0, 4.6]}
 FIXOS = {"b:169"}  # afirmações escritas: sem substituto com o mesmo sentido
+
+
+def trocar_proibidos(crs):
+    from collections import Counter
+    cont = Counter(p[1] for c in crs for b in c["blocos"] for p in b.get("partes", []))
+    out = []
+    for c in crs:
+        no_video = {p[1] for b in c["blocos"] for p in b.get("partes", [])}
+        for b in c["blocos"]:
+            for p in b.get("partes", []):
+                if p[1] in PROIBIDOS:
+                    cands = [x for x in GRUPOS[PROIBIDOS[p[1]]] if x not in no_video] or \
+                            [x for x in GRUPOS[0] if x not in no_video]
+                    novo = min(cands, key=lambda x: cont[x])
+                    cont[novo] += 1; no_video.add(novo)
+                    out.append(f"{c['id']}: '{p[0]}' {p[1]}->{novo}")
+                    p[1] = novo
+    return out
 
 
 def balancear(crs):
@@ -465,6 +488,8 @@ def main():
         crs.append({"id": i, "formato": cr["formato"], "angulo": cr["angulo"], "corte": corte,
                     **({"cauda": cauda} if cauda else {}), "voz": cr["voz"],
                     "primary_text": v["primary_text"], "blocos": blocos})
+    for t in trocar_proibidos(crs):
+        print("  proibido", t)
     for t in balancear(crs):
         print("  troca", t)
     uso = {}
@@ -478,7 +503,7 @@ def main():
         "produto": "codigo-alfa", "titulo": "Código Alfa · Lote 1 (reeditado: mínimo 1 min)",
         "obs": "Gancho original intacto, corpo e final novos (VSL), fechamento com o avatar já pago. Sem HeyGen novo: só TTS grátis.",
         "origem": "codigo-alfa/lotes/2026-11-08/codigo-alfa-lote-1-{id}.mp4",
-        "banco": "banco/indice.json", "vozes": BASE["vozes"], "campeoes": BASE["campeoes"],
+        "banco": "banco/indice.json", "limites": LIMITES, "vozes": BASE["vozes"], "campeoes": BASE["campeoes"],
         "brolls": {k: v + ["alto"] for k, v in CORTES.items()}, "criativos": crs}
     json.dump(plano, open(os.path.join(AQUI, "codigo-alfa-lote-1-v2.json"), "w"), ensure_ascii=False, indent=1)
     rep = sorted(uso.items(), key=lambda x: -len(x[1]))

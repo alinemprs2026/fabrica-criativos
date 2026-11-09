@@ -4,6 +4,12 @@
  "obs": "Gancho original intacto, corpo e final novos (VSL), fechamento com o avatar já pago. Sem HeyGen novo: só TTS grátis.",
  "origem": "codigo-alfa/lotes/2026-11-08/codigo-alfa-lote-1-{id}.mp4",
  "banco": "banco/indice.json",
+ "limites": {
+  "b:161": [
+   0.0,
+   4.6
+  ]
+ },
  "vozes": {
   "VC1": "8b6be7eaa5e54afe9fe76e5e65c45f58",
   "VC2": "6864748553444832a7f7f1cca4f42c9d",
@@ -351,7 +357,7 @@
       ],
       [
        "y empezó a ver oportunidades",
-       "c:silueta"
+       "b:94"
       ],
       [
        "que antes pasaban frente a ella.",
@@ -406,7 +412,7 @@
      "partes": [
       [
        "Sí, escuchaste bien.",
-       "c:joven"
+       "b:126"
       ],
       [
        "No te digo que dejes a Dios.",
@@ -644,7 +650,7 @@
       ],
       [
        "y que nunca muestra la cara.",
-       "c:montana"
+       "b:88"
       ]
      ],
      "destaques": [
@@ -785,7 +791,7 @@
       ],
       [
        "menos miedo al futuro.",
-       "c:silueta"
+       "b:94"
       ]
      ],
      "destaques": [
@@ -952,7 +958,7 @@
       ],
       [
        "que se hace en silencio, en casa.",
-       "c:meditar"
+       "b:136"
       ]
      ],
      "destaques": [
@@ -1013,7 +1019,7 @@
       ],
       [
        "Pero si este video te apareció de madrugada,",
-       "c:montana"
+       "b:133"
       ],
       [
        "no creo que sea casualidad.",
@@ -1092,7 +1098,7 @@
       ],
       [
        "que recibe esas señales",
-       "c:torres"
+       "b:92"
       ],
       [
        "está dormida.",
@@ -1203,7 +1209,7 @@
       ],
       [
        "Por eso no te pido que creas.",
-       "c:joven"
+       "b:185"
       ],
       [
        "Te pido que lo veas.",
@@ -1355,7 +1361,7 @@
      "partes": [
       [
        "Él enseña cómo hacerlo",
-       "c:torres"
+       "b:161"
       ],
       [
        "con un ritual de siete minutos.",
@@ -1419,7 +1425,7 @@
       ],
       [
        "y puede cambiar para siempre",
-       "c:silueta"
+       "b:82"
       ],
       [
        "la forma en que usted reza.",
@@ -1448,7 +1454,7 @@
      "partes": [
       [
        "Antes de que te enojes, escúchame.",
-       "c:joven"
+       "b:124"
       ],
       [
        "Dios no es el problema.",
@@ -1540,7 +1546,7 @@
       ],
       [
        "Es que estás pidiendo con la antena apagada.",
-       "c:torres2"
+       "b:133"
       ]
      ],
      "destaques": [
@@ -1557,7 +1563,7 @@
       ],
       [
        "Dice que esa parte se puede volver a conectar",
-       "c:torres"
+       "b:92"
       ],
       [
        "con un ritual de siete minutos,",
@@ -1690,7 +1696,7 @@
       ],
       [
        "Un inventor obsesionado con la energía.",
-       "c:torres"
+       "b:90"
       ]
      ],
      "destaques": [
@@ -1757,7 +1763,7 @@
      "partes": [
       [
        "Hoy la mayoría reza,",
-       "b:83"
+       "b:150"
       ],
       [
        "visualiza y repite afirmaciones",
@@ -1795,7 +1801,7 @@
       ],
       [
        "para despertar esa parte.",
-       "b:161"
+       "b:82"
       ]
      ],
      "destaques": [
@@ -1818,7 +1824,7 @@
       ],
       [
        "Es algo que, según él,",
-       "c:montana"
+       "b:91"
       ],
       [
        "fue sacado de las enseñanzas a propósito.",
@@ -1988,7 +1994,7 @@
       ],
       [
        "por qué esa parte está dormida en casi todos,",
-       "b:146"
+       "b:184"
       ],
       [
        "y por qué las oraciones",
@@ -2035,7 +2041,7 @@
      "partes": [
       [
        "Él muestra un ritual de siete minutos",
-       "c:meditar"
+       "b:170"
       ],
       [
        "para hacerlo en silencio, en casa.",
@@ -2073,7 +2079,7 @@
       ],
       [
        "con otros ojos.",
-       "c:silueta"
+       "b:110"
       ]
      ],
      "destaques": [
@@ -2211,7 +2217,7 @@
       ],
       [
        "está dormida.",
-       "b:183"
+       "b:107"
       ]
      ],
      "destaques": [
@@ -2300,7 +2306,7 @@
       ],
       [
        "No tienes que dejar tu fe.",
-       "b:157"
+       "b:76"
       ],
       [
        "Solo siete minutos",
@@ -2423,7 +2429,7 @@
       ],
       [
        "Porque es verdad:",
-       "b:107"
+       "b:106"
       ],
       [
        "llevo años pidiendo lo mismo,",
@@ -2506,11 +2512,11 @@
       ],
       [
        "dejas de perseguir las cosas,",
-       "b:94"
+       "b:99"
       ],
       [
        "y empiezas a ver oportunidades",
-       "c:silueta"
+       "b:82"
       ],
       [
        "que antes no veías.",
@@ -2577,7 +2583,7 @@
       ],
       [
        "Él no promete magia.",
-       "c:joven"
+       "b:185"
       ],
       [
        "Habla de calma, de claridad,",
@@ -2657,7 +2663,7 @@
       ],
       [
        "Y la mayoría lo intenta durante años",
-       "b:129"
+       "b:113"
       ],
       [
        "sin ver nada.",
@@ -2696,11 +2702,11 @@
      "partes": [
       [
        "Es como tener una radio buena",
-       "c:torres2"
+       "b:89"
       ],
       [
        "con la antena desconectada.",
-       "c:torres"
+       "b:133"
       ],
       [
        "Puedes subir el volumen todo lo que quieras,",
@@ -2746,11 +2752,11 @@
       ],
       [
        "La antena es una parte espiritual de tu mente,",
-       "b:92"
+       "b:109"
       ],
       [
        "la misma que cuidaban los antiguos cristianos,",
-       "b:151"
+       "c:monasterio"
       ],
       [
        "budistas y egipcios.",
@@ -2768,11 +2774,11 @@
      "partes": [
       [
        "Y casi nadie sabe que está dormida.",
-       "b:106"
+       "b:85"
       ],
       [
        "Él muestra cómo reconectarla",
-       "b:128"
+       "b:114"
       ],
       [
        "con un ritual de siete minutos.",
@@ -2795,11 +2801,11 @@
      "partes": [
       [
        "Ojo: no te promete magia.",
-       "c:joven"
+       "b:124"
       ],
       [
        "Lo que describe es otra forma de vivir:",
-       "b:155"
+       "b:95"
       ],
       [
        "menos perseguir,",
@@ -2829,7 +2835,7 @@
       ],
       [
        "esta es la pieza que nadie te contó.",
-       "b:114"
+       "b:119"
       ]
      ],
      "destaques": [
@@ -2897,7 +2903,7 @@
       ],
       [
        "de la mente.",
-       "b:90"
+       "b:89"
       ]
      ],
      "destaques": [
@@ -2912,7 +2918,7 @@
      "partes": [
       [
        "En ellos está encendida.",
-       "b:89"
+       "b:128"
       ],
       [
        "En casi todos los demás",
@@ -2920,7 +2926,7 @@
       ],
       [
        "está apagada desde hace años.",
-       "b:153"
+       "b:115"
       ]
      ],
      "destaques": [
@@ -3013,7 +3019,7 @@
       ],
       [
        "Perdiste siete minutos.",
-       "b:129"
+       "b:112"
       ],
       [
        "¿Y si funciona?",
@@ -3087,7 +3093,7 @@
      "partes": [
       [
        "Siglos después, los monjes cristianos",
-       "b:186"
+       "c:cruz"
       ],
       [
        "hablaban de lo mismo.",
@@ -3108,11 +3114,11 @@
      "partes": [
       [
        "Una parte espiritual de la mente.",
-       "b:90"
+       "b:133"
       ],
       [
        "Una puerta hacia lo divino.",
-       "b:114"
+       "b:80"
       ],
       [
        "Con el tiempo, ese conocimiento",
@@ -3165,7 +3171,7 @@
      "partes": [
       [
        "Por eso hoy tanta gente reza",
-       "b:83"
+       "c:barba"
       ],
       [
        "sin sentir respuesta.",
@@ -3195,11 +3201,11 @@
       ],
       [
        "se puede despertar",
-       "b:91"
+       "b:92"
       ],
       [
        "con un ritual corto, de siete minutos,",
-       "c:reloj"
+       "b:93"
       ],
       [
        "inspirado en esas tradiciones antiguas.",
@@ -3218,7 +3224,7 @@
      "partes": [
       [
        "Él dice que lo primero que cambia",
-       "b:145"
+       "b:110"
       ],
       [
        "es la sensación de paz,",
@@ -3226,7 +3232,7 @@
       ],
       [
        "y la claridad para ver oportunidades.",
-       "c:silueta"
+       "b:172"
       ]
      ],
      "destaques": [
@@ -3243,7 +3249,7 @@
       ],
       [
        "no va a durar mucho en línea.",
-       "b:129"
+       "c:reloj"
       ],
       [
        "Lo que los sacerdotes guardaban",
@@ -3387,11 +3393,11 @@
       ],
       [
        "que conecta con lo divino",
-       "b:92"
+       "b:82"
       ],
       [
        "está dormida.",
-       "c:montana"
+       "b:115"
       ]
      ],
      "destaques": [
@@ -3405,7 +3411,7 @@
      "partes": [
       [
        "Es como llamar a alguien",
-       "c:torres2"
+       "b:92"
       ],
       [
        "con la línea cortada.",
@@ -3430,15 +3436,15 @@
       ],
       [
        "no cambia nada.",
-       "b:85"
+       "b:108"
       ],
       [
        "No es falta de fe.",
-       "c:joven"
+       "b:96"
       ],
       [
        "Es falta de conexión.",
-       "c:torres"
+       "b:89"
       ],
       [
        "Y eso tiene solución.",
@@ -3465,11 +3471,11 @@
       ],
       [
        "Él muestra cómo hacerlo hoy,",
-       "b:89"
+       "b:145"
       ],
       [
        "con un ritual de siete minutos.",
-       "c:meditar"
+       "b:138"
       ]
      ],
      "destaques": [
@@ -3483,7 +3489,7 @@
      "partes": [
       [
        "Dice que cuando despierta,",
-       "b:172"
+       "b:75"
       ],
       [
        "la oración se siente distinta:",
@@ -3552,11 +3558,11 @@
      "partes": [
       [
        "Durante siglos, una parte de la enseñanza",
-       "b:162"
+       "c:libro"
       ],
       [
        "fue quedando afuera.",
-       "b:163"
+       "b:162"
       ],
       [
        "No por maldad.",
@@ -3604,7 +3610,7 @@
      "partes": [
       [
        "Una parte espiritual de la mente.",
-       "b:91"
+       "b:89"
       ],
       [
        "La misma que los budistas cuidaban en silencio",
@@ -3634,7 +3640,7 @@
       ],
       [
        "Por eso tantas oraciones",
-       "c:meditar"
+       "b:157"
       ],
       [
        "se sienten vacías.",
@@ -3651,7 +3657,7 @@
      "partes": [
       [
        "No porque no tengas fe.",
-       "c:joven"
+       "b:124"
       ],
       [
        "Ni porque Dios no escuche.",
@@ -3659,7 +3665,7 @@
       ],
       [
        "Es que esa parte quedó apagada,",
-       "c:montana"
+       "b:153"
       ],
       [
        "y nadie te enseñó a encenderla.",
@@ -3686,7 +3692,7 @@
       ],
       [
        "Y muestra cómo despertarla",
-       "b:92"
+       "b:114"
       ],
       [
        "con un ritual de siete minutos.",
@@ -3712,7 +3718,7 @@
       ],
       [
        "Te devuelve la pieza que faltaba.",
-       "b:89"
+       "b:90"
       ]
      ],
      "destaques": [
@@ -3726,7 +3732,7 @@
      "partes": [
       [
        "Cuando esa parte despierta,",
-       "b:94"
+       "b:155"
       ],
       [
        "rezar deja de ser rogar.",
@@ -3751,11 +3757,11 @@
       ],
       [
        "Habla de paz,",
-       "b:110"
+       "c:mar"
       ],
       [
        "de claridad,",
-       "b:82"
+       "b:141"
       ],
       [
        "de dejar de vivir con miedo.",
@@ -3831,7 +3837,7 @@
       ],
       [
        "de la forma equivocada:",
-       "b:107"
+       "b:106"
       ],
       [
        "pidiendo,",
@@ -3839,7 +3845,7 @@
       ],
       [
        "visualizando,",
-       "b:94"
+       "b:110"
       ],
       [
        "repitiendo frases frente al espejo.",
@@ -3861,11 +3867,11 @@
       ],
       [
        "si una parte de tu mente está dormida.",
-       "b:183"
+       "b:107"
       ],
       [
        "Una parte espiritual",
-       "b:92"
+       "b:145"
       ],
       [
        "que los antiguos llamaban",
@@ -3895,7 +3901,7 @@
       ],
       [
        "En silencio.",
-       "c:meditar"
+       "b:170"
       ],
       [
        "Desde tu casa.",
@@ -3912,7 +3918,7 @@
      "partes": [
       [
        "Sin velas, sin cursos, sin complicaciones.",
-       "b:110"
+       "b:172"
       ]
      ],
      "destaques": [
@@ -3945,11 +3951,11 @@
      "partes": [
       [
        "Él cuenta que lo primero que cambia",
-       "b:82"
+       "b:133"
       ],
       [
        "es esa sensación de estar siempre corriendo",
-       "b:172"
+       "b:94"
       ],
       [
        "detrás de todo.",
@@ -3979,7 +3985,7 @@
       ],
       [
        "Y no tienes que creer en nada para verlo.",
-       "c:joven"
+       "b:183"
       ]
      ],
      "destaques": [
@@ -3991,7 +3997,7 @@
      "partes": [
       [
        "Míralo hoy,",
-       "b:90"
+       "b:92"
       ],
       [
        "mientras sigue disponible.",
@@ -4075,11 +4081,11 @@
      "partes": [
       [
        "Una parte espiritual",
-       "b:92"
+       "b:90"
       ],
       [
        "que casi todos tenemos apagada.",
-       "c:montana"
+       "b:153"
       ],
       [
        "Por eso rezamos,",
@@ -4091,7 +4097,7 @@
       ],
       [
        "y seguimos en el mismo lugar.",
-       "b:183"
+       "b:152"
       ]
      ],
      "destaques": [
@@ -4114,7 +4120,7 @@
       ],
       [
        "tenían formas de despertarla.",
-       "b:89"
+       "b:91"
       ]
      ],
      "destaques": [
@@ -4127,7 +4133,7 @@
      "partes": [
       [
        "Y que hoy se puede hacer",
-       "b:94"
+       "b:82"
       ],
       [
        "con tres pasos sencillos",
@@ -4135,7 +4141,7 @@
       ],
       [
        "y un ritual de siete minutos.",
-       "c:meditar"
+       "b:138"
       ]
      ],
      "destaques": [
@@ -4164,7 +4170,7 @@
       ],
       [
        "No tienes que dejar tu fe.",
-       "b:97"
+       "c:redentor"
       ],
       [
        "Es solo una forma distinta de despertar.",
@@ -4197,7 +4203,7 @@
       ],
       [
        "esperando algo distinto?",
-       "b:106"
+       "b:183"
       ]
      ],
      "destaques": [
@@ -4214,7 +4220,7 @@
       ],
       [
        "Míralo hasta el final,",
-       "b:82"
+       "b:94"
       ],
       [
        "como te pedí.",
