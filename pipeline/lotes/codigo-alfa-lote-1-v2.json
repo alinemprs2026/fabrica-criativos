@@ -2791,7 +2791,7 @@
       ],
       [
        "No necesitas dejar tu fe.",
-       "c:redentor"
+       "b:97"
       ]
      ],
      "destaques": [
@@ -2993,7 +2993,7 @@
       ],
       [
        "sin cambiar tus creencias.",
-       "c:redentor"
+       "b:97"
       ]
      ],
      "destaques": [
@@ -3098,7 +3098,7 @@
      "partes": [
       [
        "Siglos después, los monjes cristianos",
-       "c:redentor"
+       "b:186"
       ],
       [
        "hablaban de lo mismo.",
@@ -3298,7 +3298,7 @@
       "sobre": "VIDEO CORTO",
       "titulo": "EL VIDEO DEL<br>MILLONARIO",
       "botao": "MIRA EL VIDEO ↓",
-      "fundo": "b:155"
+      "fundo": "b:119"
      },
      "destaques": [
       "botón",
@@ -3520,7 +3520,7 @@
      "partes": [
       [
        "No tienes que dejar tu iglesia.",
-       "c:redentor"
+       "b:186"
       ],
       [
        "No tienes que creer en nada nuevo.",
@@ -3571,7 +3571,7 @@
       ],
       [
        "No por maldad.",
-       "c:redentor"
+       "b:97"
       ],
       [
        "Simplemente se perdió.",
@@ -3986,7 +3986,7 @@
      "partes": [
       [
        "No es religión ni meditación de horas.",
-       "c:redentor"
+       "b:186"
       ],
       [
        "Y no tienes que creer en nada para verlo.",
@@ -4171,7 +4171,7 @@
      "partes": [
       [
        "No es una religión.",
-       "c:redentor"
+       "b:186"
       ],
       [
        "No tienes que dejar tu fe.",
@@ -4239,5 +4239,6 @@
     }
    ]
   }
- ]
+ ],
+ "notas_fim": "HeyGen nesta reedição: 0 min (só TTS grátis; gancho e fechamento com avatar reaproveitados do vídeo já pago).\nDescartados (status reprovado): 15 = avatar idoso (senhora): regra da Aline de 08/11; 16 = avatar idoso (avó): regra da Aline de 08/11.\nImagens: tela cheia, sem caixa/fundo borrado/etiqueta; nada de celular, casal ou idosos; cada imagem 1x por vídeo.\nCriativo → formato · corpo:\n01 → UGC selfie no carro · $8.000 por accidente (3ª pessoa) + video extraño\n02 → pregador no palco (gancho campeão) · Deja de rezar por bendiciones\n03 → UGC selfie no carro · Video que intentaron borrar\n04 → UGC selfie à noite · 3 de la mañana sin dormir\n05 → UGC selfie no carro · No es coincidencia\n06 → UGC na cozinha · Deja de rezar por dinero\n07 → pregador no palco · Deja de pedirle a Dios\n08 → narração com imagens (gancho campeão) · Jesús, Tesla y Buda\n09 → pregador no palco · El reino de Dios está dentro de ti\n10 → podcast (apresentadora, gancho campeão) · Ley de atracción solo para millonarios\n11 → conversa de WhatsApp · Amiga mandou o video (suena loco)\n12 → podcast (apresentador homem) · Ley de atracción sí funciona, solo para quien sabe esto\n13 → podcast (apresentadora) · Millonarios tienen encendida una parte\n14 → gancho histórico (Egipto) · Secreto de los sacerdotes egipcios\n17 → título de impacto + cena de emoção · ¿Rezas y nadie te escucha?\n18 → título de impacto + cena religiosa · Esto no te lo enseñaron en la iglesia\n19 → UGC na praia · Ritual de 7 minutos que no quieren que conozcas\n20 → UGC na piscina · Suena loco, escúchame hasta el final"
 }

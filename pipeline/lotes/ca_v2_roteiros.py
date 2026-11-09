@@ -290,7 +290,7 @@ V["14"] = dict(corte=5.40, primary_text="Hace miles de años, en Egipto, los sac
     [("Él dice que lo primero que cambia", 95), ("es la sensación de *paz*,", "c:mar"), ("y la claridad para ver *oportunidades*.", "c:silueta")],
     [("Él lo explica en un video que, dicen,", 185), ("no va a durar mucho en *línea*.", 129), ("Lo que los sacerdotes guardaban", 153), ("hoy lo puedes *ver*.", 121)],
     [("No es religión. No es un *curso*.", 175), ("Es una práctica antigua,", "c:redentor"), ("explicada de forma *simple*.", "c:despertar")],
-    CTA(155),
+    CTA(119),
 ])
 
 V["17"] = dict(corte=3.64, primary_text="¿Rezas todas las noches y sientes que nadie te escucha? 🙏 Un millonario explica por qué tu oración no llega. Míralo 👇", blocos=[
@@ -417,7 +417,8 @@ def balancear(crs):
                 k = p[1]
                 if cont[k] <= LIMITE or k in FIXOS:
                     continue
-                cands = [x for g in GRUPOS if k in g for x in g if x != k and x not in no_video and cont[x] < LIMITE]
+                cands = [x for g in GRUPOS if k in g for x in g
+                         if x != k and x not in no_video and cont[x] < LIMITE and x not in PROIBIDOS]
                 if not cands:
                     continue
                 novo = min(cands, key=lambda x: cont[x])
@@ -505,7 +506,12 @@ def main():
         "obs": "Gancho original intacto, corpo e final novos (VSL), fechamento com o avatar já pago. Sem HeyGen novo: só TTS grátis.",
         "origem": "codigo-alfa/lotes/2026-11-08/codigo-alfa-lote-1-{id}.mp4",
         "banco": "banco/indice.json", "limites": LIMITES, "vozes": BASE["vozes"], "campeoes": BASE["campeoes"],
-        "brolls": {k: v + ["alto"] for k, v in CORTES.items()}, "criativos": crs}
+        "brolls": {k: v + ["alto"] for k, v in CORTES.items()}, "criativos": crs,
+        "notas_fim": "HeyGen nesta reedição: 0 min (só TTS grátis; gancho e fechamento com avatar reaproveitados do vídeo já pago).\n"
+                     "Descartados (status reprovado): " + "; ".join(f"{k} = {v}" for k, v in DESCARTADOS.items()) + ".\n"
+                     "Imagens: tela cheia, sem caixa/fundo borrado/etiqueta; nada de celular, casal ou idosos; cada imagem 1x por vídeo.\n"
+                     "Criativo → formato · corpo:\n" + "\n".join(
+                         f"{c['id']} → {c['formato']} · {c['angulo']}" for c in crs)}
     json.dump(plano, open(os.path.join(AQUI, "codigo-alfa-lote-1-v2.json"), "w"), ensure_ascii=False, indent=1)
     rep = sorted(uso.items(), key=lambda x: -len(x[1]))
     print("clipes mais usados:", " ".join(f"{k}x{len(v)}" for k, v in rep[:25]))
