@@ -508,7 +508,7 @@ def main():
         "banco": "banco/indice.json", "limites": LIMITES, "vozes": BASE["vozes"], "campeoes": BASE["campeoes"],
         "brolls": {k: v + ["alto"] for k, v in CORTES.items()}, "criativos": crs,
         "notas_fim": "HeyGen nesta reedição: 0 min (só TTS grátis; gancho e fechamento com avatar reaproveitados do vídeo já pago).\n"
-                     "Descartados (status reprovado): " + "; ".join(f"{k} = {v}" for k, v in DESCARTADOS.items()) + ".\n"
+                     "Descartados (status recusado = reprovado): " + "; ".join(f"{k} = {v}" for k, v in DESCARTADOS.items()) + ".\n"
                      "Imagens: tela cheia, sem caixa/fundo borrado/etiqueta; nada de celular, casal ou idosos; cada imagem 1x por vídeo.\n"
                      "Criativo → formato · corpo:\n" + "\n".join(
                          f"{c['id']} → {c['formato']} · {c['angulo']}" for c in crs)}
