@@ -8,6 +8,10 @@
   "b:161": [
    0.0,
    4.6
+  ],
+  "b:185": [
+   0.0,
+   3.0
   ]
  },
  "vozes": {
@@ -416,7 +420,7 @@
       ],
       [
        "No te digo que dejes a Dios.",
-       "c:redentor"
+       "c:cruz"
       ],
       [
        "Te digo que dejes de rogar",
@@ -1019,7 +1023,7 @@
       ],
       [
        "Pero si este video te apareció de madrugada,",
-       "b:133"
+       "b:92"
       ],
       [
        "no creo que sea casualidad.",
@@ -1098,7 +1102,7 @@
       ],
       [
        "que recibe esas señales",
-       "b:92"
+       "b:82"
       ],
       [
        "está dormida.",
@@ -1425,7 +1429,7 @@
       ],
       [
        "y puede cambiar para siempre",
-       "b:82"
+       "b:110"
       ],
       [
        "la forma en que usted reza.",
@@ -1458,7 +1462,7 @@
       ],
       [
        "Dios no es el problema.",
-       "c:redentor"
+       "c:cruz"
       ],
       [
        "Tu fe no es el problema.",
@@ -1522,7 +1526,8 @@
        [
         "desconectada",
         "<k>DESCONECTADA</k>",
-        "#2a0d0d"
+        "#2a0d0d",
+        "font-size:66px"
        ]
       ]
      },
@@ -1546,7 +1551,7 @@
       ],
       [
        "Es que estás pidiendo con la antena apagada.",
-       "b:133"
+       "b:92"
       ]
      ],
      "destaques": [
@@ -1563,7 +1568,7 @@
       ],
       [
        "Dice que esa parte se puede volver a conectar",
-       "b:92"
+       "b:89"
       ],
       [
        "con un ritual de siete minutos,",
@@ -1594,7 +1599,7 @@
       ],
       [
        "y empiezas a recibir.",
-       "c:regalo"
+       "b:82"
       ],
       [
        "Las ideas llegan,",
@@ -1688,7 +1693,7 @@
      "partes": [
       [
        "Un maestro en Galilea.",
-       "c:redentor"
+       "c:cruz"
       ],
       [
        "Un príncipe que dejó todo para meditar.",
@@ -2053,7 +2058,7 @@
       ],
       [
        "La completa.",
-       "b:91"
+       "c:despertar"
       ]
      ],
      "destaques": [
@@ -2079,7 +2084,7 @@
       ],
       [
        "con otros ojos.",
-       "b:110"
+       "b:172"
       ]
      ],
      "destaques": [
@@ -2092,7 +2097,7 @@
      "partes": [
       [
        "No tienes que dejar tu iglesia.",
-       "c:redentor"
+       "b:92"
       ],
       [
        "No tienes que creer en nada raro.",
@@ -2217,7 +2222,7 @@
       ],
       [
        "está dormida.",
-       "b:107"
+       "b:106"
       ]
      ],
      "destaques": [
@@ -2279,7 +2284,7 @@
      "partes": [
       [
        "Él muestra tres pasos sencillos",
-       "b:90"
+       "b:114"
       ],
       [
        "y un ritual de siete minutos",
@@ -2429,7 +2434,7 @@
       ],
       [
        "Porque es verdad:",
-       "b:106"
+       "b:126"
       ],
       [
        "llevo años pidiendo lo mismo,",
@@ -2475,7 +2480,7 @@
        {
         "quem": "dele",
         "txt": "No es religión ni meditar horas 🙌",
-        "em": "que",
+        "em": "religión",
         "hora": "22:44",
         "alt": 150
        },
@@ -2508,7 +2513,7 @@
       ],
       [
        "Que cuando esa parte despierta,",
-       "c:despertar"
+       "b:128"
       ],
       [
        "dejas de perseguir las cosas,",
@@ -2516,7 +2521,7 @@
       ],
       [
        "y empiezas a ver oportunidades",
-       "b:82"
+       "b:155"
       ],
       [
        "que antes no veías.",
@@ -2591,7 +2596,7 @@
       ],
       [
        "de dejar de rogar y empezar a recibir.",
-       "c:regalo"
+       "b:94"
       ]
      ],
      "destaques": [
@@ -2706,7 +2711,7 @@
       ],
       [
        "con la antena desconectada.",
-       "b:133"
+       "b:82"
       ],
       [
        "Puedes subir el volumen todo lo que quieras,",
@@ -2732,7 +2737,7 @@
       ],
       [
        "se quedan en el aire.",
-       "b:183"
+       "b:126"
       ]
      ],
      "destaques": [
@@ -2774,11 +2779,11 @@
      "partes": [
       [
        "Y casi nadie sabe que está dormida.",
-       "b:85"
+       "b:183"
       ],
       [
        "Él muestra cómo reconectarla",
-       "b:114"
+       "b:92"
       ],
       [
        "con un ritual de siete minutos.",
@@ -2786,7 +2791,7 @@
       ],
       [
        "No necesitas dejar tu fe.",
-       "b:97"
+       "c:redentor"
       ]
      ],
      "destaques": [
@@ -2813,7 +2818,7 @@
       ],
       [
        "más recibir,",
-       "c:regalo"
+       "b:110"
       ],
       [
        "más claridad.",
@@ -2903,7 +2908,7 @@
       ],
       [
        "de la mente.",
-       "b:89"
+       "b:145"
       ]
      ],
      "destaques": [
@@ -2918,7 +2923,7 @@
      "partes": [
       [
        "En ellos está encendida.",
-       "b:128"
+       "b:89"
       ],
       [
        "En casi todos los demás",
@@ -2939,7 +2944,7 @@
      "partes": [
       [
        "Y con esa parte apagada,",
-       "b:183"
+       "b:107"
       ],
       [
        "rezar, visualizar o repetir frases",
@@ -2988,7 +2993,7 @@
       ],
       [
        "sin cambiar tus creencias.",
-       "b:97"
+       "c:redentor"
       ]
      ],
      "destaques": [
@@ -3093,7 +3098,7 @@
      "partes": [
       [
        "Siglos después, los monjes cristianos",
-       "c:cruz"
+       "c:redentor"
       ],
       [
        "hablaban de lo mismo.",
@@ -3114,7 +3119,7 @@
      "partes": [
       [
        "Una parte espiritual de la mente.",
-       "b:133"
+       "b:128"
       ],
       [
        "Una puerta hacia lo divino.",
@@ -3201,7 +3206,7 @@
       ],
       [
        "se puede despertar",
-       "b:92"
+       "b:91"
       ],
       [
        "con un ritual corto, de siete minutos,",
@@ -3224,7 +3229,7 @@
      "partes": [
       [
        "Él dice que lo primero que cambia",
-       "b:110"
+       "b:155"
       ],
       [
        "es la sensación de paz,",
@@ -3274,7 +3279,7 @@
       ],
       [
        "Es una práctica antigua,",
-       "c:redentor"
+       "c:cruz"
       ],
       [
        "explicada de forma simple.",
@@ -3385,15 +3390,15 @@
       ],
       [
        "Dice que el problema no es tu fe.",
-       "c:redentor"
+       "c:cruz"
       ],
       [
        "Es que la parte de tu mente",
-       "b:91"
+       "b:114"
       ],
       [
        "que conecta con lo divino",
-       "b:82"
+       "c:despertar"
       ],
       [
        "está dormida.",
@@ -3411,7 +3416,7 @@
      "partes": [
       [
        "Es como llamar a alguien",
-       "b:92"
+       "b:91"
       ],
       [
        "con la línea cortada.",
@@ -3419,7 +3424,7 @@
       ],
       [
        "Tú hablas, pero nadie contesta.",
-       "b:107"
+       "b:126"
       ]
      ],
      "destaques": [
@@ -3444,7 +3449,7 @@
       ],
       [
        "Es falta de conexión.",
-       "b:89"
+       "b:145"
       ],
       [
        "Y eso tiene solución.",
@@ -3471,7 +3476,7 @@
       ],
       [
        "Él muestra cómo hacerlo hoy,",
-       "b:145"
+       "b:82"
       ],
       [
        "con un ritual de siete minutos.",
@@ -3489,7 +3494,7 @@
      "partes": [
       [
        "Dice que cuando despierta,",
-       "b:75"
+       "b:172"
       ],
       [
        "la oración se siente distinta:",
@@ -3515,7 +3520,7 @@
      "partes": [
       [
        "No tienes que dejar tu iglesia.",
-       "c:cruz"
+       "c:redentor"
       ],
       [
        "No tienes que creer en nada nuevo.",
@@ -3566,7 +3571,7 @@
       ],
       [
        "No por maldad.",
-       "b:97"
+       "c:redentor"
       ],
       [
        "Simplemente se perdió.",
@@ -3610,7 +3615,7 @@
      "partes": [
       [
        "Una parte espiritual de la mente.",
-       "b:89"
+       "b:114"
       ],
       [
        "La misma que los budistas cuidaban en silencio",
@@ -3636,7 +3641,7 @@
       ],
       [
        "con esa parte dormida.",
-       "b:106"
+       "b:183"
       ],
       [
        "Por eso tantas oraciones",
@@ -3692,7 +3697,7 @@
       ],
       [
        "Y muestra cómo despertarla",
-       "b:114"
+       "b:92"
       ],
       [
        "con un ritual de siete minutos.",
@@ -3710,7 +3715,7 @@
      "partes": [
       [
        "No va contra tu iglesia.",
-       "c:cruz"
+       "b:89"
       ],
       [
        "No te pide dejar nada.",
@@ -3732,7 +3737,7 @@
      "partes": [
       [
        "Cuando esa parte despierta,",
-       "b:155"
+       "b:75"
       ],
       [
        "rezar deja de ser rogar.",
@@ -3785,7 +3790,7 @@
      "partes": [
       [
        "Si sientes que tus oraciones no llegan,",
-       "b:107"
+       "b:126"
       ],
       [
        "míralo antes de que lo quiten.",
@@ -3871,7 +3876,7 @@
       ],
       [
        "Una parte espiritual",
-       "b:145"
+       "b:90"
       ],
       [
        "que los antiguos llamaban",
@@ -3918,7 +3923,7 @@
      "partes": [
       [
        "Sin velas, sin cursos, sin complicaciones.",
-       "b:172"
+       "b:82"
       ]
      ],
      "destaques": [
@@ -3951,7 +3956,7 @@
      "partes": [
       [
        "Él cuenta que lo primero que cambia",
-       "b:133"
+       "b:91"
       ],
       [
        "es esa sensación de estar siempre corriendo",
@@ -3981,11 +3986,11 @@
      "partes": [
       [
        "No es religión ni meditación de horas.",
-       "c:cruz"
+       "c:redentor"
       ],
       [
        "Y no tienes que creer en nada para verlo.",
-       "b:183"
+       "b:126"
       ]
      ],
      "destaques": [
@@ -3997,7 +4002,7 @@
      "partes": [
       [
        "Míralo hoy,",
-       "b:92"
+       "b:145"
       ],
       [
        "mientras sigue disponible.",
@@ -4120,7 +4125,7 @@
       ],
       [
        "tenían formas de despertarla.",
-       "b:91"
+       "b:92"
       ]
      ],
      "destaques": [
@@ -4133,7 +4138,7 @@
      "partes": [
       [
        "Y que hoy se puede hacer",
-       "b:82"
+       "b:89"
       ],
       [
        "con tres pasos sencillos",
@@ -4166,11 +4171,11 @@
      "partes": [
       [
        "No es una religión.",
-       "c:cruz"
+       "c:redentor"
       ],
       [
        "No tienes que dejar tu fe.",
-       "c:redentor"
+       "b:97"
       ],
       [
        "Es solo una forma distinta de despertar.",

@@ -158,7 +158,7 @@ V["07"] = dict(primary_text="Dios no es el problema. Tu fe no es el problema. El
     [("El problema es desde *dónde* pides.", 83), ("Si pides desde el *miedo*,", 152), ("tu oración nace *cansada*.", 108),
      ("Si pides desde la *desesperación*,", 146), ("la respuesta parece no llegar *nunca*.", "c:reloj")],
     T("Hay una antena espiritual dentro de ti. Y en casi todos está desconectada.",
-      [[0, "HAY UNA <k>ANTENA</k>", "#0d0d0d"], ["dentro", "DENTRO DE <k>TI</k>", "#101a2e"], ["desconectada", "<k>DESCONECTADA</k>", "#2a0d0d"]]),
+      [[0, "HAY UNA <k>ANTENA</k>", "#0d0d0d"], ["dentro", "DENTRO DE <k>TI</k>", "#101a2e"], ["desconectada", "<k>DESCONECTADA</k>", "#2a0d0d", "font-size:66px"]]),
     [("Por eso las afirmaciones y la visualización", 169), ("tampoco te funcionaron.", 105), ("No es que estés haciendo algo *mal*.", 123),
      ("Es que estás pidiendo con la *antena* apagada.", "c:torres2")],
     [("Un millonario lo explica en un video *corto*.", 104), ("Dice que esa parte se puede volver a *conectar*", "c:torres"),
@@ -231,7 +231,7 @@ V["11"] = dict(cauda=0, primary_text="Mi amiga me mandó este video anoche… �
      "visual": {"tipo": "zap", "nome": "Vale 🌸", "foto": "👩", "msgs": [
          {"quem": "dela", "txt": "¿Y qué dice que hay que hacer? 🤨", "em": 0.2, "hora": "22:43", "alt": 150},
          {"quem": "dele", "txt": "Un ritual de 7 minutos para despertar esa parte", "em": "un", "hora": "22:44", "alt": 170},
-         {"quem": "dele", "txt": "No es religión ni meditar horas 🙌", "em": "que", "hora": "22:44", "alt": 150},
+         {"quem": "dele", "txt": "No es religión ni meditar horas 🙌", "em": "religión", "hora": "22:44", "alt": 150},
          {"quem": "dele", "txt": "Él lo muestra en el video 👇", "em": "él", "hora": "22:44"}]},
      "destaques": ["siete", "minutos", "despertar"], "leg_topo": 1040},
     [("Dice que los antiguos cristianos,", "c:monasterio"), ("budistas y egipcios ya lo *hacían*.", "c:buda_cueva"), ("Que cuando esa parte despierta,", 161),
@@ -365,8 +365,8 @@ V["20"] = dict(primary_text="Suena loco, pero escúchame hasta el final. 👀 Un
 # grupos de sentido para espalhar as imagens entre os vídeos (troca só dentro do mesmo tema)
 GRUPOS = [
     ["b:161", "b:92", "b:80", "b:119", "b:89", "b:128", "b:114", "b:109", "b:153", "c:despertar", "b:90", "b:91",
-     "b:95", "b:82", "b:145", "c:cruz", "b:133"],
-    ["b:184", "b:105", "b:106", "b:107", "b:108", "b:146", "b:152", "b:183", "b:126", "b:85"],
+     "b:95", "b:82", "b:145", "c:cruz"],
+    ["b:184", "b:105", "b:106", "b:107", "b:108", "b:146", "b:152", "b:183", "b:85"],
     ["b:157", "b:83", "b:154", "c:barba", "b:76", "b:150"],
     ["b:186", "c:cruz", "b:97", "c:redentor"],
     ["b:95", "b:136", "b:141", "b:110", "b:82", "c:mar", "c:playa", "b:172", "b:145", "b:155", "b:75", "b:94"],
@@ -380,9 +380,10 @@ GRUPOS = [
 ]
 LIMITE = 7
 # cortes que, sem a legenda antiga (só a parte de cima), ficam vazios ou com rosto cortado: trocados por imagem do mesmo tema
-PROIBIDOS = {"c:torres": 0, "c:torres2": 0, "c:joven": 6, "c:meditar": 9, "c:montana": 11, "c:silueta": 4}
+PROIBIDOS = {"c:torres": 0, "c:torres2": 0, "c:joven": 6, "c:meditar": 9, "c:montana": 11, "c:silueta": 4,
+             "c:redentor": 3, "c:regalo": 4}
 # trechos úteis de clipes do banco (o resto fica escuro ou vazio)
-LIMITES = {"b:161": [0.0, 4.6]}
+LIMITES = {"b:161": [0.0, 4.6], "b:185": [0.0, 3.0]}
 FIXOS = {"b:169"}  # afirmações escritas: sem substituto com o mesmo sentido
 
 
