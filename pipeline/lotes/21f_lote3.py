@@ -335,6 +335,19 @@ def rodar(cr, n):
                 p[1] = alt
 
 
+RUINS = {"b:47": ["b:134", "b:49", "b:19"], "b:44": ["b:13", "b:10", "b:15"]}  # rosto fora do corte / costas
+
+
+def trocar(cr):
+    usados = {p[1] for b in cr["blocos"] for p in b.get("partes", [])}
+    for b in cr["blocos"]:
+        for p in b.get("partes", []):
+            if p[1] in RUINS:
+                novo = next(x for x in RUINS[p[1]] if x not in usados)
+                usados.add(novo)
+                p[1] = novo
+
+
 def main():
     crs = []
     for i, formato, (tipo, k, gtxt), corpo in LOTE:
@@ -346,6 +359,7 @@ def main():
         else:
             cr["blocos"].insert(0, json.loads(json.dumps(G[k])))
         rodar(cr, len(crs))
+        trocar(cr)
         crs.append(cr)
     conferir(crs)
     plano = {"produto": "21-frases", "titulo": "21 Frases · Lote 3", "banco": "banco/indice.json",
