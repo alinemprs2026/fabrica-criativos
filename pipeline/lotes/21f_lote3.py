@@ -127,7 +127,7 @@ CORPO["E"] = ("Valor e escassez (desdém sem jogos)", [
 ])
 CORPO["F"] = ("Palavras, não aparência (objeção: não sou suficiente)", [
     P([("¿Y sabes por qué?", 121), ("Porque sabía exactamente *qué decir*,", 35), ("y cuándo quedarse *callada*.", 16)]),
-    P([("Hoy muchas mujeres creen que el problema es su *cuerpo*,", 85), ("su *edad*, o que no son *suficientes*.", 146),
+    P([("Hoy muchas mujeres creen que el problema es su *cuerpo*,", 118), ("su *edad*, o que no son *suficientes*.", 146),
        ("Y no.", 8), ("Lo que hace que un hombre no deje de *pensar en ti*", 17), ("casi nunca es la *apariencia*.", 126)]),
     P([("Son las *palabras*.", 169), ("Una frase dicha en el *momento correcto*", 72), ("puede despertar su *curiosidad*,", 47),
        ("su deseo de *protegerte*,", 49), ("o su *miedo a perderte*.", 44)]),
