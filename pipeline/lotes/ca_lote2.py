@@ -295,6 +295,24 @@ PRIMARY = {
 }
 
 
+# cortes que ficam com meia tela vazia (notebook), estrada vazia, janela clara ou parede: trocados por imagem com o mesmo sentido
+RUINS = {"b:85": ["b:152", "b:105", "b:108", "b:146", "b:183", "b:118", "b:107"],
+         "c:despertar": ["b:95", "b:82", "b:130", "b:187"],
+         "b:99": ["b:172", "b:94", "b:87", "b:110"],
+         "c:libro": ["b:78", "b:151", "b:162"]}
+
+
+def trocar(cr):
+    usados = {p[1] for b in cr["blocos"] for p in b.get("partes", [])} | \
+             {b.get("visual", {}).get("fundo") for b in cr["blocos"]}
+    for b in cr["blocos"]:
+        for p in b.get("partes", []):
+            if p[1] in RUINS:
+                novo = next(x for x in RUINS[p[1]] if x not in usados)
+                usados.add(novo)
+                p[1] = novo
+
+
 def main():
     crs = []
     for i, formato, (tipo, k, gtxt), corpo, voz, cauda in LOTE:
@@ -313,6 +331,7 @@ def main():
             cr["blocos"].insert(0, json.loads(json.dumps(G[k])))
         if cauda:
             cr["cauda"] = CAUDA[cauda]
+        trocar(cr)
         crs.append(cr)
     conferir(crs)
     base = json.load(open(os.path.join(AQUI, "codigo-alfa-lote-1.json")))
