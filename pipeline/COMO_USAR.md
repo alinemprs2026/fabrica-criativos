@@ -34,3 +34,15 @@ Nunca subir nada no Facebook por esta rotina.
   Mantém o começo original intacto, monta o corpo (HyperFrames), música baixa (abaixa sob a voz), efeitos nas trocas, -14 LUFS,
   e gera `revisao/<id>.jpg` (um quadro a cada 2 s). Recusa clipe repetido no mesmo vídeo e evita trechos já usados em outro vídeo.
 - `python3 pipeline/republicar.py <plano> <batch_id> 21-frases/lotes/<data>-L2v2` atualiza as linhas existentes (não cria lote novo; pula < 60 s).
+
+## Lote novo sem HeyGen (usado em 11/11/2026: 21 Frases Lote 3 e Código Alfa Lote 2)
+- Roteiros em Python: `pipeline/lotes/21f_lote3.py` e `pipeline/lotes/ca_lote2.py` (ajudantes em `pipeline/lotes/semana_utils.py`).
+  Linha = ("frase com *destaque*", n do banco). Copiar um desses arquivos para o lote da semana e reescrever corpos/ganchos.
+  `python3 pipeline/lotes/<arquivo>.py` gera o JSON e confere imagem repetida no mesmo vídeo.
+- `python3 pipeline/lote_novo.py <plano.json> --vozes` → duração de cada vídeo (precisa dar 60 s ou mais; o TTS fala rápido,
+  ~3 palavras/s: um corpo de 1 min tem ~170 palavras). Depois `python3 pipeline/lote_novo.py <plano.json> [ids]` (~3 min por vídeo).
+- `cabeca` = gancho cortado de qualquer vídeo do bucket (campeão ou lote antigo com Avatar IV já pago; cortes pelo ponto de
+  menor energia da fala). `cauda` = `{"src":..., "do_fim": s}` (CTA de avatar já pago no fim de um vídeo antigo).
+- Imagens que ficam escuras/vazias no corte: usar `limites` (ex.: b:4 [3.5,10], b:25 [3,10]) ou trocar (b:3 → b:178).
+  Banco: 67, 69 e 120 não existem mais no bucket.
+- Publicar igual: `python3 pipeline/publicar.py <plano.json> <batch_id> <AAAA-MM-DD> [--descartar 05,09]`.

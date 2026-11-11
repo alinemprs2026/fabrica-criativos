@@ -1,0 +1,3785 @@
+{
+ "produto": "21-frases",
+ "titulo": "21 Frases · Lote 3",
+ "banco": "banco/indice.json",
+ "limites": {
+  "b:4": [
+   3.5,
+   10.0
+  ],
+  "b:25": [
+   3.0,
+   10.0
+  ]
+ },
+ "campeoes": {},
+ "brolls": {},
+ "vozes": {
+  "daniel": "0e07ee5d68de482aa44d5095dfa2f900",
+  "mulher": "1777080b7f574979875dc144b9fbf0de",
+  "jornal": "6ce26db0cb6f4e7881b85452619f7f19",
+  "locutor": "70bc24b8126c446c8cf50fc1a01eb834"
+ },
+ "criativos": [
+  {
+   "id": "01",
+   "formato": "apresentador (gancho campeão #1)",
+   "angulo": "Tono correcto / banco de reserva",
+   "corpo": "A",
+   "gancho": "Si él te está ignorando o te dejó en visto, mándale estas frases secretas a su WhatsApp…",
+   "voz": "daniel",
+   "primary_text": "¿Te dejó en visto otra vez? 😔 No es falta de tiempo: es el tono del mensaje. Mira el video gratuito de 5 minutos con las frases exactas 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Y no, no es que esté ocupado.",
+       "b:171"
+      ],
+      [
+       "Un hombre interesado siempre encuentra un minuto para responder.",
+       "b:22"
+      ],
+      [
+       "Cuando no lo hace, casi siempre es por el mensaje que recibió.",
+       "b:178"
+      ]
+     ],
+     "destaques": [
+      "ocupado",
+      "minuto",
+      "mensaje"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Mira lo que pasa normalmente:",
+       "b:1"
+      ],
+      [
+       "él tarda en responder, tú te preocupas,",
+       "b:5"
+      ],
+      [
+       "y le mandas otro mensaje para saber si está bien.",
+       "b:0"
+      ],
+      [
+       "Después otro, preguntando si hiciste algo mal.",
+       "b:56"
+      ],
+      [
+       "Y cada mensaje así le dice lo mismo:",
+       "b:25"
+      ],
+      [
+       "que ya te tiene, sin hacer nada.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "preocupas",
+      "mal",
+      "sin",
+      "hacer",
+      "nada"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Ahí es cuando te pone en la banca,",
+       "b:58"
+      ],
+      [
+       "como su opción de reserva.",
+       "b:53"
+      ],
+      [
+       "No porque no valgas,",
+       "b:16"
+      ],
+      [
+       "sino porque tu mensaje no le despertó ninguna emoción.",
+       "b:126"
+      ]
+     ],
+     "destaques": [
+      "banca",
+      "reserva",
+      "valgas",
+      "emoción"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Existe un tono exacto para escribirle a un hombre.",
+       "b:72"
+      ],
+      [
+       "Un tono tranquilo, que no le pide nada,",
+       "b:141"
+      ],
+      [
+       "pero que lo deja con curiosidad.",
+       "b:134"
+      ],
+      [
+       "Y cuando lo usas, el que empieza a preguntar es él.",
+       "b:4"
+      ]
+     ],
+     "destaques": [
+      "tono",
+      "exacto",
+      "tranquilo",
+      "curiosidad",
+      "preguntar"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Por ejemplo: en vez de preguntarle por qué no te contesta, ella le manda algo corto y tranquilo. Y ahora es él quien quiere saber más.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Hoy vi algo que me hizo acordarme de ti 😊 después te cuento",
+        "em": 0.3,
+        "hora": "21:12",
+        "alt": 210
+       },
+       {
+        "quem": "dele",
+        "txt": "¿Qué viste? 👀 cuéntame ahora",
+        "em": "ahora",
+        "hora": "21:13"
+       }
+      ],
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "ahora",
+        "escribiendo…"
+       ]
+      ]
+     },
+     "destaques": [
+      "tranquilo",
+      "más"
+     ],
+     "leg_topo": 1010
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:168"
+      ],
+      [
+       "te muestro las frases exactas para cada situación:",
+       "b:169"
+      ],
+      [
+       "cuando te deja en visto, cuando se enfría,",
+       "b:51"
+      ],
+      [
+       "y cuando desaparece de la nada.",
+       "b:70"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "frases",
+      "exactas",
+      "visto",
+      "enfría",
+      "desaparece"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora, antes de mandarle otro mensaje.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:45",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/criativo-mais-campeao-de-todos.mp4",
+    "ini": 0,
+    "fim": 8.09
+   }
+  },
+  {
+   "id": "02",
+   "formato": "tela dividida com cenas de emoção (gancho campeão #2)",
+   "angulo": "Prova masculina: o que os homens não admitem",
+   "corpo": "B",
+   "gancho": "Si él te está ignorando o te dejó en visto… (versão tela dividida)",
+   "voz": "daniel",
+   "primary_text": "Lo que los hombres casi nunca admiten: si está interesado, siempre encuentra 10 segundos. 👀 Mira qué escribirle hoy 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Te voy a contar algo que los hombres casi nunca admiten.",
+       "b:22"
+      ],
+      [
+       "Cuando un hombre está interesado,",
+       "b:134"
+      ],
+      [
+       "responde aunque esté en el trabajo, en el gimnasio o con sus amigos.",
+       "b:26"
+      ],
+      [
+       "Diez segundos. Es todo lo que necesita.",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "admiten",
+      "interesado",
+      "trabajo",
+      "diez",
+      "segundos"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Entonces, si tarda horas,",
+       "b:2"
+      ],
+      [
+       "no es el tiempo.",
+       "b:93"
+      ],
+      [
+       "Es que tu mensaje no le dio una razón para responder.",
+       "b:25"
+      ]
+     ],
+     "destaques": [
+      "horas",
+      "razón"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "La mayoría de las mujeres escribe lo mismo:",
+       "b:0"
+      ],
+      [
+       "hola, ¿cómo estás?, ¿qué haces?, ¿todo bien?",
+       "b:176"
+      ],
+      [
+       "Mensajes que él ya leyó mil veces.",
+       "b:178"
+      ],
+      [
+       "Y lo que es predecible, se deja para después.",
+       "b:28"
+      ]
+     ],
+     "destaques": [
+      "mismo",
+      "mil",
+      "veces",
+      "predecible"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Pero hay frases que funcionan distinto.",
+       "b:7"
+      ],
+      [
+       "Frases que tocan su curiosidad,",
+       "b:47"
+      ],
+      [
+       "su orgullo, o el miedo a perderte.",
+       "b:44"
+      ],
+      [
+       "Y cuando él siente eso, dejarte en visto ya no es tan fácil.",
+       "b:73"
+      ]
+     ],
+     "destaques": [
+      "distinto",
+      "curiosidad",
+      "orgullo",
+      "miedo",
+      "a",
+      "perderte",
+      "fácil"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "No es manipulación.",
+       "b:8"
+      ],
+      [
+       "Es hablarle en el idioma en que piensa un hombre.",
+       "b:49"
+      ],
+      [
+       "Directo, corto, y sin presión.",
+       "b:141"
+      ]
+     ],
+     "destaques": [
+      "manipulación",
+      "idioma",
+      "sin",
+      "presión"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y no importa si ya le escribiste de más,",
+       "b:132"
+      ],
+      [
+       "o si hace días que no te responde.",
+       "b:51"
+      ],
+      [
+       "Todavía puedes cambiar el tono",
+       "b:72"
+      ],
+      [
+       "y hacer que te mire distinto.",
+       "b:46"
+      ]
+     ],
+     "destaques": [
+      "de",
+      "más",
+      "responde",
+      "cambiar",
+      "el",
+      "tono",
+      "distinto"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Reuní esas frases en un video gratuito de cinco minutos.",
+       "b:175"
+      ],
+      [
+       "Ahí vas a ver qué escribirle hoy mismo,",
+       "b:169"
+      ],
+      [
+       "y qué no mandarle nunca.",
+       "b:183"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "hoy",
+      "mismo",
+      "nunca"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:61",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "quiten"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794084830597.mp4",
+    "ini": 0,
+    "fim": 8.09
+   }
+  },
+  {
+   "id": "03",
+   "formato": "entrevista de rua, repórter mulher (gancho campeão #5)",
+   "angulo": "História: a amiga que parou de implorar",
+   "corpo": "C",
+   "gancho": "Una pregunta: si nos dejan en visto tres horas, ¿es porque no le importamos?",
+   "voz": "daniel",
+   "primary_text": "Ella dejó de rogarle… y le mandó UNA frase. 😳 Mira las frases en el video gratuito 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Esa respuesta me recordó a una amiga, Carla.",
+       "b:46"
+      ],
+      [
+       "Ella le escribía a un chico todos los días.",
+       "b:1"
+      ],
+      [
+       "Buenos días, buenas noches, ¿cómo te fue?",
+       "b:0"
+      ],
+      [
+       "Y él cada vez respondía menos.",
+       "b:25"
+      ]
+     ],
+     "destaques": [
+      "carla",
+      "todos",
+      "los",
+      "días",
+      "menos"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Una noche la dejó en visto por horas.",
+       "b:51"
+      ],
+      [
+       "Ella estaba a punto de mandarle un audio largo,",
+       "b:5"
+      ],
+      [
+       "preguntándole qué había hecho mal.",
+       "b:105"
+      ]
+     ],
+     "destaques": [
+      "visto",
+      "largo",
+      "mal"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Le dije: para. No le mandes eso.",
+       "b:132"
+      ],
+      [
+       "Al día siguiente le escribió una sola frase.",
+       "b:140"
+      ],
+      [
+       "Corta, tranquila, sin reclamo,",
+       "b:141"
+      ],
+      [
+       "y que lo dejaba con ganas de saber más.",
+       "b:136"
+      ]
+     ],
+     "destaques": [
+      "no",
+      "le",
+      "mandes",
+      "eso",
+      "sola",
+      "frase",
+      "sin",
+      "reclamo",
+      "ganas",
+      "de",
+      "saber",
+      "más"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Algo así. Y esta vez, el que preguntó fue él.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Ayer escuché una canción que te iba a mandar… pero mejor te la muestro en persona 😊",
+        "em": 0.2,
+        "hora": "19:40",
+        "alt": 250
+       },
+       {
+        "quem": "dele",
+        "txt": "¿Cuál canción? 👀 ¿cuándo me la muestras?",
+        "em": "preguntó",
+        "hora": "19:41"
+       }
+      ],
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "preguntó",
+        "escribiendo…"
+       ]
+      ]
+     },
+     "destaques": [
+      "preguntó"
+     ],
+     "leg_topo": 1010
+    },
+    {
+     "partes": [
+      [
+       "No fue suerte.",
+       "b:7"
+      ],
+      [
+       "Ella simplemente dejó de escribirle desde la ansiedad",
+       "b:118"
+      ],
+      [
+       "y empezó a escribirle desde la calma.",
+       "b:172"
+      ]
+     ],
+     "destaques": [
+      "suerte",
+      "ansiedad",
+      "calma"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y eso es lo que casi nadie te dice:",
+       "b:126"
+      ],
+      [
+       "un hombre no se aleja por un solo mensaje.",
+       "b:22"
+      ],
+      [
+       "Se aleja por la sensación que le dejan tus mensajes:",
+       "b:28"
+      ],
+      [
+       "presión… o curiosidad.",
+       "b:47"
+      ],
+      [
+       "Y no, no tienes que fingir ni jugar con él.",
+       "b:8"
+      ],
+      [
+       "Solo saber qué decir, y cuándo.",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "un",
+      "solo",
+      "sensación",
+      "curiosidad",
+      "fingir",
+      "qué",
+      "decir"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Las frases que ella usó, y otras para cada situación,",
+       "b:169"
+      ],
+      [
+       "están en un video gratuito de cinco minutos.",
+       "b:78"
+      ]
+     ],
+     "destaques": [
+      "cada",
+      "situación",
+      "gratuito"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo hoy, antes de mandarle otro mensaje.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:63",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "hoy"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794084896106.mp4",
+    "ini": 0,
+    "fim": 8.2
+   }
+  },
+  {
+   "id": "04",
+   "formato": "entrevista de rua, homem responde (gancho campeão #7)",
+   "angulo": "Cabeça dele: 5 mensagens seguidas",
+   "corpo": "D",
+   "gancho": "Seamos sinceros, si una mujer te manda un mensaje y no le respondes en todo el día…",
+   "voz": "daniel",
+   "primary_text": "Lo que piensa un hombre cuando le mandas 5 mensajes seguidos (y lo que sí funciona). Video gratuito 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Él lo dijo sin pensar.",
+       "b:47"
+      ],
+      [
+       "Y es lo que casi todos los hombres piensan, pero no te dicen.",
+       "b:22"
+      ]
+     ],
+     "destaques": [
+      "sin",
+      "pensar",
+      "piensan"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Ahora mira lo que pasa en la cabeza de un hombre",
+       "b:28"
+      ],
+      [
+       "cuando recibe cinco mensajes seguidos de la misma mujer.",
+       "b:2"
+      ],
+      [
+       "No piensa: qué linda, se preocupa por mí.",
+       "b:12"
+      ],
+      [
+       "Piensa: ya está segura, no tengo que esforzarme.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "cabeza",
+      "cinco",
+      "mensajes",
+      "preocupa",
+      "segura"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Un hombre se interesa por lo que todavía tiene que conquistar.",
+       "b:19"
+      ],
+      [
+       "Por eso, cuanto más le insistes,",
+       "b:0"
+      ],
+      [
+       "más tranquilo se siente para no responder.",
+       "b:25"
+      ]
+     ],
+     "destaques": [
+      "conquistar",
+      "insistes",
+      "no",
+      "responder"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "La solución no es ignorarlo ni hacerte la difícil.",
+       "b:8"
+      ],
+      [
+       "Es cambiar lo que le escribes.",
+       "b:176"
+      ],
+      [
+       "Menos explicaciones, menos preguntas,",
+       "b:7"
+      ],
+      [
+       "y una frase que despierte en él las ganas de responderte.",
+       "b:134"
+      ]
+     ],
+     "destaques": [
+      "ignorarlo",
+      "escribes",
+      "ganas",
+      "de",
+      "responderte"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Piensa en el hombre que te gusta.",
+       "b:46"
+      ],
+      [
+       "Si cada vez que te lee siente calma y un poco de misterio,",
+       "b:141"
+      ],
+      [
+       "va a querer más.",
+       "b:4"
+      ],
+      [
+       "Si siente reclamos, va a buscar excusas.",
+       "b:58"
+      ]
+     ],
+     "destaques": [
+      "gusta",
+      "calma",
+      "misterio",
+      "más",
+      "reclamos",
+      "excusas"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Arriba, lo que manda casi todo el mundo. Abajo, un mensaje que lo hace pensar en ti.",
+     "visual": {
+      "tipo": "split",
+      "antes": {
+       "msgs": [
+        {
+         "quem": "dela",
+         "txt": "¿Por qué no me respondes? 😔",
+         "em": 0.3
+        },
+        {
+         "quem": "dela",
+         "txt": "¿Hice algo mal?",
+         "em": "mundo"
+        }
+       ]
+      },
+      "depois": {
+       "rot_em": "Abajo",
+       "msgs": [
+        {
+         "quem": "dela",
+         "txt": "Hoy pasé por donde nos conocimos 🙂",
+         "em": "Abajo"
+        },
+        {
+         "quem": "dele",
+         "txt": "Jaja ¿y te acordaste de mí? 😏",
+         "em": "pensar"
+        }
+       ]
+      },
+      "selo": "ejemplo"
+     },
+     "destaques": [
+      "pensar",
+      "en",
+      "ti"
+     ],
+     "leg_topo": 1100
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:168"
+      ],
+      [
+       "te muestro las frases exactas,",
+       "b:169"
+      ],
+      [
+       "para copiar, pegar y enviar.",
+       "b:173"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "frases",
+      "exactas",
+      "copiar"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:43",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794085426838.mp4",
+    "ini": 0,
+    "fim": 14.5
+   }
+  },
+  {
+   "id": "05",
+   "formato": "estúdio de podcast (gancho campeão #8)",
+   "angulo": "Valor e escassez (desdém sem jogos)",
+   "corpo": "E",
+   "gancho": "¿Quieres que un hombre corra detrás de ti? No grites, no ruegues, aplica el desdén…",
+   "voz": "daniel",
+   "primary_text": "No ruegues. No persigas. Un hombre valora lo que siente que puede perder. 💅 Mira el video gratuito 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Piensa en esto:",
+       "b:126"
+      ],
+      [
+       "un hombre valora lo que siente que puede perder.",
+       "b:20"
+      ],
+      [
+       "Y deja para después lo que tiene asegurado.",
+       "b:53"
+      ]
+     ],
+     "destaques": [
+      "valora",
+      "perder",
+      "asegurado"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Cuando le escribes todo el día,",
+       "b:1"
+      ],
+      [
+       "cuando le explicas cada cosa que sientes,",
+       "b:132"
+      ],
+      [
+       "cuando le preguntas por qué no responde,",
+       "b:56"
+      ],
+      [
+       "él no siente que te puede perder.",
+       "b:25"
+      ],
+      [
+       "Siente que ya te ganó.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "todo",
+      "el",
+      "día",
+      "explicas",
+      "no",
+      "responde",
+      "ganó"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Desdén no es tratarlo mal.",
+       "b:35"
+      ],
+      [
+       "Es tener tu propia vida,",
+       "b:172"
+      ],
+      [
+       "responder con calma,",
+       "b:141"
+      ],
+      [
+       "y dejar de estar siempre disponible.",
+       "b:36"
+      ]
+     ],
+     "destaques": [
+      "mal",
+      "propia",
+      "vida",
+      "calma",
+      "disponible"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y ojo: esto no es castigarlo",
+       "b:8"
+      ],
+      [
+       "ni dejar de escribirle para siempre.",
+       "b:0"
+      ],
+      [
+       "Es entender que un hombre necesita espacio",
+       "b:47"
+      ],
+      [
+       "para extrañarte.",
+       "b:16"
+      ]
+     ],
+     "destaques": [
+      "castigarlo",
+      "escribirle",
+      "espacio",
+      "extrañarte"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Si siempre estás disponible,",
+       "b:5"
+      ],
+      [
+       "no tiene nada que extrañar.",
+       "b:51"
+      ],
+      [
+       "Y lo que no se extraña, no se busca.",
+       "b:4"
+      ]
+     ],
+     "destaques": [
+      "disponible",
+      "extrañar",
+      "no",
+      "se",
+      "busca"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y hay frases que comunican eso en pocas palabras.",
+       "b:7"
+      ],
+      [
+       "Frases que hacen que él se pregunte:",
+       "b:22"
+      ],
+      [
+       "¿y si ella ya no está tan interesada?",
+       "b:28"
+      ],
+      [
+       "Ahí es cuando muchos hombres empiezan a buscar más.",
+       "b:134"
+      ]
+     ],
+     "destaques": [
+      "pocas",
+      "palabras",
+      "pregunte",
+      "interesada",
+      "buscar",
+      "más"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y cuando eso pasa, muchas veces se nota rápido:",
+       "b:122"
+      ],
+      [
+       "él empieza a escribirte primero,",
+       "b:73"
+      ],
+      [
+       "a preguntarte qué haces,",
+       "b:176"
+      ],
+      [
+       "y a proponerte verse.",
+       "b:63"
+      ]
+     ],
+     "destaques": [
+      "rápido",
+      "primero",
+      "qué",
+      "haces",
+      "verse"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:175"
+      ],
+      [
+       "te enseño cuáles son, y cuándo usarlas,",
+       "b:169"
+      ],
+      [
+       "con elegancia, sin juegos.",
+       "b:45"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "cuándo",
+      "elegancia"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:18",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794085433854.mp4",
+    "ini": 0,
+    "fim": 10.69
+   }
+  },
+  {
+   "id": "06",
+   "formato": "gancho histórico Cleópatra (campeão #6)",
+   "angulo": "Palavras, não aparência (objeção: não sou suficiente)",
+   "corpo": "F",
+   "gancho": "Cleopatra no era la mujer más hermosa de Egipto, pero…",
+   "voz": "daniel",
+   "primary_text": "Cleopatra no era la más hermosa… pero sabía qué decir. 👑 Las palabras se aprenden: video gratuito de 5 minutos 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "¿Y sabes por qué?",
+       "b:121"
+      ],
+      [
+       "Porque sabía exactamente qué decir,",
+       "b:35"
+      ],
+      [
+       "y cuándo quedarse callada.",
+       "b:16"
+      ]
+     ],
+     "destaques": [
+      "qué",
+      "decir",
+      "callada"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Hoy muchas mujeres creen que el problema es su cuerpo,",
+       "b:85"
+      ],
+      [
+       "su edad, o que no son suficientes.",
+       "b:146"
+      ],
+      [
+       "Y no.",
+       "b:8"
+      ],
+      [
+       "Lo que hace que un hombre no deje de pensar en ti",
+       "b:17"
+      ],
+      [
+       "casi nunca es la apariencia.",
+       "b:126"
+      ]
+     ],
+     "destaques": [
+      "cuerpo",
+      "edad",
+      "suficientes",
+      "pensar",
+      "en",
+      "ti",
+      "apariencia"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Son las palabras.",
+       "b:169"
+      ],
+      [
+       "Una frase dicha en el momento correcto",
+       "b:72"
+      ],
+      [
+       "puede despertar su curiosidad,",
+       "b:47"
+      ],
+      [
+       "su deseo de protegerte,",
+       "b:49"
+      ],
+      [
+       "o su miedo a perderte.",
+       "b:44"
+      ]
+     ],
+     "destaques": [
+      "palabras",
+      "momento",
+      "correcto",
+      "curiosidad",
+      "protegerte",
+      "miedo",
+      "a",
+      "perderte"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Piensa en la última vez que él se alejó.",
+       "b:25"
+      ],
+      [
+       "¿Fue porque dejaste de ser bonita?",
+       "b:136"
+      ],
+      [
+       "No.",
+       "b:141"
+      ],
+      [
+       "Fue por lo que sintió, o dejó de sentir, al leerte.",
+       "b:0"
+      ],
+      [
+       "Un mensaje puede hacerlo sentir presionado…",
+       "b:12"
+      ],
+      [
+       "o con ganas de verte.",
+       "b:46"
+      ]
+     ],
+     "destaques": [
+      "alejó",
+      "bonita",
+      "sintió",
+      "presionado",
+      "ganas",
+      "de",
+      "verte"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Cleopatra no rogaba.",
+       "b:36"
+      ],
+      [
+       "No perseguía.",
+       "b:20"
+      ],
+      [
+       "Y aun así, era a ella a quien buscaban.",
+       "b:18"
+      ]
+     ],
+     "destaques": [
+      "rogaba",
+      "perseguía",
+      "buscaban"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Ella entendía algo muy simple:",
+       "b:22"
+      ],
+      [
+       "un hombre persigue lo que lo hace sentir algo,",
+       "b:19"
+      ],
+      [
+       "y se aburre de lo que ya conoce.",
+       "b:53"
+      ]
+     ],
+     "destaques": [
+      "simple",
+      "persigue",
+      "aburre"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Esas palabras no son un secreto de reinas.",
+       "b:7"
+      ],
+      [
+       "Se pueden aprender.",
+       "b:175"
+      ],
+      [
+       "Las reuní en un video gratuito de cinco minutos,",
+       "b:78"
+      ],
+      [
+       "con frases que puedes copiar y mandarle hoy.",
+       "b:173"
+      ]
+     ],
+     "destaques": [
+      "reinas",
+      "aprender",
+      "cinco",
+      "minutos",
+      "copiar"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:42",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "quiten"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794084929175.mp4",
+    "ini": 0,
+    "fim": 9.63
+   }
+  },
+  {
+   "id": "07",
+   "formato": "tela dividida com mulheres chorando (gancho campeão #3)",
+   "angulo": "Por que ele sumiu depois de tanto interesse",
+   "corpo": "G",
+   "gancho": "¿Quieres saber por qué desapareció de la nada después de haber mostrado tanto interés?",
+   "voz": "daniel",
+   "primary_text": "¿Por qué desapareció después de tanto interés? 💔 Y qué NO decirle aunque te duela. Mira el video gratuito 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Al principio te escribía todos los días.",
+       "b:4"
+      ],
+      [
+       "Te mandaba buenos días, te llamaba, te buscaba.",
+       "b:73"
+      ],
+      [
+       "Y de un momento a otro, silencio.",
+       "b:51"
+      ]
+     ],
+     "destaques": [
+      "todos",
+      "los",
+      "días",
+      "buscaba",
+      "silencio"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Lo primero que piensas es que hay otra,",
+       "b:58"
+      ],
+      [
+       "o que hiciste algo mal.",
+       "b:105"
+      ],
+      [
+       "Pero muchas veces es más simple:",
+       "b:126"
+      ],
+      [
+       "él sintió que ya te había conquistado,",
+       "b:25"
+      ],
+      [
+       "y la emoción del comienzo se apagó.",
+       "b:28"
+      ]
+     ],
+     "destaques": [
+      "otra",
+      "mal",
+      "simple",
+      "conquistado",
+      "apagó"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y aquí está el error que casi todas cometen:",
+       "b:122"
+      ],
+      [
+       "le reclaman, le preguntan qué pasó,",
+       "b:15"
+      ],
+      [
+       "le mandan mensajes largos explicando lo que sienten.",
+       "b:0"
+      ],
+      [
+       "Eso solo confirma que él no tiene que hacer nada.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "error",
+      "reclaman",
+      "largos",
+      "nada"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Lo que lo hace volver es otra cosa:",
+       "b:7"
+      ],
+      [
+       "un mensaje corto, tranquilo,",
+       "b:141"
+      ],
+      [
+       "que le recuerde lo que sentía al principio.",
+       "b:63"
+      ],
+      [
+       "Sin presión, sin reclamos.",
+       "b:172"
+      ]
+     ],
+     "destaques": [
+      "volver",
+      "corto",
+      "al",
+      "principio",
+      "sin",
+      "presión"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y el momento también importa.",
+       "b:129"
+      ],
+      [
+       "Si le escribes en el momento equivocado,",
+       "b:132"
+      ],
+      [
+       "hasta la frase perfecta pasa desapercibida.",
+       "b:56"
+      ],
+      [
+       "Por eso no basta con saber qué decir:",
+       "b:22"
+      ],
+      [
+       "hay que saber cuándo.",
+       "b:2"
+      ]
+     ],
+     "destaques": [
+      "momento",
+      "equivocado",
+      "desapercibida",
+      "qué",
+      "cuándo"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y otra cosa: no le escribas para saber si todavía le gustas.",
+       "b:140"
+      ],
+      [
+       "Escríbele para que sienta algo.",
+       "b:72"
+      ],
+      [
+       "Esa es la diferencia entre perseguirlo",
+       "b:20"
+      ],
+      [
+       "y hacer que él te busque.",
+       "b:61"
+      ]
+     ],
+     "destaques": [
+      "gustas",
+      "sienta",
+      "perseguirlo",
+      "te",
+      "busque"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:168"
+      ],
+      [
+       "te muestro qué escribirle cuando desaparece,",
+       "b:169"
+      ],
+      [
+       "y qué no decirle nunca, aunque te duela.",
+       "b:183"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "desaparece",
+      "nunca"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:158",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794084838097.mp4",
+    "ini": 0,
+    "fim": 7.17
+   }
+  },
+  {
+   "id": "08",
+   "formato": "apresentador com microfone de mão (gancho campeão #4)",
+   "angulo": "Prioridade: tirar ele do estado de desatenção",
+   "corpo": "H",
+   "gancho": "Un hombre solo pasa a priorizar de verdad a una mujer cuando…",
+   "voz": "daniel",
+   "primary_text": "La frase que lo saca del 'modo automático' y lo hace buscarte. 📲 Mira el video gratuito 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Pero antes, entiende qué es el estado de desatención.",
+       "b:22"
+      ],
+      [
+       "Es cuando él ya no se pregunta qué estás haciendo,",
+       "b:25"
+      ],
+      [
+       "ni con quién estás.",
+       "b:48"
+      ],
+      [
+       "Te responde por responder.",
+       "b:178"
+      ],
+      [
+       "Y tú lo sientes.",
+       "b:16"
+      ]
+     ],
+     "destaques": [
+      "desatención",
+      "haciendo",
+      "quién",
+      "por",
+      "responder",
+      "sientes"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "En ese punto, escribirle más no ayuda.",
+       "b:0"
+      ],
+      [
+       "Lo que lo saca de ahí es la sorpresa:",
+       "b:121"
+      ],
+      [
+       "una frase que él no espera de ti.",
+       "b:7"
+      ]
+     ],
+     "destaques": [
+      "más",
+      "sorpresa",
+      "no",
+      "espera"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Ni mensajes largos, ni indirectas en tus historias,",
+       "b:1"
+      ],
+      [
+       "ni hacerte la ocupada por horas.",
+       "b:129"
+      ],
+      [
+       "Eso él ya lo conoce,",
+       "b:28"
+      ],
+      [
+       "y su cabeza lo ignora.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "indirectas",
+      "ocupada",
+      "conoce",
+      "ignora"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Por ejemplo, algo así de simple. Él lo lee, y por primera vez en días, quiere saber más.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Me pasó algo hoy que me hizo pensar en ti… pero no sé si contártelo 🙈",
+        "em": 0.3,
+        "hora": "20:05",
+        "alt": 250
+       },
+       {
+        "quem": "dele",
+        "txt": "Ahora me tienes que contar 😅",
+        "em": "quiere",
+        "hora": "20:06"
+       }
+      ],
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "lee",
+        "escribiendo…"
+       ]
+      ]
+     },
+     "destaques": [
+      "saber",
+      "más"
+     ],
+     "leg_topo": 1010
+    },
+    {
+     "partes": [
+      [
+       "Eso es activar su lado masculino:",
+       "b:47"
+      ],
+      [
+       "la curiosidad, las ganas de buscarte,",
+       "b:19"
+      ],
+      [
+       "de ser él quien da el siguiente paso.",
+       "b:61"
+      ]
+     ],
+     "destaques": [
+      "masculino",
+      "curiosidad",
+      "buscarte",
+      "siguiente",
+      "paso"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y fíjate en algo:",
+       "b:126"
+      ],
+      [
+       "en esa frase no hay reclamo,",
+       "b:141"
+      ],
+      [
+       "no hay presión,",
+       "b:8"
+      ],
+      [
+       "no hay un ¿por qué no me escribes?",
+       "b:56"
+      ],
+      [
+       "Solo hay curiosidad.",
+       "b:134"
+      ]
+     ],
+     "destaques": [
+      "no",
+      "hay",
+      "reclamo",
+      "presión",
+      "curiosidad"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Esa es solo una de las frases.",
+       "b:169"
+      ],
+      [
+       "En un video gratuito de cinco minutos te muestro las demás,",
+       "b:175"
+      ],
+      [
+       "para cada momento de la relación.",
+       "b:45"
+      ]
+     ],
+     "destaques": [
+      "una",
+      "demás",
+      "relación"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:62",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794084880585.mp4",
+    "ini": 0,
+    "fim": 9.21
+   }
+  },
+  {
+   "id": "09",
+   "formato": "apresentador (gancho campeão #9)",
+   "angulo": "Tipos de mensagem: curiosidade, conexão, atração",
+   "corpo": "I",
+   "gancho": "Si yo fuera mujer y me quedara soltera en este 2026…",
+   "voz": "daniel",
+   "primary_text": "Mensajes de curiosidad, de conexión y de atracción. Copias, pegas y envías. ✨ Video gratuito de 5 minutos 👇",
+   "blocos": [
+    {
+     "partes": [
+      [
+       "Porque un hombre no se enamora de lo que le das.",
+       "b:22"
+      ],
+      [
+       "Se enamora de lo que siente cuando habla contigo.",
+       "b:73"
+      ]
+     ],
+     "destaques": [
+      "das",
+      "siente"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Hay mensajes que lo aburren,",
+       "b:25"
+      ],
+      [
+       "mensajes que lo asustan,",
+       "b:12"
+      ],
+      [
+       "y mensajes que lo dejan pensando en ti todo el día.",
+       "b:134"
+      ],
+      [
+       "La diferencia muchas veces es una sola frase.",
+       "b:7"
+      ]
+     ],
+     "destaques": [
+      "aburren",
+      "asustan",
+      "pensando",
+      "en",
+      "ti",
+      "una",
+      "sola",
+      "frase"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Mensajes de curiosidad, para que te responda. Mensajes de conexión, para que se abra contigo. Y mensajes de atracción, para que quiera verte.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "MENSAJES DE<br><k>CURIOSIDAD</k>",
+        "#0d0d0d"
+       ],
+       [
+        "conexión",
+        "MENSAJES DE<br><k>CONEXIÓN</k>",
+        "#1a0f12"
+       ],
+       [
+        "atracción",
+        "MENSAJES DE<br><k>ATRACCIÓN</k>",
+        "#0b141a"
+       ]
+      ]
+     },
+     "destaques": []
+    },
+    {
+     "partes": [
+      [
+       "Y lo mejor: no tienes que inventar nada.",
+       "b:141"
+      ],
+      [
+       "Abres, copias, pegas y envías.",
+       "b:173"
+      ],
+      [
+       "En el momento justo.",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "inventar",
+      "copias",
+      "justo"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "No necesitas ser escritora,",
+       "b:169"
+      ],
+      [
+       "ni tener una labia especial.",
+       "b:46"
+      ],
+      [
+       "Solo elegir la frase correcta",
+       "b:140"
+      ],
+      [
+       "para lo que estás viviendo.",
+       "b:16"
+      ]
+     ],
+     "destaques": [
+      "escritora",
+      "labia",
+      "correcta",
+      "viviendo"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "La mayoría de las mujeres hace lo contrario:",
+       "b:132"
+      ],
+      [
+       "escribe lo primero que siente,",
+       "b:0"
+      ],
+      [
+       "y después se pasa la noche esperando una respuesta.",
+       "b:51"
+      ]
+     ],
+     "destaques": [
+      "contrario",
+      "siente",
+      "esperando"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y cuanto más espera, más ansiosa se pone,",
+       "b:105"
+      ],
+      [
+       "y más mensajes manda.",
+       "b:56"
+      ],
+      [
+       "Es un círculo que lo aleja cada vez más.",
+       "b:28"
+      ],
+      [
+       "Las frases correctas cortan ese círculo.",
+       "b:72"
+      ]
+     ],
+     "destaques": [
+      "ansiosa",
+      "manda",
+      "círculo",
+      "cortan"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Las frases están en un video gratuito de cinco minutos.",
+       "b:78"
+      ],
+      [
+       "Míralo antes de escribirle otra vez.",
+       "b:70"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "otra",
+      "vez"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:19",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "quiten"
+     ],
+     "leg_topo": 900
+    }
+   ],
+   "cabeca": {
+    "src": "21-frases/campeoes/video---1794085498075.mp4",
+    "ini": 0,
+    "fim": 6.45
+   }
+  },
+  {
+   "id": "10",
+   "formato": "conversa de WhatsApp (visto)",
+   "angulo": "Tono correcto / banco de reserva",
+   "corpo": "A",
+   "gancho": "Mira este chat. Ella le escribió todo lo que sentía… y él la dejó en visto.",
+   "voz": "daniel",
+   "primary_text": "¿Te dejó en visto otra vez? 😔 No es falta de tiempo: es el tono del mensaje. Mira el video gratuito de 5 minutos con las frases exactas 👇",
+   "blocos": [
+    {
+     "texto": "Mira este chat. Ella le escribió todo lo que sentía, a las diez de la noche. Y él la dejó en visto.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Hola, ¿todo bien? Siento que estás distante y no sé si hice algo mal… ¿podemos hablar? 😔",
+        "em": 0.2,
+        "hora": "22:04",
+        "alt": 260,
+        "azul": "visto"
+       }
+      ],
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "visto",
+        "últ. vez hoy a las 22:05"
+       ]
+      ],
+      "carimbos": [
+       {
+        "tipo": "mau",
+        "txt": "VISTO ✓✓",
+        "em": "visto",
+        "topo": 640,
+        "x": 260
+       }
+      ]
+     },
+     "destaques": [
+      "visto"
+     ],
+     "leg_topo": 1010
+    },
+    {
+     "partes": [
+      [
+       "Y no, no es que esté ocupado.",
+       "b:171"
+      ],
+      [
+       "Un hombre interesado siempre encuentra un minuto para responder.",
+       "b:22"
+      ],
+      [
+       "Cuando no lo hace, casi siempre es por el mensaje que recibió.",
+       "b:178"
+      ]
+     ],
+     "destaques": [
+      "ocupado",
+      "minuto",
+      "mensaje"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Mira lo que pasa normalmente:",
+       "b:1"
+      ],
+      [
+       "él tarda en responder, tú te preocupas,",
+       "b:5"
+      ],
+      [
+       "y le mandas otro mensaje para saber si está bien.",
+       "b:0"
+      ],
+      [
+       "Después otro, preguntando si hiciste algo mal.",
+       "b:56"
+      ],
+      [
+       "Y cada mensaje así le dice lo mismo:",
+       "b:25"
+      ],
+      [
+       "que ya te tiene, sin hacer nada.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "preocupas",
+      "mal",
+      "sin",
+      "hacer",
+      "nada"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Ahí es cuando te pone en la banca,",
+       "b:58"
+      ],
+      [
+       "como su opción de reserva.",
+       "b:53"
+      ],
+      [
+       "No porque no valgas,",
+       "b:16"
+      ],
+      [
+       "sino porque tu mensaje no le despertó ninguna emoción.",
+       "b:126"
+      ]
+     ],
+     "destaques": [
+      "banca",
+      "reserva",
+      "valgas",
+      "emoción"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Existe un tono exacto para escribirle a un hombre.",
+       "b:72"
+      ],
+      [
+       "Un tono tranquilo, que no le pide nada,",
+       "b:141"
+      ],
+      [
+       "pero que lo deja con curiosidad.",
+       "b:134"
+      ],
+      [
+       "Y cuando lo usas, el que empieza a preguntar es él.",
+       "b:4"
+      ]
+     ],
+     "destaques": [
+      "tono",
+      "exacto",
+      "tranquilo",
+      "curiosidad",
+      "preguntar"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Por ejemplo: en vez de preguntarle por qué no te contesta, ella le manda algo corto y tranquilo. Y ahora es él quien quiere saber más.",
+     "visual": {
+      "tipo": "zap",
+      "nome": "Él ❤️",
+      "selo": "ejemplo",
+      "msgs": [
+       {
+        "quem": "dela",
+        "txt": "Hoy vi algo que me hizo acordarme de ti 😊 después te cuento",
+        "em": 0.3,
+        "hora": "21:12",
+        "alt": 210
+       },
+       {
+        "quem": "dele",
+        "txt": "¿Qué viste? 👀 cuéntame ahora",
+        "em": "ahora",
+        "hora": "21:13"
+       }
+      ],
+      "status": [
+       [
+        0,
+        "en línea"
+       ],
+       [
+        "ahora",
+        "escribiendo…"
+       ]
+      ]
+     },
+     "destaques": [
+      "tranquilo",
+      "más"
+     ],
+     "leg_topo": 1010
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:168"
+      ],
+      [
+       "te muestro las frases exactas para cada situación:",
+       "b:169"
+      ],
+      [
+       "cuando te deja en visto, cuando se enfría,",
+       "b:51"
+      ],
+      [
+       "y cuando desaparece de la nada.",
+       "b:70"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "frases",
+      "exactas",
+      "visto",
+      "enfría",
+      "desaparece"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora, antes de mandarle otro mensaje.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:45",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "formato": "simulação de notícia URGENTE",
+   "angulo": "Prova masculina: o que os homens não admitem",
+   "corpo": "B",
+   "gancho": "Urgente. El mensaje que casi todas las mujeres mandan, y que hace que él deje de responder.",
+   "voz": "daniel",
+   "primary_text": "Lo que los hombres casi nunca admiten: si está interesado, siempre encuentra 10 segundos. 👀 Mira qué escribirle hoy 👇",
+   "blocos": [
+    {
+     "texto": "Urgente. El mensaje que casi todas las mujeres mandan, y que hace que él deje de responder.",
+     "visual": {
+      "tipo": "noticia",
+      "fundo": "b:5",
+      "tarja": "URGENTE",
+      "canal": "NOTICIAS DEL CORAZÓN",
+      "manchetes": [
+       [
+        0,
+        "EL MENSAJE QUE HACE QUE ÉL TE DEJE EN VISTO"
+       ],
+       [
+        "deje",
+        "¿LO HAS MANDADO TÚ?"
+       ]
+      ],
+      "letreiro": "dramatización · ejemplo · el mensaje que casi todas mandan · "
+     },
+     "destaques": [
+      "urgente",
+      "responder"
+     ]
+    },
+    {
+     "partes": [
+      [
+       "Te voy a contar algo que los hombres casi nunca admiten.",
+       "b:22"
+      ],
+      [
+       "Cuando un hombre está interesado,",
+       "b:134"
+      ],
+      [
+       "responde aunque esté en el trabajo, en el gimnasio o con sus amigos.",
+       "b:26"
+      ],
+      [
+       "Diez segundos. Es todo lo que necesita.",
+       "b:129"
+      ]
+     ],
+     "destaques": [
+      "admiten",
+      "interesado",
+      "trabajo",
+      "diez",
+      "segundos"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Entonces, si tarda horas,",
+       "b:2"
+      ],
+      [
+       "no es el tiempo.",
+       "b:93"
+      ],
+      [
+       "Es que tu mensaje no le dio una razón para responder.",
+       "b:25"
+      ]
+     ],
+     "destaques": [
+      "horas",
+      "razón"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "La mayoría de las mujeres escribe lo mismo:",
+       "b:0"
+      ],
+      [
+       "hola, ¿cómo estás?, ¿qué haces?, ¿todo bien?",
+       "b:176"
+      ],
+      [
+       "Mensajes que él ya leyó mil veces.",
+       "b:178"
+      ],
+      [
+       "Y lo que es predecible, se deja para después.",
+       "b:28"
+      ]
+     ],
+     "destaques": [
+      "mismo",
+      "mil",
+      "veces",
+      "predecible"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Pero hay frases que funcionan distinto.",
+       "b:7"
+      ],
+      [
+       "Frases que tocan su curiosidad,",
+       "b:47"
+      ],
+      [
+       "su orgullo, o el miedo a perderte.",
+       "b:44"
+      ],
+      [
+       "Y cuando él siente eso, dejarte en visto ya no es tan fácil.",
+       "b:73"
+      ]
+     ],
+     "destaques": [
+      "distinto",
+      "curiosidad",
+      "orgullo",
+      "miedo",
+      "a",
+      "perderte",
+      "fácil"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "No es manipulación.",
+       "b:8"
+      ],
+      [
+       "Es hablarle en el idioma en que piensa un hombre.",
+       "b:49"
+      ],
+      [
+       "Directo, corto, y sin presión.",
+       "b:141"
+      ]
+     ],
+     "destaques": [
+      "manipulación",
+      "idioma",
+      "sin",
+      "presión"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y no importa si ya le escribiste de más,",
+       "b:132"
+      ],
+      [
+       "o si hace días que no te responde.",
+       "b:51"
+      ],
+      [
+       "Todavía puedes cambiar el tono",
+       "b:72"
+      ],
+      [
+       "y hacer que te mire distinto.",
+       "b:46"
+      ]
+     ],
+     "destaques": [
+      "de",
+      "más",
+      "responde",
+      "cambiar",
+      "el",
+      "tono",
+      "distinto"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Reuní esas frases en un video gratuito de cinco minutos.",
+       "b:175"
+      ],
+      [
+       "Ahí vas a ver qué escribirle hoy mismo,",
+       "b:169"
+      ],
+      [
+       "y qué no mandarle nunca.",
+       "b:183"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "hoy",
+      "mismo",
+      "nunca"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:61",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "quiten"
+     ],
+     "leg_topo": 900
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "formato": "interface de busca",
+   "angulo": "Por que ele sumiu depois de tanto interesse",
+   "corpo": "G",
+   "gancho": "Si alguna vez buscaste esto a la una de la mañana, quédate.",
+   "voz": "daniel",
+   "primary_text": "¿Por qué desapareció después de tanto interés? 💔 Y qué NO decirle aunque te duela. Mira el video gratuito 👇",
+   "blocos": [
+    {
+     "texto": "Si alguna vez buscaste esto a la una de la mañana, quédate.",
+     "visual": {
+      "tipo": "busca",
+      "consulta": "por qué desapareció si estaba tan interesado",
+      "digitar_ate": "mañana",
+      "resultados": [
+       [
+        "foro · amor",
+        "Me escribía todos los días y de repente nada",
+        "¿Le escribo o espero? Ya no sé qué hacer…"
+       ],
+       [
+        "preguntas",
+        "¿Por qué los hombres desaparecen de la nada?",
+        "Muchas mujeres pasan por esto y nadie lo explica"
+       ],
+       [
+        "blog",
+        "Qué NO decirle cuando se aleja",
+        "El error que casi todas cometen…"
+       ]
+      ]
+     },
+     "destaques": [
+      "quédate"
+     ],
+     "leg_topo": 1010
+    },
+    {
+     "partes": [
+      [
+       "Al principio te escribía todos los días.",
+       "b:4"
+      ],
+      [
+       "Te mandaba buenos días, te llamaba, te buscaba.",
+       "b:73"
+      ],
+      [
+       "Y de un momento a otro, silencio.",
+       "b:51"
+      ]
+     ],
+     "destaques": [
+      "todos",
+      "los",
+      "días",
+      "buscaba",
+      "silencio"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Lo primero que piensas es que hay otra,",
+       "b:58"
+      ],
+      [
+       "o que hiciste algo mal.",
+       "b:105"
+      ],
+      [
+       "Pero muchas veces es más simple:",
+       "b:126"
+      ],
+      [
+       "él sintió que ya te había conquistado,",
+       "b:25"
+      ],
+      [
+       "y la emoción del comienzo se apagó.",
+       "b:28"
+      ]
+     ],
+     "destaques": [
+      "otra",
+      "mal",
+      "simple",
+      "conquistado",
+      "apagó"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y aquí está el error que casi todas cometen:",
+       "b:122"
+      ],
+      [
+       "le reclaman, le preguntan qué pasó,",
+       "b:15"
+      ],
+      [
+       "le mandan mensajes largos explicando lo que sienten.",
+       "b:0"
+      ],
+      [
+       "Eso solo confirma que él no tiene que hacer nada.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "error",
+      "reclaman",
+      "largos",
+      "nada"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Lo que lo hace volver es otra cosa:",
+       "b:7"
+      ],
+      [
+       "un mensaje corto, tranquilo,",
+       "b:141"
+      ],
+      [
+       "que le recuerde lo que sentía al principio.",
+       "b:63"
+      ],
+      [
+       "Sin presión, sin reclamos.",
+       "b:172"
+      ]
+     ],
+     "destaques": [
+      "volver",
+      "corto",
+      "al",
+      "principio",
+      "sin",
+      "presión"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y el momento también importa.",
+       "b:129"
+      ],
+      [
+       "Si le escribes en el momento equivocado,",
+       "b:132"
+      ],
+      [
+       "hasta la frase perfecta pasa desapercibida.",
+       "b:56"
+      ],
+      [
+       "Por eso no basta con saber qué decir:",
+       "b:22"
+      ],
+      [
+       "hay que saber cuándo.",
+       "b:2"
+      ]
+     ],
+     "destaques": [
+      "momento",
+      "equivocado",
+      "desapercibida",
+      "qué",
+      "cuándo"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y otra cosa: no le escribas para saber si todavía le gustas.",
+       "b:140"
+      ],
+      [
+       "Escríbele para que sienta algo.",
+       "b:72"
+      ],
+      [
+       "Esa es la diferencia entre perseguirlo",
+       "b:20"
+      ],
+      [
+       "y hacer que él te busque.",
+       "b:61"
+      ]
+     ],
+     "destaques": [
+      "gustas",
+      "sienta",
+      "perseguirlo",
+      "te",
+      "busque"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:78"
+      ],
+      [
+       "te muestro qué escribirle cuando desaparece,",
+       "b:169"
+      ],
+      [
+       "y qué no decirle nunca, aunque te duela.",
+       "b:183"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "desaparece",
+      "nunca"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora, antes de que lo quiten.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:158",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "formato": "quiz A/B/C (teste)",
+   "angulo": "Resposta do quiz: por que a C funciona",
+   "corpo": "J",
+   "gancho": "Él te deja en visto seis horas. ¿Qué haces?",
+   "voz": "daniel",
+   "primary_text": "Él te deja en visto 6 horas. ¿A, B o C? 🤔 La respuesta correcta (y las frases) en el video gratuito 👇",
+   "blocos": [
+    {
+     "texto": "Él te deja en visto seis horas. ¿Qué haces? A: le escribes otra vez. B: lo bloqueas. C: le mandas una frase corta y tranquila, que lo deja con curiosidad.",
+     "visual": {
+      "tipo": "quiz",
+      "pergunta": "Él te deja en visto 6 horas. ¿Qué haces?",
+      "opcoes": [
+       {
+        "txt": "Le escribes otra vez",
+        "em": "A"
+       },
+       {
+        "txt": "Lo bloqueas",
+        "em": "B"
+       },
+       {
+        "txt": "Una frase corta que le da curiosidad",
+        "em": "C",
+        "certa": true,
+        "veredito_em": "curiosidad"
+       }
+      ]
+     },
+     "destaques": [
+      "seis",
+      "horas",
+      "curiosidad"
+     ],
+     "leg_topo": 1010
+    },
+    {
+     "partes": [
+      [
+       "Si elegiste la A, no estás sola.",
+       "b:0"
+      ],
+      [
+       "Es lo que casi todas hacen.",
+       "b:56"
+      ],
+      [
+       "Pero insistir le confirma que te tiene segura.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "a",
+      "hacen",
+      "segura"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Si elegiste la B, entiendo el enojo.",
+       "b:105"
+      ],
+      [
+       "Pero bloquearlo no lo hace pensar en ti.",
+       "b:28"
+      ],
+      [
+       "Solo le da una excusa para alejarse.",
+       "b:58"
+      ]
+     ],
+     "destaques": [
+      "b",
+      "pensar",
+      "en",
+      "ti",
+      "excusa"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "La respuesta es la C.",
+       "b:7"
+      ],
+      [
+       "Una frase corta, tranquila,",
+       "b:141"
+      ],
+      [
+       "que no le pide explicaciones,",
+       "b:36"
+      ],
+      [
+       "y que despierta su curiosidad.",
+       "b:47"
+      ],
+      [
+       "Así, responderte se vuelve idea de él.",
+       "b:134"
+      ]
+     ],
+     "destaques": [
+      "c",
+      "corta",
+      "explicaciones",
+      "curiosidad",
+      "idea",
+      "de",
+      "él"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Esa frase no le exige nada.",
+       "b:140"
+      ],
+      [
+       "Por eso no hay nada de qué defenderse,",
+       "b:12"
+      ],
+      [
+       "y su atención vuelve a ti.",
+       "b:73"
+      ]
+     ],
+     "destaques": [
+      "nada",
+      "defenderse",
+      "ti"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y aquí está lo interesante:",
+       "b:121"
+      ],
+      [
+       "cuando él no recibe la reacción que espera,",
+       "b:25"
+      ],
+      [
+       "ni el reclamo, ni el silencio ofendido,",
+       "b:183"
+      ],
+      [
+       "se queda pensando.",
+       "b:22"
+      ],
+      [
+       "Y un hombre que se queda pensando en ti,",
+       "b:126"
+      ],
+      [
+       "muchas veces es el que vuelve a escribir.",
+       "b:4"
+      ]
+     ],
+     "destaques": [
+      "interesante",
+      "espera",
+      "ofendido",
+      "pensando",
+      "escribir"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "No tienes que ser otra persona.",
+       "b:172"
+      ],
+      [
+       "Solo cambiar cómo le escribes.",
+       "b:176"
+      ]
+     ],
+     "destaques": [
+      "otra",
+      "persona",
+      "cómo"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "El problema es saber qué frase mandar,",
+       "b:132"
+      ],
+      [
+       "y en qué momento.",
+       "b:129"
+      ],
+      [
+       "Por eso preparé un video gratuito de cinco minutos",
+       "b:168"
+      ],
+      [
+       "con las frases exactas para cada situación.",
+       "b:169"
+      ]
+     ],
+     "destaques": [
+      "qué",
+      "frase",
+      "momento",
+      "cinco",
+      "minutos",
+      "frases",
+      "exactas"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora, antes de mandarle otro mensaje.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:65",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "formato": "texto grande + música (mini VSL)",
+   "angulo": "Público novo: mulheres 35+ que voltaram a sair",
+   "corpo": "K",
+   "gancho": "¿Tienes más de 35 y volviste a tener citas? Esto es para ti.",
+   "voz": "daniel",
+   "primary_text": "¿Más de 35 y volviste a tener citas? Las reglas cambiaron. 💬 Mira las frases que funcionan hoy 👇",
+   "blocos": [
+    {
+     "texto": "Si tienes más de treinta y cinco, y volviste a tener citas, esto es para ti.",
+     "visual": {
+      "tipo": "texto",
+      "legenda": false,
+      "frases": [
+       [
+        0,
+        "¿TIENES MÁS DE <k>35</k>?",
+        "#0d0d0d"
+       ],
+       [
+        "volviste",
+        "¿Y VOLVISTE A TENER <k>CITAS</k>?",
+        "#1a0f12"
+       ],
+       [
+        "esto",
+        "ESTO ES <k>PARA TI</k>",
+        "#0b141a"
+       ]
+      ]
+     },
+     "destaques": [
+      "treinta",
+      "y",
+      "cinco",
+      "ti"
+     ]
+    },
+    {
+     "partes": [
+      [
+       "Las reglas cambiaron.",
+       "b:126"
+      ],
+      [
+       "Hoy todo pasa por mensajes,",
+       "b:140"
+      ],
+      [
+       "y un mensaje mal escrito puede enfriar a un hombre",
+       "b:25"
+      ],
+      [
+       "que parecía muy interesado.",
+       "b:47"
+      ]
+     ],
+     "destaques": [
+      "cambiaron",
+      "mensajes",
+      "enfriar",
+      "interesado"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Muchas mujeres que vuelven a salir después de una relación larga",
+       "b:16"
+      ],
+      [
+       "escriben como se hablaba antes:",
+       "b:0"
+      ],
+      [
+       "explican todo, preguntan todo, se entregan rápido.",
+       "b:56"
+      ],
+      [
+       "Y él se aleja sin decir por qué.",
+       "b:58"
+      ]
+     ],
+     "destaques": [
+      "larga",
+      "antes",
+      "entregan",
+      "aleja"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "No es tu edad.",
+       "b:7"
+      ],
+      [
+       "Al contrario: tu experiencia es un atractivo.",
+       "b:35"
+      ],
+      [
+       "Lo que falta es usar el tono correcto,",
+       "b:141"
+      ],
+      [
+       "uno tranquilo, seguro, que no persigue.",
+       "b:36"
+      ]
+     ],
+     "destaques": [
+      "edad",
+      "experiencia",
+      "tono",
+      "correcto",
+      "seguro"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Sabes lo que quieres,",
+       "b:8"
+      ],
+      [
+       "y no tienes paciencia para juegos.",
+       "b:15"
+      ],
+      [
+       "Las frases correctas te ahorran meses",
+       "b:93"
+      ],
+      [
+       "de esperar a que él se decida.",
+       "b:28"
+      ]
+     ],
+     "destaques": [
+      "quieres",
+      "juegos",
+      "meses",
+      "decida"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Un hombre maduro se siente atraído",
+       "b:171"
+      ],
+      [
+       "por una mujer que sabe lo que vale,",
+       "b:172"
+      ],
+      [
+       "y que no tiene prisa.",
+       "b:41"
+      ]
+     ],
+     "destaques": [
+      "maduro",
+      "vale",
+      "prisa"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y otra cosa:",
+       "b:122"
+      ],
+      [
+       "a esta edad ya no tienes tiempo que perder",
+       "b:129"
+      ],
+      [
+       "con hombres que te tienen en duda.",
+       "b:22"
+      ],
+      [
+       "Las frases correctas también te muestran",
+       "b:72"
+      ],
+      [
+       "quién está realmente interesado.",
+       "b:134"
+      ]
+     ],
+     "destaques": [
+      "tiempo",
+      "duda",
+      "muestran",
+      "quién"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Si responde con ganas, perfecto.",
+       "b:73"
+      ],
+      [
+       "Si no, ya sabes que no era él.",
+       "b:130"
+      ]
+     ],
+     "destaques": [
+      "ganas",
+      "no",
+      "era",
+      "él"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:175"
+      ],
+      [
+       "te muestro las frases que funcionan hoy,",
+       "b:169"
+      ],
+      [
+       "sin juegos y sin parecer desesperada.",
+       "b:46"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "hoy",
+      "desesperada"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:45",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "formato": "notificação na tela bloqueada",
+   "angulo": "Objeção dele: 'não quero nada sério'",
+   "corpo": "L",
+   "gancho": "Si él te escribió que no está listo para algo serio, no le respondas todavía.",
+   "voz": "daniel",
+   "primary_text": "'No estoy listo para algo serio'… ¿qué le respondes? 🤐 Míralo antes de responderle 👇",
+   "blocos": [
+    {
+     "texto": "Si él te escribió que no está listo para algo serio, no le respondas todavía.",
+     "visual": {
+      "tipo": "bloqueio",
+      "hora": "23:41",
+      "data": "miércoles, 11 de noviembre",
+      "notifs": [
+       {
+        "de": "Él",
+        "txt": "No estoy listo para algo serio ahora… pero me gusta hablar contigo",
+        "em": 0.2
+       }
+      ],
+      "selo": "ejemplo"
+     },
+     "destaques": [
+      "todavía"
+     ]
+    },
+    {
+     "partes": [
+      [
+       "Lo que respondas ahora importa mucho.",
+       "b:126"
+      ],
+      [
+       "La mayoría responde de dos formas:",
+       "b:132"
+      ],
+      [
+       "o le ruega que lo intente,",
+       "b:105"
+      ],
+      [
+       "o se enoja y desaparece.",
+       "b:183"
+      ],
+      [
+       "Y las dos lo alejan.",
+       "b:28"
+      ]
+     ],
+     "destaques": [
+      "importa",
+      "dos",
+      "formas",
+      "ruega",
+      "enoja",
+      "alejan"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Cuando un hombre dice eso,",
+       "b:22"
+      ],
+      [
+       "muchas veces no está diciendo que no te quiere.",
+       "b:25"
+      ],
+      [
+       "Está diciendo que todavía no siente la necesidad de elegirte.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "quiere",
+      "elegirte"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y casi siempre deja una puerta abierta:",
+       "b:72"
+      ],
+      [
+       "fíjate que dijo: pero me gusta hablar contigo.",
+       "b:140"
+      ],
+      [
+       "Esa es tu oportunidad,",
+       "b:46"
+      ],
+      [
+       "si sabes qué responder.",
+       "b:169"
+      ]
+     ],
+     "destaques": [
+      "puerta",
+      "abierta",
+      "hablar",
+      "contigo",
+      "oportunidad",
+      "responder"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y esa necesidad no nace con presión.",
+       "b:44"
+      ],
+      [
+       "Nace cuando él siente que tienes tu propia vida,",
+       "b:172"
+      ],
+      [
+       "que estás bien con o sin él,",
+       "b:130"
+      ],
+      [
+       "y que podría perderte.",
+       "b:20"
+      ]
+     ],
+     "destaques": [
+      "presión",
+      "propia",
+      "vida",
+      "bien",
+      "perderte"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Muchos hombres dicen esa frase",
+       "b:178"
+      ],
+      [
+       "para ver tu reacción.",
+       "b:12"
+      ],
+      [
+       "Si te desesperas, confirma que te tiene segura.",
+       "b:56"
+      ],
+      [
+       "Si respondes con calma, lo descoloca.",
+       "b:7"
+      ]
+     ],
+     "destaques": [
+      "reacción",
+      "segura",
+      "calma",
+      "descoloca"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y un hombre que se queda pensando,",
+       "b:136"
+      ],
+      [
+       "muchas veces es el que vuelve a buscar.",
+       "b:4"
+      ],
+      [
+       "Sin que tú le ruegues nada.",
+       "b:35"
+      ]
+     ],
+     "destaques": [
+      "vuelve",
+      "ruegues"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Hay una respuesta corta, tranquila, sin drama,",
+       "b:141"
+      ],
+      [
+       "que cambia la forma en que te mira.",
+       "b:47"
+      ],
+      [
+       "Y otras frases para los días en que él se enfría.",
+       "b:51"
+      ]
+     ],
+     "destaques": [
+      "corta",
+      "mira",
+      "enfría"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Están en un video gratuito de cinco minutos.",
+       "b:78"
+      ],
+      [
+       "Míralo antes de responderle.",
+       "b:176"
+      ]
+     ],
+     "destaques": [
+      "gratuito",
+      "responderle"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:49",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "formato": "antes e depois (tela dividida de conversa)",
+   "angulo": "Valor e escassez (desdém sem jogos)",
+   "corpo": "E",
+   "gancho": "Arriba, cómo le escribe casi todo el mundo… Abajo, una mujer que sabe lo que vale.",
+   "voz": "daniel",
+   "primary_text": "No ruegues. No persigas. Un hombre valora lo que siente que puede perder. 💅 Mira el video gratuito 👇",
+   "blocos": [
+    {
+     "texto": "Arriba, cómo le escribe casi todo el mundo cuando él se aleja. Abajo, cómo le escribe una mujer que sabe lo que vale.",
+     "visual": {
+      "tipo": "split",
+      "antes": {
+       "msgs": [
+        {
+         "quem": "dela",
+         "txt": "¿Por qué ya no me escribes como antes? 😢",
+         "em": 0.3
+        },
+        {
+         "quem": "dela",
+         "txt": "Te extraño mucho, por favor respóndeme",
+         "em": "aleja"
+        }
+       ]
+      },
+      "depois": {
+       "rot_em": "Abajo",
+       "msgs": [
+        {
+         "quem": "dela",
+         "txt": "Hoy no puedo, tengo planes 😊 hablamos mañana",
+         "em": "Abajo"
+        },
+        {
+         "quem": "dele",
+         "txt": "¿Planes con quién? 👀",
+         "em": "vale"
+        }
+       ]
+      },
+      "selo": "ejemplo"
+     },
+     "destaques": [
+      "aleja",
+      "vale"
+     ],
+     "leg_topo": 1100
+    },
+    {
+     "partes": [
+      [
+       "Piensa en esto:",
+       "b:126"
+      ],
+      [
+       "un hombre valora lo que siente que puede perder.",
+       "b:20"
+      ],
+      [
+       "Y deja para después lo que tiene asegurado.",
+       "b:53"
+      ]
+     ],
+     "destaques": [
+      "valora",
+      "perder",
+      "asegurado"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Cuando le escribes todo el día,",
+       "b:1"
+      ],
+      [
+       "cuando le explicas cada cosa que sientes,",
+       "b:132"
+      ],
+      [
+       "cuando le preguntas por qué no responde,",
+       "b:56"
+      ],
+      [
+       "él no siente que te puede perder.",
+       "b:25"
+      ],
+      [
+       "Siente que ya te ganó.",
+       "b:59"
+      ]
+     ],
+     "destaques": [
+      "todo",
+      "el",
+      "día",
+      "explicas",
+      "no",
+      "responde",
+      "ganó"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Desdén no es tratarlo mal.",
+       "b:35"
+      ],
+      [
+       "Es tener tu propia vida,",
+       "b:172"
+      ],
+      [
+       "responder con calma,",
+       "b:141"
+      ],
+      [
+       "y dejar de estar siempre disponible.",
+       "b:36"
+      ]
+     ],
+     "destaques": [
+      "mal",
+      "propia",
+      "vida",
+      "calma",
+      "disponible"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y ojo: esto no es castigarlo",
+       "b:8"
+      ],
+      [
+       "ni dejar de escribirle para siempre.",
+       "b:0"
+      ],
+      [
+       "Es entender que un hombre necesita espacio",
+       "b:47"
+      ],
+      [
+       "para extrañarte.",
+       "b:16"
+      ]
+     ],
+     "destaques": [
+      "castigarlo",
+      "escribirle",
+      "espacio",
+      "extrañarte"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Si siempre estás disponible,",
+       "b:5"
+      ],
+      [
+       "no tiene nada que extrañar.",
+       "b:51"
+      ],
+      [
+       "Y lo que no se extraña, no se busca.",
+       "b:4"
+      ]
+     ],
+     "destaques": [
+      "disponible",
+      "extrañar",
+      "no",
+      "se",
+      "busca"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y hay frases que comunican eso en pocas palabras.",
+       "b:7"
+      ],
+      [
+       "Frases que hacen que él se pregunte:",
+       "b:22"
+      ],
+      [
+       "¿y si ella ya no está tan interesada?",
+       "b:28"
+      ],
+      [
+       "Ahí es cuando muchos hombres empiezan a buscar más.",
+       "b:134"
+      ]
+     ],
+     "destaques": [
+      "pocas",
+      "palabras",
+      "pregunte",
+      "interesada",
+      "buscar",
+      "más"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "Y cuando eso pasa, muchas veces se nota rápido:",
+       "b:122"
+      ],
+      [
+       "él empieza a escribirte primero,",
+       "b:73"
+      ],
+      [
+       "a preguntarte qué haces,",
+       "b:176"
+      ],
+      [
+       "y a proponerte verse.",
+       "b:63"
+      ]
+     ],
+     "destaques": [
+      "rápido",
+      "primero",
+      "qué",
+      "haces",
+      "verse"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "partes": [
+      [
+       "En un video gratuito de cinco minutos",
+       "b:168"
+      ],
+      [
+       "te enseño cuáles son, y cuándo usarlas,",
+       "b:169"
+      ],
+      [
+       "con elegancia, sin juegos.",
+       "b:45"
+      ]
+     ],
+     "destaques": [
+      "cinco",
+      "minutos",
+      "cuándo",
+      "elegancia"
+     ],
+     "pausa": 0.2
+    },
+    {
+     "texto": "Toca el botón de abajo y míralo ahora.",
+     "visual": {
+      "tipo": "cta",
+      "fundo": "b:18",
+      "sobre": "VIDEO GRATUITO · 5 MINUTOS",
+      "botao": "VER EL VIDEO ↓"
+     },
+     "destaques": [
+      "ahora"
+     ],
+     "leg_topo": 900
+    }
+   ]
+  }
+ ]
+}
