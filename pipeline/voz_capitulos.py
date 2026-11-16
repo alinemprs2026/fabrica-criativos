@@ -20,12 +20,17 @@ for q in (f"language={lingua.capitalize()}&gender=male&limit=100", f"language={l
     junta(f"{HEYGEN}/v3/voices?{q}")
 st, d, _ = junta(f"{HEYGEN}/v3/voices?limit=100")
 if isinstance(d, dict): print("chaves da resposta:", list(d.keys()), {k: v for k, v in d.items() if k != "data"})
-tok = (d or {}).get("next_token") or (d or {}).get("next_page_token") if isinstance(d, dict) else None
-for pg in range(2, 40):
-    url = f"{HEYGEN}/v3/voices?limit=100&page={pg}" + (f"&token={tok}" if tok else "")
-    st, d, n = junta(url)
+from urllib.parse import quote
+tok = d.get("next_token") if isinstance(d, dict) else None
+param = None
+for nome_p in ("token", "next_token", "page_token", "cursor"):
+    if not tok: break
+    st, d, n = junta(f"{HEYGEN}/v3/voices?limit=100&{nome_p}={quote(tok)}")
+    print("paginação", nome_p, st, "novas:", n)
+    if n: param = nome_p; break
+while param and isinstance(d, dict) and d.get("has_more") and d.get("next_token"):
+    st, d, n = junta(f"{HEYGEN}/v3/voices?limit=100&{param}={quote(d['next_token'])}")
     if not n: break
-    tok = (d or {}).get("next_token") or (d or {}).get("next_page_token") if isinstance(d, dict) else None
 st2, d2 = http("GET", f"{HEYGEN}/v2/voices")
 for v in ((d2 or {}).get("data", {}) or {}).get("voices", []) if isinstance(d2, dict) else []:
     if v.get("voice_id") not in vistos: vistos.add(v.get("voice_id")); todas.append(v)
