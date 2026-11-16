@@ -44,7 +44,10 @@ if not vozes:
     print("sem voz italiana masculina; usando multilíngue:", len(vozes))
 for k, v in enumerate(vozes[:10]): print(k, v.get("voice_id"), v.get("name"), v.get("language"))
 if not vozes: print("nenhuma voz utilizável"); sys.exit(1)
-voz = vozes[min(iv, len(vozes) - 1)]
+pref = os.environ.get("VOZ_NOME") or ("Luca" if lingua == "italian" else "")
+ach = [v for v in vozes if pref and pref.lower() in str(v.get("name", "")).lower()]
+voz = ach[0] if ach else vozes[min(iv, len(vozes) - 1)]
+print("voz escolhida:", voz.get("name"))
 arqs = sorted(glob.glob(os.path.join(pasta, "*.txt")))
 feitos = []
 for a in arqs:
