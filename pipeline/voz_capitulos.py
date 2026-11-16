@@ -7,10 +7,38 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fabrica import http, HEYGEN, tts, storage_enviar
 proj, pasta, lingua, cod = sys.argv[1:5]
 iv = int(sys.argv[5]) if len(sys.argv) > 5 else 0
-st, d = http("GET", f"{HEYGEN}/v3/voices?language={lingua.capitalize()}&gender=male&limit=100")
-vozes = [v for v in (d or {}).get("data", []) if lingua in str(v.get("language", "")).lower() and str(v.get("gender", "")).lower() == "male"]
-for k, v in enumerate(vozes[:10]): print(k, v["voice_id"], v.get("name"))
-if not vozes: print("sem vozes", st, str(d)[:300]); sys.exit(1)
+todas, vistos = [], set()
+def junta(url):
+    st, d = http("GET", url)
+    lst = (d or {}).get("data", []) if isinstance(d, dict) else []
+    if isinstance(lst, dict): lst = lst.get("voices", [])
+    novos = 0
+    for v in lst or []:
+        if v.get("voice_id") not in vistos: vistos.add(v.get("voice_id")); todas.append(v); novos += 1
+    return st, d, novos
+for q in (f"language={lingua.capitalize()}&gender=male&limit=100", f"language={lingua}&limit=100", f"language={cod}&limit=100"):
+    junta(f"{HEYGEN}/v3/voices?{q}")
+st, d, _ = junta(f"{HEYGEN}/v3/voices?limit=100")
+if isinstance(d, dict): print("chaves da resposta:", list(d.keys()), {k: v for k, v in d.items() if k != "data"})
+tok = (d or {}).get("next_token") or (d or {}).get("next_page_token") if isinstance(d, dict) else None
+for pg in range(2, 40):
+    url = f"{HEYGEN}/v3/voices?limit=100&page={pg}" + (f"&token={tok}" if tok else "")
+    st, d, n = junta(url)
+    if not n: break
+    tok = (d or {}).get("next_token") or (d or {}).get("next_page_token") if isinstance(d, dict) else None
+st2, d2 = http("GET", f"{HEYGEN}/v2/voices")
+for v in ((d2 or {}).get("data", {}) or {}).get("voices", []) if isinstance(d2, dict) else []:
+    if v.get("voice_id") not in vistos: vistos.add(v.get("voice_id")); todas.append(v)
+print("vozes no total:", len(todas))
+from collections import Counter
+print("idiomas:", Counter(str(v.get("language")) for v in todas).most_common(40))
+masc = lambda v: str(v.get("gender", "")).lower() == "male"
+vozes = [v for v in todas if lingua in str(v.get("language", "")).lower() and masc(v)]
+if not vozes:
+    vozes = [v for v in todas if "multiling" in json.dumps(v).lower() and masc(v)]
+    print("sem voz italiana masculina; usando multilíngue:", len(vozes))
+for k, v in enumerate(vozes[:10]): print(k, v.get("voice_id"), v.get("name"), v.get("language"))
+if not vozes: print("nenhuma voz utilizável"); sys.exit(1)
 voz = vozes[min(iv, len(vozes) - 1)]
 arqs = sorted(glob.glob(os.path.join(pasta, "*.txt")))
 feitos = []
