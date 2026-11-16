@@ -1,0 +1,2240 @@
+{
+ "produto": "21-frases",
+ "titulo": "21 Frases · Lote 3 (Flow) — 30 criativos novos",
+ "avatar_ref": "daniel_ref.jpg",
+ "voz": "0e07ee5d68de482aa44d5095dfa2f900",
+ "cenarios_daniel": {
+  "estudio": "home office with plants and a desk lamp, holding a small black microphone, black sweater, medium close-up, vertical 9:16",
+  "podcast": "podcast studio, large studio microphone on an arm, warm lights, acoustic panels, black sweater, vertical 9:16",
+  "carro": "sitting in the driver seat of a parked car, selfie-style handheld vertical video, daylight, black sweater",
+  "calle": "walking on a sunny city sidewalk, handheld selfie vertical video, casual, black sweater",
+  "cafe": "sitting in a cozy cafe by the window, coffee cup on the table, medium shot, vertical 9:16, black sweater",
+  "noche": "sitting on a sofa at night, warm lamp light, intimate tone, vertical 9:16, black sweater",
+  "escenario": "standing on a small stage with a spotlight, speaking to an audience, vertical 9:16, black blazer"
+ },
+ "criativos": [
+  {
+   "id": "01",
+   "titulo": "Si yo fuera mujer y estuviera soltera",
+   "formato": "apresentador",
+   "angulo": "frases por etapa",
+   "gancho": "Si yo fuera mujer y estuviera soltera en 2026…",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Si yo fuera mujer y estuviera soltera en 2026, aprendería a escribirle a un hombre de una sola forma.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Y no, no es con fotos, ni con mensajes largos, ni contestando rápido.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Es con frases cortas que hablan en lo que yo llamo la frecuencia masculina.",
+     "cena": "estudio"
+    },
+    {
+     "t": "T",
+     "fala": "¿Quieres que deje de ignorarte?",
+     "texto": "¿QUIERES QUE DEJE DE IGNORARTE?"
+    },
+    {
+     "t": "D",
+     "fala": "¿Quieres que deje de ignorarte? Hay una frase de atracción para eso.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "¿Quieres que no pueda sacarte de su cabeza? Hay una frase de obsesión.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "¿Quieres que por fin te presente como su pareja? Hay una frase de compromiso.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "¿Y si ya se enfrió o desapareció? Hay una frase de rescate.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Las copias, las pegas, las envías. Así de simple. Son 21 en total.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Desde niños nos dicen: pórtate como hombre. Por eso un hombre se queda con la mujer que lo hace sentir más hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas noches más vas a pasar mirando el celular, esperando una respuesta que no llega?",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y no tienes que volverte fría ni distante. Al contrario: él te va a sentir más cerca.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro las 21 frases organizadas en cuatro etapas: atracción, obsesión, compromiso y rescate.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "Si yo fuera mujer, aprendería esto antes que cualquier otra cosa 👇 21 frases cortas para cada etapa: atracción, obsesión, compromiso y rescate."
+  },
+  {
+   "id": "02",
+   "titulo": "Si yo fuera mujer — versão carro",
+   "formato": "UGC carro",
+   "angulo": "frases por etapa",
+   "gancho": "Si yo fuera mujer, haría esto con el hombre que me gusta…",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Si yo fuera mujer, haría esto con el hombre que me gusta. Y te lo digo como hombre.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Dejaría de mandarle buenos días todos los días. Eso no lo enamora, lo aburre.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Dejaría de hacerle preguntas tipo entrevista. ¿De dónde eres? ¿A qué te dedicas?",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Y sobre todo, nunca le reclamaría por desaparecer. Eso lo aleja todavía más.",
+     "cena": "carro"
+    },
+    {
+     "t": "B",
+     "fala": "En lugar de eso, usaría frases cortas que despiertan su lado masculino.",
+     "prompt": "a handsome man in his 30s reading a text message on his phone and smiling, interested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Frases que lo retan, que le dan curiosidad y que lo hacen querer ganarse tu atención.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Yo junté 21 de esas frases durante más de diez años. Para cada etapa de la relación.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Desde que se están conociendo hasta cuando él se enfría o desaparece.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Las palabras que hacen sentir amada a una mujer no son las mismas que hacen que un hombre se quede.",
+     "cena": "carro"
+    },
+    {
+     "t": "B",
+     "fala": "Cada mensaje en la frecuencia equivocada lo aleja un poquito más. Sin que lo notes.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Si ya lo intentaste todo, es porque lo intentaste en la frecuencia equivocada.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te explico también qué nunca debes decirle cuando desaparece. Casi todas hacen justo lo contrario.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "carro"
+    }
+   ],
+   "primary_text": "Te lo digo como hombre: si yo fuera mujer, dejaría de hacer estas 3 cosas hoy mismo."
+  },
+  {
+   "id": "03",
+   "titulo": "Si yo fuera mujer — 3 erros",
+   "formato": "split erro × acerto",
+   "angulo": "erros que afastam",
+   "gancho": "Si yo fuera mujer, nunca le mandaría estos 3 mensajes a un hombre",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Si yo fuera mujer, nunca le mandaría estos tres mensajes a un hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "Z",
+     "fala": "Primero: el buenos días de compromiso. Él contesta por educación y se olvida en treinta segundos.",
+     "msgs": [
+      [
+       "ella",
+       "Buenos días 😊 ¿cómo amaneciste?"
+      ],
+      [
+       "el",
+       "Bien y tú"
+      ]
+     ]
+    },
+    {
+     "t": "Z",
+     "fala": "Segundo: el interrogatorio. Él siente que está en una entrevista de trabajo.",
+     "msgs": [
+      [
+       "ella",
+       "¿De dónde eres? ¿Cuántos años tienes? ¿A qué te dedicas?"
+      ],
+      [
+       "el",
+       "jaja muchas preguntas"
+      ]
+     ]
+    },
+    {
+     "t": "Z",
+     "fala": "Y el peor de todos: el reclamo. Ese hace que quiera irse en cuestión de horas.",
+     "msgs": [
+      [
+       "ella",
+       "¿Por qué desapareciste? ¿Ya no te importo?"
+      ],
+      [
+       "visto",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "D",
+     "fala": "Cuando un hombre lee un reclamo, no escucha amor. Escucha a una mamá regañando a un niño.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Y ningún hombre quiere sentirse un niño. Quiere sentirse un hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Por eso existen frases que hablan en su frecuencia. Cortas, simples y sin reclamos.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Yo te enseño 21 de esas frases. Para cada momento de la relación.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "No se trata de juegos ni de hacerte la difícil. Se trata de hablar en el idioma que su mente reconoce.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Y te quedas preguntándote: ¿será que el problema soy yo?",
+     "prompt": "a woman looking at herself in a mirror, doubtful, soft light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No es manipulación. Es entender cómo piensa un hombre y dejar de pelear contra eso.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te enseño el ultimátum elegante: la frase que convierte algo sin nombre en una relación de verdad.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "Estos 3 mensajes alejan a cualquier hombre. El tercero es el que más mujeres envían."
+  },
+  {
+   "id": "04",
+   "titulo": "Lo que ningún hombre te va a admitir",
+   "formato": "podcast",
+   "angulo": "confissão masculina",
+   "gancho": "Te voy a decir algo que ningún hombre te va a admitir…",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Te voy a decir algo que ningún hombre te va a admitir en voz alta.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Cuando un hombre se aleja, casi nunca es porque no le gustes.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Es porque la forma en que le hablas no le despierta nada por dentro.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Desde niños nos repiten: pórtate como hombre, los hombres no lloran, resuelve.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Y eso deja una necesidad muy profunda: sentirnos más hombres.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "La mujer que despierta esa sensación en él es la mujer de la que no puede olvidarse.",
+     "cena": "podcast"
+    },
+    {
+     "t": "B",
+     "fala": "Y para eso no necesitas ser más bonita, ni más joven. Necesitas las palabras correctas.",
+     "prompt": "a woman in her 30s smiling at her phone notification in a bright living room, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Yo lo llamo la frecuencia masculina. Y cabe en frases de dos o tres palabras.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "El problema nunca fuiste tú. Solo estabas usando la frecuencia equivocada.",
+     "cena": "podcast"
+    },
+    {
+     "t": "B",
+     "fala": "Y si nada cambia, el próximo hombre que te guste va a recibir los mismos mensajes. Y se va a ir igual.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No son frases para copiar sin pensar: te explico qué activa cada una para que la adaptes a tu caso.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "En el video está la frase de rescate para cuando se enfría, para que sea él quien vuelva a buscarte.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "podcast"
+    }
+   ],
+   "primary_text": "Lo que ningún hombre te va a admitir en voz alta (y explica por qué se aleja) 👇"
+  },
+  {
+   "id": "05",
+   "titulo": "Fui mujeriego 6 anos",
+   "formato": "apresentador noite",
+   "angulo": "confissão masculina",
+   "gancho": "Fui mujeriego durante 6 años. Y todas las mujeres cometían el mismo error.",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Fui mujeriego durante casi seis años. Y todas las mujeres que dejé cometían el mismo error.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "No eran feas, ni aburridas. Eran lindas, inteligentes, con metas.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Pero me hablaban en una frecuencia que no conectaba conmigo.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "Mensajes amables, disponibles todo el tiempo, contestando en un segundo.",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y una semana después, yo ya había perdido el interés. Sin saber explicar por qué.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Hasta que una mujer me escribió algo distinto. Corto. Sin necesidad. Sin reclamo.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Dejé mi vida de soltero por ella. Hoy es la madre de mis tres hijos.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Esa forma de hablar tiene reglas. Y las junté en 21 frases.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "La frecuencia masculina es simple: honor, lealtad, compañerismo y desafío. Cuando le hablas ahí, él te escucha.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántos hombres buenos se fueron de tu vida solo porque la conversación murió a la mitad?",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No hace falta escribirle más. Hace falta escribirle mejor.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te cuento cómo usar cada frase en el momento justo, sin parecer necesitada.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "noche"
+    }
+   ],
+   "primary_text": "Fui mujeriego 6 años. Esto es lo que hacían TODAS las mujeres que dejé 😶"
+  },
+  {
+   "id": "06",
+   "titulo": "O que os homens falam entre eles",
+   "formato": "UGC rua",
+   "angulo": "confissão masculina",
+   "gancho": "¿Sabes lo que hablamos los hombres de ti cuando no estás?",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "¿Sabes lo que hablamos los hombres de una mujer cuando ella no está?",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Casi nunca hablamos de su cuerpo. Hablamos de cómo nos hace sentir.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Si un amigo dice: 'conocí a una mujer diferente', es porque ella le habló distinto.",
+     "cena": "calle"
+    },
+    {
+     "t": "B",
+     "fala": "No le escribió lo mismo que las otras cincuenta. Le escribió algo que lo retó.",
+     "prompt": "a handsome man in his 30s reading a text message on his phone and smiling, interested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y cuando un hombre se siente retado, empieza a invertir. A buscarte. A planear la próxima cita.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Eso no es suerte. Es hablarle en su frecuencia.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Te puedo enseñar exactamente qué escribir para que él diga eso de ti.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Cuando un mensaje lo reta en lugar de reclamarle, deja de sentirse un niño regañado y empieza a actuar como hombre.",
+     "cena": "calle"
+    },
+    {
+     "t": "B",
+     "fala": "El tiempo pasa. Y la familia que sueñas sigue lejos mientras le hables en la frecuencia equivocada.",
+     "prompt": "a woman looking out of a window at a couple with a child walking in the park, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y no importa si tienes 25 o 60 años. La programación que los hombres reciben de niños es la misma.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te doy los primeros mensajes para iniciar una conversación que él no pueda ignorar.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "calle"
+    }
+   ],
+   "primary_text": "Lo que dice un hombre a sus amigos cuando una mujer le gusta de verdad…"
+  },
+  {
+   "id": "07",
+   "titulo": "A frase de 2 palavras: todavía no",
+   "formato": "apresentador",
+   "angulo": "prova grátis: todavía no",
+   "gancho": "Hay 2 palabras que hacen que un hombre quiera ganarte",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Hay dos palabras que hacen que un hombre quiera ganarse tu lugar. Te las voy a regalar.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Imagina: la cita fue increíble y al despedirse, él intenta besarte.",
+     "prompt": "a couple saying goodbye at night outside a restaurant, the man leaning in for a kiss, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Si le dices 'no', él siente rechazo. La mayoría se rinde ahí mismo.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Si le dices 'calma, es muy pronto', estás pensando como mujer. En su mente no despierta nada.",
+     "cena": "estudio"
+    },
+    {
+     "t": "T",
+     "fala": "Las 2 palabras:",
+     "texto": "«TODAVÍA NO»"
+    },
+    {
+     "t": "D",
+     "fala": "Pero si le dices 'todavía no'… él no lo escucha como rechazo. Lo escucha como un reto.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Ese 'todavía' le dice que hay un futuro, pero que se lo tiene que ganar.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Y un hombre retado empieza a buscarte, a invertir, a planear la próxima cita.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Esa es una. Tengo otras 20 iguales de poderosas.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Un hombre valora lo que tiene que ganarse. Por eso las frases correctas siempre dejan una puerta abierta.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas veces viste a otra mujer, no más linda que tú, con el tipo de hombre que tú quieres?",
+     "prompt": "a woman scrolling social media seeing a happy couple photo, thoughtful, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Funciona por mensaje o en persona. Con el que recién conociste o con el que ya se alejó.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro cómo hablar de algo serio sin que él se sienta presionado.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "Te regalo 2 palabras que hacen que un hombre quiera ganarse tu lugar 👇 (las otras 20 están en el video)"
+  },
+  {
+   "id": "08",
+   "titulo": "Todavía no — reação dele",
+   "formato": "split cena",
+   "angulo": "prova grátis: todavía no",
+   "gancho": "No le digas 'no'. Dile esto.",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "No le digas 'no' a un hombre. Y tampoco le digas 'es muy pronto'. Dile esto.",
+     "cena": "cafe"
+    },
+    {
+     "t": "T",
+     "fala": "",
+     "texto": "«TODAVÍA NO»"
+    },
+    {
+     "t": "D",
+     "fala": "Todavía no. Dos palabras. Y cambian todo lo que pasa en su cabeza.",
+     "cena": "cafe"
+    },
+    {
+     "t": "B",
+     "fala": "Porque el hombre está programado para responder a los retos.",
+     "prompt": "a confident man smiling and thinking while walking at sunset, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "En la naturaleza, ningún macho conquista sin demostrar que lo merece.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Cuando dices 'todavía no', dejas de ser la mujer que lo rechaza.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Te conviertes en la mujer que él quiere conquistar.",
+     "cena": "cafe"
+    },
+    {
+     "t": "B",
+     "fala": "Y empieza a escribirte, a llamarte, a buscar cualquier excusa para verte.",
+     "prompt": "a handsome man in his 30s reading a text message on his phone and smiling, interested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Esa frase es una de las 21 que te enseño. Cada una para un momento distinto.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Un hombre no se engancha con la mujer más disponible. Se engancha con la que le despierta las ganas de conquistar.",
+     "cena": "cafe"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas primeras citas prometedoras nunca tuvieron una segunda?",
+     "prompt": "a woman sitting alone at a restaurant table checking her phone, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Aunque él lleve días sin escribirte, todavía hay una forma correcta de volver a abrir la conversación.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te explico el principio que hay detrás de cada frase, para que nunca más te quedes sin saber qué responder.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "cafe"
+    }
+   ],
+   "primary_text": "No le digas 'no'. Tampoco 'es muy pronto'. Dile estas 2 palabras."
+  },
+  {
+   "id": "09",
+   "titulo": "Todavía no — WhatsApp",
+   "formato": "WhatsApp",
+   "angulo": "prova grátis: todavía no",
+   "gancho": "Ella le respondió 2 palabras y él no pudo dejar de pensar en ella",
+   "cenas": [
+    {
+     "t": "Z",
+     "fala": "Mira esta conversación. Él le pidió verla esta noche.",
+     "msgs": [
+      [
+       "el",
+       "¿Te veo hoy en la noche? 😏"
+      ]
+     ]
+    },
+    {
+     "t": "Z",
+     "fala": "La mayoría contestaría 'sí' en un segundo. O 'no puedo'. Ella respondió así.",
+     "msgs": [
+      [
+       "el",
+       "¿Te veo hoy en la noche? 😏"
+      ],
+      [
+       "ella",
+       "Todavía no 😌"
+      ]
+     ]
+    },
+    {
+     "t": "D",
+     "fala": "Todavía no. Dos palabras. Y él no pudo dejar de pensar en ella en toda la noche.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Porque ese 'todavía' le dice que sí hay un futuro. Pero que tiene que ganárselo.",
+     "cena": "estudio"
+    },
+    {
+     "t": "Z",
+     "fala": "Y mira lo que pasó después.",
+     "msgs": [
+      [
+       "ella",
+       "Todavía no 😌"
+      ],
+      [
+       "el",
+       "Jaja ok… ¿y qué tengo que hacer para ganarme el sí?"
+      ]
+     ]
+    },
+    {
+     "t": "D",
+     "fala": "Eso es hablarle en su frecuencia. Él ya no se siente rechazado. Se siente retado.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Tengo 21 frases así. Para que te escriba, para que no te olvide y para que se comprometa.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Él no se mueve por lo que le pides. Se mueve por lo que le haces sentir cuando habla contigo.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Él no es un mal hombre. Y tú mereces ser amada. Solo están hablando idiomas distintos.",
+     "prompt": "a man and a woman texting each other from different rooms, both confused, split mood, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No tienes que cambiar quién eres. Solo la forma en que se lo dices.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro las frases de obsesión, para que él deje una salida con amigos solo para escribirte.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "Ella le respondió 2 palabras… y él no pudo dejar de pensar en ella 👀"
+  },
+  {
+   "id": "10",
+   "titulo": "No le digas te amo",
+   "formato": "apresentador",
+   "angulo": "idioma masculino",
+   "gancho": "Deja de decirle 'te amo'. Dile esto.",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Deja de decirle 'te amo' a un hombre. Y no porque esté mal.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Es que 'te amo' es una frase que hace sentir amada a una mujer. No a un hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Las mujeres crecen valorando la conexión. Los hombres, el honor, la lealtad y el desafío.",
+     "cena": "estudio"
+    },
+    {
+     "t": "T",
+     "fala": "Para él pesa más:",
+     "texto": "«ESTOY CONTIGO»"
+    },
+    {
+     "t": "D",
+     "fala": "Por eso, para un hombre, 'estoy contigo' pesa mucho más que 'te amo'.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Porque habla de lealtad. De compañerismo. De caminar juntos.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Es como hablarle en chino a alguien que solo entiende español. Pueden reír, pero nunca conectan.",
+     "prompt": "a man and a woman on a date, smiling politely but disconnected, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Cuando aprendes su idioma, él siente que eres diferente a todas.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Te enseño 21 frases en ese idioma.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "La curiosidad y un poco de misterio conectan más con un hombre que cien mensajes de cariño.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Meses invirtiendo tiempo y emoción en alguien que nunca termina de comprometerse.",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No necesitas ser más joven, ni más bonita, ni mandar fotos. Necesitas otras palabras.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video aprendes a convertir un reclamo en un reto. Y eso cambia por completo cómo te ve.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "'Te amo' no hace que un hombre se quede. Esta frase sí 👇"
+  },
+  {
+   "id": "11",
+   "titulo": "Idioma errado — chinês",
+   "formato": "narração com cenas",
+   "angulo": "idioma masculino",
+   "gancho": "Le estás hablando en chino a ese hombre",
+   "cenas": [
+    {
+     "t": "B",
+     "fala": "Le estás hablando en chino a ese hombre. Y él solo entiende español.",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Por eso le escribes con todo tu cariño… y él contesta frío. O no contesta.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "No es que no le gustes. Es que le hablas en tu frecuencia, no en la suya.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "Y ahí empieza el círculo: él se enfría, tú escribes con más intensidad, él se aleja más.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Hasta que un día desaparece. Y tú te quedas leyendo la conversación a las tres de la mañana.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "La respuesta a '¿en qué fallé?' es: en nada. Solo usaste el idioma equivocado.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Aprender el idioma correcto es más fácil de lo que crees. Son frases cortas.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Desde niños nos dicen: pórtate como hombre. Por eso un hombre se queda con la mujer que lo hace sentir más hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas noches más vas a pasar mirando el celular, esperando una respuesta que no llega?",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y no tienes que volverte fría ni distante. Al contrario: él te va a sentir más cerca.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro las 21 frases organizadas en cuatro etapas: atracción, obsesión, compromiso y rescate.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "noche"
+    }
+   ],
+   "primary_text": "No es que no le gustes. Le estás hablando en un idioma que él no entiende."
+  },
+  {
+   "id": "12",
+   "titulo": "O hombre que te enamoró sin entender como",
+   "formato": "podcast",
+   "angulo": "idioma masculino",
+   "gancho": "¿Alguna vez un hombre te enamoró y no supiste cómo?",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "¿Alguna vez un hombre te enamoró sin que entendieras cómo lo hizo?",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "No era el más guapo, ni el más exitoso. Pero sabía exactamente qué decirte.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Él hablaba en tu idioma. En la frecuencia femenina.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Ahora imagina hacer lo mismo, pero al revés. Con el hombre que tú quieres.",
+     "cena": "podcast"
+    },
+    {
+     "t": "B",
+     "fala": "Que él sienta que tú eres diferente a todas las que conoció.",
+     "prompt": "a handsome man in his 30s reading a text message on his phone and smiling, interested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Eso no depende de tu cara, ni de tu edad. Depende de tus palabras.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Y esas palabras se aprenden. Yo te enseño 21.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Las palabras que hacen sentir amada a una mujer no son las mismas que hacen que un hombre se quede.",
+     "cena": "podcast"
+    },
+    {
+     "t": "B",
+     "fala": "Cada mensaje en la frecuencia equivocada lo aleja un poquito más. Sin que lo notes.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Si ya lo intentaste todo, es porque lo intentaste en la frecuencia equivocada.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te explico también qué nunca debes decirle cuando desaparece. Casi todas hacen justo lo contrario.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "podcast"
+    }
+   ],
+   "primary_text": "Ese hombre que te enamoró sin entender cómo… sabía hablar tu idioma. Ahora aprende el suyo."
+  },
+  {
+   "id": "13",
+   "titulo": "No uses esta frase",
+   "formato": "apresentador",
+   "angulo": "gancho invertido",
+   "gancho": "No uses esta frase si no quieres que se obsesione contigo",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "No uses esta frase si no quieres que un hombre se obsesione contigo. Lo digo en serio.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Porque cuando la usas bien, él empieza a escribirte primero. Todos los días.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Deja planes con sus amigos para hablar contigo. Te nombra delante de ellos.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Y no tiene nada que ver con tu cuerpo, ni con fotos, ni con ser más joven.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Tiene que ver con hablarle en la frecuencia masculina.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Una frase corta, en el momento exacto, que despierta su instinto de conquistar.",
+     "prompt": "a handsome man in his 30s reading a text message on his phone and smiling, interested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "La llamo frase de obsesión. Y es solo una de las cuatro categorías que te enseño.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Atracción, obsesión, compromiso y rescate. 21 frases en total.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "No se trata de juegos ni de hacerte la difícil. Se trata de hablar en el idioma que su mente reconoce.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Y te quedas preguntándote: ¿será que el problema soy yo?",
+     "prompt": "a woman looking at herself in a mirror, doubtful, soft light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No es manipulación. Es entender cómo piensa un hombre y dejar de pelear contra eso.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te enseño el ultimátum elegante: la frase que convierte algo sin nombre en una relación de verdad.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "⚠️ No uses esta frase si no quieres que se obsesione contigo."
+  },
+  {
+   "id": "14",
+   "titulo": "Não mande essa mensagem",
+   "formato": "WhatsApp",
+   "angulo": "gancho invertido",
+   "gancho": "Si mandas este mensaje, él se va a alejar",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Si le mandas este mensaje a un hombre, se va a alejar. Te lo garantizo como hombre.",
+     "cena": "carro"
+    },
+    {
+     "t": "Z",
+     "fala": "Este. El de '¿por qué desapareciste?'.",
+     "msgs": [
+      [
+       "ella",
+       "¿Por qué desapareciste? Ni un mensaje en 3 días…"
+      ]
+     ]
+    },
+    {
+     "t": "D",
+     "fala": "Tú lo escribes por preocupación. Por amor. Pero él no lee eso.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Él lee a su mamá regañándolo por llegar tarde. Y nadie quiere volver con su mamá.",
+     "cena": "carro"
+    },
+    {
+     "t": "Z",
+     "fala": "Ahora mira lo que pasa si le escribes otra cosa.",
+     "msgs": [
+      [
+       "ella",
+       "Me acordé de ti hoy 🙂 tengo algo que contarte"
+      ],
+      [
+       "el",
+       "¿Qué cosa? 👀 cuéntame"
+      ]
+     ]
+    },
+    {
+     "t": "D",
+     "fala": "Curiosidad en lugar de reclamo. Él responde en segundos.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Tengo 21 frases así. Y una sección entera para cuando él desaparece.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "El problema nunca fuiste tú. Solo estabas usando la frecuencia equivocada.",
+     "cena": "carro"
+    },
+    {
+     "t": "B",
+     "fala": "Y si nada cambia, el próximo hombre que te guste va a recibir los mismos mensajes. Y se va a ir igual.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No son frases para copiar sin pensar: te explico qué activa cada una para que la adaptes a tu caso.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "En el video está la frase de rescate para cuando se enfría, para que sea él quien vuelva a buscarte.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "carro"
+    }
+   ],
+   "primary_text": "Si le mandas este mensaje, se va a alejar. (Casi todas lo hacen.)"
+  },
+  {
+   "id": "15",
+   "titulo": "Pare de correr atrás",
+   "formato": "apresentador rua",
+   "angulo": "gancho invertido",
+   "gancho": "Deja de perseguirlo. Ahora.",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Deja de perseguirlo. Ahora mismo. Cada mensaje que le mandas de más, lo aleja un poco más.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Sé que lo haces porque te importa. Pero en su cabeza funciona al revés.",
+     "cena": "calle"
+    },
+    {
+     "t": "B",
+     "fala": "Un hombre valora lo que tiene que ganarse. Lo que está siempre disponible, lo da por hecho.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No te digo que te hagas la difícil. Eso cansa y se nota.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Te digo que le hables en su frecuencia: con reto, con curiosidad, con calma.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Y que sea él quien te busque a ti.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Te enseño las frases exactas para lograrlo, sin parecer fría ni distante.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "La frecuencia masculina es simple: honor, lealtad, compañerismo y desafío. Cuando le hablas ahí, él te escucha.",
+     "cena": "calle"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántos hombres buenos se fueron de tu vida solo porque la conversación murió a la mitad?",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No hace falta escribirle más. Hace falta escribirle mejor.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te cuento cómo usar cada frase en el momento justo, sin parecer necesitada.",
+     "cena": "calle"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "calle"
+    }
+   ],
+   "primary_text": "Deja de perseguirlo. Haz que él te busque a ti 👇"
+  },
+  {
+   "id": "16",
+   "titulo": "3 palavras numa foto",
+   "formato": "história cinematográfica",
+   "angulo": "história de origem",
+   "gancho": "Le escribí 3 palabras en una foto vieja… hoy es mi esposa",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Le escribí tres palabras en una foto vieja. Hoy esa mujer es la madre de mis hijos.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "Una amiga me mandó una captura: una mujer había comentado 'qué linda sonrisa tiene ese chico'.",
+     "prompt": "a man looking at his phone screen surprised at a screenshot, cozy room, cinematic, vertical 9:16"
+    },
+    {
+     "t": "B",
+     "fala": "Entré a su perfil. Era muy atractiva. Decenas de hombres le dejaban comentarios.",
+     "prompt": "a phone screen scrolling an attractive woman's social media profile with many comments, cinematic close-up, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No le dije 'hola, qué linda'. No hice lo mismo que los otros cincuenta.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "Busqué una foto vieja, donde casi no se veía un pequeño tatuaje en su rodilla. Y escribí: '¿Qué significa?'",
+     "prompt": "close-up of a finger typing a short comment under an old photo on a phone, cinematic, vertical 9:16"
+    },
+    {
+     "t": "B",
+     "fala": "Ella respondió con humor. Ligera. Curiosa. Sin darse cuenta, me habló en mi frecuencia.",
+     "prompt": "a woman in her 30s smiling at her phone notification in a bright living room, cinematic, vertical 9:16"
+    },
+    {
+     "t": "B",
+     "fala": "Nuestra primera cita fue en un café pequeño. Pasaron ocho horas que se sintieron como treinta minutos.",
+     "prompt": "a man and a woman laughing together in a small cafe near a park, golden hour, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Toda relación empieza con una conversación. Y esa conversación tiene palabras correctas.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Cuando un mensaje lo reta en lugar de reclamarle, deja de sentirse un niño regañado y empieza a actuar como hombre.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "El tiempo pasa. Y la familia que sueñas sigue lejos mientras le hables en la frecuencia equivocada.",
+     "prompt": "a woman looking out of a window at a couple with a child walking in the park, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y no importa si tienes 25 o 60 años. La programación que los hombres reciben de niños es la misma.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te doy los primeros mensajes para iniciar una conversación que él no pueda ignorar.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "noche"
+    }
+   ],
+   "primary_text": "Le escribí 3 palabras en una foto vieja. Hoy es la madre de mis hijos ❤️"
+  },
+  {
+   "id": "17",
+   "titulo": "Ela me conquistou",
+   "formato": "podcast",
+   "angulo": "história de origem",
+   "gancho": "La mujer que hizo que un mujeriego se casara",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Yo era el típico mujeriego. Y una mujer me hizo dejar todo y casarme con ella.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "No era la más bonita que había conocido. Pero nunca hizo lo que hacían las demás.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Nunca empezaba conversaciones vacías. Nunca me interrogaba. Nunca me reclamó. Ni una vez.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Me hablaba de una forma que despertaba la mejor versión de mí.",
+     "cena": "podcast"
+    },
+    {
+     "t": "B",
+     "fala": "Me daban ganas de crecer más, de hacer más, de conquistar más. Por ella.",
+     "prompt": "a man working hard and smiling, then hugging a woman at home, warm cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Pasé años entendiendo qué tenía esa forma de hablar. Y la convertí en 21 frases.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Hoy se las enseño a mujeres que quieren un hombre que las valore de verdad.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Un hombre valora lo que tiene que ganarse. Por eso las frases correctas siempre dejan una puerta abierta.",
+     "cena": "podcast"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas veces viste a otra mujer, no más linda que tú, con el tipo de hombre que tú quieres?",
+     "prompt": "a woman scrolling social media seeing a happy couple photo, thoughtful, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Funciona por mensaje o en persona. Con el que recién conociste o con el que ya se alejó.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro cómo hablar de algo serio sin que él se sienta presionado.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "podcast"
+    }
+   ],
+   "primary_text": "Yo era mujeriego. Ella no hizo lo que hacían las demás… y me casé con ella."
+  },
+  {
+   "id": "18",
+   "titulo": "Tímido na internet",
+   "formato": "história + apresentador",
+   "angulo": "história de origem",
+   "gancho": "Yo era tan tímido que aprendí a enamorar por mensajes",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Yo era tan tímido que me costaba hablarle a una mujer en persona.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Así que me refugié en internet: foros, chats, aplicaciones de mensajes.",
+     "prompt": "a shy young man typing in front of a computer late at night, blue screen light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y ahí descubrí, a base de prueba y error, qué palabras creaban conexión de verdad.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Y cuáles mataban una conversación en minutos.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Me tomó años. Pero al final supe qué palabras abren puertas y cuáles las cierran para siempre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Hoy junto todo eso en 21 frases. Para que tú no pierdas años como yo.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Un hombre no se engancha con la mujer más disponible. Se engancha con la que le despierta las ganas de conquistar.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas primeras citas prometedoras nunca tuvieron una segunda?",
+     "prompt": "a woman sitting alone at a restaurant table checking her phone, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Aunque él lleve días sin escribirte, todavía hay una forma correcta de volver a abrir la conversación.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te explico el principio que hay detrás de cada frase, para que nunca más te quedes sin saber qué responder.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "Era tan tímido que aprendí a enamorar por mensajes. Esto es lo que descubrí."
+  },
+  {
+   "id": "19",
+   "titulo": "Ex-ficante: andaban pero no eran nada",
+   "formato": "UGC carro",
+   "angulo": "andábamos pero no éramos nada",
+   "gancho": "Andaban, pero no eran nada… y desapareció",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Andaban, pero no eran nada. Y de repente, desapareció como si nada hubiera pasado.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Te lo explico como hombre: no se fue porque no le importaras.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Se fue porque, en algún momento, la conversación dejó de despertarle algo.",
+     "cena": "carro"
+    },
+    {
+     "t": "B",
+     "fala": "Y lo peor que puedes hacer ahora es escribirle '¿qué somos?' o '¿por qué te fuiste?'.",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Eso confirma su decisión. Lo que funciona es lo contrario: curiosidad, calma y un pequeño reto.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Tengo una sección entera de frases de rescate para este momento exacto.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Para que sea él quien vuelva a buscarte, sin que tú lo persigas.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Él no se mueve por lo que le pides. Se mueve por lo que le haces sentir cuando habla contigo.",
+     "cena": "carro"
+    },
+    {
+     "t": "B",
+     "fala": "Él no es un mal hombre. Y tú mereces ser amada. Solo están hablando idiomas distintos.",
+     "prompt": "a man and a woman texting each other from different rooms, both confused, split mood, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No tienes que cambiar quién eres. Solo la forma en que se lo dices.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro las frases de obsesión, para que él deje una salida con amigos solo para escribirte.",
+     "cena": "carro"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "carro"
+    }
+   ],
+   "primary_text": "Andaban, pero no eran nada… y desapareció. Esto es lo que NO tienes que escribirle."
+  },
+  {
+   "id": "20",
+   "titulo": "Quente e frio",
+   "formato": "apresentador",
+   "angulo": "quente e frio",
+   "gancho": "Un día te busca y al otro desaparece. Te explico por qué.",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Un día te escribe todo el día. Al otro, desaparece. Te explico por qué hace eso.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Cuando algo empieza a sentirse serio, muchos hombres retroceden. No porque no les gustes.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Es porque en ese momento no sienten el reto. Sienten la presión.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Y si tú respondes con más mensajes, más preguntas y más reclamos, la presión aumenta.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Lo que lo estabiliza es otra cosa: que hablar contigo lo haga sentir más hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Eso se logra con frases muy concretas. Cortas. En el momento justo.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Te enseño cuáles usar cuando se enfría y cuáles cuando vuelve.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "La curiosidad y un poco de misterio conectan más con un hombre que cien mensajes de cariño.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Meses invirtiendo tiempo y emoción en alguien que nunca termina de comprometerse.",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No necesitas ser más joven, ni más bonita, ni mandar fotos. Necesitas otras palabras.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video aprendes a convertir un reclamo en un reto. Y eso cambia por completo cómo te ve.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "¿Un día te busca y al otro desaparece? Esto es lo que pasa en su cabeza."
+  },
+  {
+   "id": "21",
+   "titulo": "Te deixa no visto",
+   "formato": "WhatsApp",
+   "angulo": "visto",
+   "gancho": "Te deja en visto… y otra recibe respuesta en segundos",
+   "cenas": [
+    {
+     "t": "Z",
+     "fala": "Tú le escribes esto. Y te deja en visto.",
+     "msgs": [
+      [
+       "ella",
+       "Hola 😊 ¿cómo estuvo tu día?"
+      ],
+      [
+       "visto",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "D",
+     "fala": "Mientras tanto, otra mujer le escribe al mismo hombre. Y él le responde en segundos.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "No es más bonita que tú. No es más interesante. Solo le habla en su frecuencia.",
+     "cena": "noche"
+    },
+    {
+     "t": "Z",
+     "fala": "Ella no le pregunta cómo estuvo su día. Le escribe algo así.",
+     "msgs": [
+      [
+       "otra",
+       "Hoy vi algo que me hizo pensar en ti… pero no te lo voy a contar todavía 😏"
+      ],
+      [
+       "el",
+       "Nooo ahora me dejas con la duda 😂 ¿qué fue?"
+      ]
+     ]
+    },
+    {
+     "t": "D",
+     "fala": "Curiosidad. Misterio. Un pequeño reto. Eso es lo que lo conecta.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Y tú también puedes aprenderlo. Son frases que copias y adaptas.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Desde niños nos dicen: pórtate como hombre. Por eso un hombre se queda con la mujer que lo hace sentir más hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas noches más vas a pasar mirando el celular, esperando una respuesta que no llega?",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y no tienes que volverte fría ni distante. Al contrario: él te va a sentir más cerca.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro las 21 frases organizadas en cuatro etapas: atracción, obsesión, compromiso y rescate.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "noche"
+    }
+   ],
+   "primary_text": "Te deja en visto… y a otra le responde en segundos. ¿Qué le escribe ella?"
+  },
+  {
+   "id": "22",
+   "titulo": "Meses conversando e nada",
+   "formato": "apresentador café",
+   "angulo": "estancado",
+   "gancho": "Llevan meses hablando y él nunca te invita a salir",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "¿Llevan meses hablando y él nunca te invita a salir? Esto es lo que está pasando.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "La conversación se volvió cómoda. Agradable. Pero no le despierta ninguna emoción.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Y un hombre se mueve por emoción. Por reto. Por curiosidad.",
+     "cena": "cafe"
+    },
+    {
+     "t": "B",
+     "fala": "Hay frases que cambian una conversación tibia en una cita en pocos días.",
+     "prompt": "a woman confidently sending a text in a cafe, smiling, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Por ejemplo: 'estoy pensando en algo'. Y nada más.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Eso abre su curiosidad y hace que sea él quien pregunte, quien insista, quien proponga.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Te enseño 21 frases como esa, organizadas por etapa.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Las palabras que hacen sentir amada a una mujer no son las mismas que hacen que un hombre se quede.",
+     "cena": "cafe"
+    },
+    {
+     "t": "B",
+     "fala": "Cada mensaje en la frecuencia equivocada lo aleja un poquito más. Sin que lo notes.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Si ya lo intentaste todo, es porque lo intentaste en la frecuencia equivocada.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te explico también qué nunca debes decirle cuando desaparece. Casi todas hacen justo lo contrario.",
+     "cena": "cafe"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "cafe"
+    }
+   ],
+   "primary_text": "¿Meses hablando y nunca te invita a salir? Prueba esta frase."
+  },
+  {
+   "id": "23",
+   "titulo": "Ele não quer compromisso",
+   "formato": "palco",
+   "angulo": "compromisso",
+   "gancho": "Si él no quiere compromiso, deja de pedírselo así",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Si él no quiere compromiso, deja de pedírselo así.",
+     "cena": "escenario"
+    },
+    {
+     "t": "D",
+     "fala": "'¿Qué somos?' '¿A dónde va esto?' Esas preguntas lo ponen a la defensiva.",
+     "cena": "escenario"
+    },
+    {
+     "t": "D",
+     "fala": "Un hombre se compromete cuando siente que fue su idea. No cuando lo presionan.",
+     "cena": "escenario"
+    },
+    {
+     "t": "B",
+     "fala": "Hay una forma elegante de hablar de una relación seria sin parecer desesperada.",
+     "prompt": "a couple walking hand in hand in a park, the man looking at her with admiration, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Yo la llamo el ultimátum elegante. Una frase que convierte algo sin nombre en una relación de verdad.",
+     "cena": "escenario"
+    },
+    {
+     "t": "D",
+     "fala": "Está en la categoría de frases de compromiso. Una de las cuatro que te enseño.",
+     "cena": "escenario"
+    },
+    {
+     "t": "D",
+     "fala": "No se trata de juegos ni de hacerte la difícil. Se trata de hablar en el idioma que su mente reconoce.",
+     "cena": "escenario"
+    },
+    {
+     "t": "B",
+     "fala": "Y te quedas preguntándote: ¿será que el problema soy yo?",
+     "prompt": "a woman looking at herself in a mirror, doubtful, soft light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No es manipulación. Es entender cómo piensa un hombre y dejar de pelear contra eso.",
+     "cena": "escenario"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te enseño el ultimátum elegante: la frase que convierte algo sin nombre en una relación de verdad.",
+     "cena": "escenario"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "escenario"
+    }
+   ],
+   "primary_text": "Si no quiere compromiso, deja de preguntarle '¿qué somos?'. Haz esto."
+  },
+  {
+   "id": "24",
+   "titulo": "Los 4 mensajes que lo alejan",
+   "formato": "lista com textos",
+   "angulo": "erros que afastam",
+   "gancho": "Los 4 mensajes que alejan a un hombre (el 4 es el peor)",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Los cuatro mensajes que alejan a un hombre. Y el cuarto es el peor.",
+     "cena": "estudio"
+    },
+    {
+     "t": "T",
+     "fala": "Uno: el buenos días de compromiso.",
+     "texto": "1. EL «BUENOS DÍAS» DE COMPROMISO"
+    },
+    {
+     "t": "T",
+     "fala": "Dos: el interrogatorio. Preguntas y preguntas como en una entrevista.",
+     "texto": "2. EL INTERROGATORIO"
+    },
+    {
+     "t": "T",
+     "fala": "Tres: los fuegos artificiales. Fotos y tensión que brillan un momento y después desaparecen.",
+     "texto": "3. LOS FUEGOS ARTIFICIALES"
+    },
+    {
+     "t": "T",
+     "fala": "Y cuatro: el reclamo. ¿Por qué no me llamaste? ¿Ya no te importo?",
+     "texto": "4. EL RECLAMO"
+    },
+    {
+     "t": "D",
+     "fala": "Ese último es el más peligroso. Porque él no escucha amor. Escucha un regaño.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "La buena noticia: cambiar esto es mucho más fácil de lo que crees.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Te enseño qué escribir en lugar de cada uno de estos mensajes. 21 frases en total.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "El problema nunca fuiste tú. Solo estabas usando la frecuencia equivocada.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Y si nada cambia, el próximo hombre que te guste va a recibir los mismos mensajes. Y se va a ir igual.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No son frases para copiar sin pensar: te explico qué activa cada una para que la adaptes a tu caso.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video está la frase de rescate para cuando se enfría, para que sea él quien vuelva a buscarte.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "Los 4 mensajes que alejan a un hombre. ¿Cuál de estos le mandaste esta semana?"
+  },
+  {
+   "id": "25",
+   "titulo": "Las 4 etapas",
+   "formato": "apresentador com lista",
+   "angulo": "frases por etapa",
+   "gancho": "No importa en qué etapa estén, hay una frase para eso",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "No importa en qué etapa estén. Hay una frase exacta para cada momento.",
+     "cena": "podcast"
+    },
+    {
+     "t": "T",
+     "fala": "Si apenas se están conociendo: frases de atracción, para que deje de pasar de largo.",
+     "texto": "ETAPA 1 · ATRACCIÓN"
+    },
+    {
+     "t": "T",
+     "fala": "Si ya hablan: frases de obsesión, para que no pueda sacarte de su cabeza.",
+     "texto": "ETAPA 2 · OBSESIÓN"
+    },
+    {
+     "t": "T",
+     "fala": "Si ya salen: frases de compromiso, para que la relación avance natural.",
+     "texto": "ETAPA 3 · COMPROMISO"
+    },
+    {
+     "t": "T",
+     "fala": "Y si se enfrió o desapareció: frases de rescate, para que vuelva a buscarte.",
+     "texto": "ETAPA 4 · RESCATE"
+    },
+    {
+     "t": "D",
+     "fala": "No importa si tienes 25 o 60 años. La frecuencia masculina funciona igual en todos los hombres.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Y además de copiar las frases, entiendes por qué funcionan para adaptarlas a tu caso.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "La frecuencia masculina es simple: honor, lealtad, compañerismo y desafío. Cuando le hablas ahí, él te escucha.",
+     "cena": "podcast"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántos hombres buenos se fueron de tu vida solo porque la conversación murió a la mitad?",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No hace falta escribirle más. Hace falta escribirle mejor.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te cuento cómo usar cada frase en el momento justo, sin parecer necesitada.",
+     "cena": "podcast"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "podcast"
+    }
+   ],
+   "primary_text": "¿En qué etapa están? Atracción, obsesión, compromiso o rescate: hay una frase para cada una."
+  },
+  {
+   "id": "26",
+   "titulo": "Diccionario de la mente masculina",
+   "formato": "quiz / tradução",
+   "angulo": "tradutor de frases masculinas",
+   "gancho": "Cuando él dice 'estoy muy ocupado', en realidad significa esto",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Cuando un hombre te dice 'estoy muy ocupado', casi nunca significa lo que crees.",
+     "cena": "estudio"
+    },
+    {
+     "t": "T",
+     "fala": "'Estoy muy ocupado.' 'Vamos despacio.' 'No estoy listo para una relación.'",
+     "texto": "«ESTOY MUY OCUPADO»"
+    },
+    {
+     "t": "D",
+     "fala": "Son frases que la mayoría de las mujeres interpreta mal. Y responde peor.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Y cada respuesta equivocada lo aleja un poco más.",
+     "prompt": "a man in his 30s glancing at his phone and putting it down, uninterested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Por eso hice un diccionario de la mente masculina. Lo que él dice y lo que realmente quiere decir.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Viene de regalo con las 21 frases secretas.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Cuando un mensaje lo reta en lugar de reclamarle, deja de sentirse un niño regañado y empieza a actuar como hombre.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "El tiempo pasa. Y la familia que sueñas sigue lejos mientras le hables en la frecuencia equivocada.",
+     "prompt": "a woman looking out of a window at a couple with a child walking in the park, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Y no importa si tienes 25 o 60 años. La programación que los hombres reciben de niños es la misma.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te doy los primeros mensajes para iniciar una conversación que él no pueda ignorar.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "'Estoy muy ocupado' casi nunca significa lo que crees. Te traduzco lo que él quiere decir."
+  },
+  {
+   "id": "27",
+   "titulo": "POV: ele leu sua mensagem",
+   "formato": "POV cinematográfico",
+   "angulo": "o efeito na mente dele",
+   "gancho": "POV: él acaba de leer tu mensaje",
+   "cenas": [
+    {
+     "t": "B",
+     "fala": "Él acaba de leer tu mensaje. Y míralo: no puede dejar de sonreír.",
+     "prompt": "a handsome man in his 30s reading a text message on his phone and smiling, interested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "B",
+     "fala": "Lo lee otra vez. Deja lo que estaba haciendo. Contesta en segundos.",
+     "prompt": "a man stopping work at his desk to reply to a message, smiling, cinematic, vertical 9:16"
+    },
+    {
+     "t": "B",
+     "fala": "Más tarde, les cuenta a sus amigos que conoció a una mujer diferente.",
+     "prompt": "a group of men at a bar, one of them showing his phone and smiling, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Esto no pasa por tu cuerpo, ni por tus fotos. Pasa por tus palabras.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Hay un tipo de frase que, cuando una mujer la escribe, el hombre no puede dejar de pensar en ella.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Yo junté 21 de esas frases en más de diez años estudiando conversaciones reales.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Un hombre valora lo que tiene que ganarse. Por eso las frases correctas siempre dejan una puerta abierta.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas veces viste a otra mujer, no más linda que tú, con el tipo de hombre que tú quieres?",
+     "prompt": "a woman scrolling social media seeing a happy couple photo, thoughtful, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Funciona por mensaje o en persona. Con el que recién conociste o con el que ya se alejó.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro cómo hablar de algo serio sin que él se sienta presionado.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "POV: él acaba de leer tu mensaje… y no puede dejar de sonreír."
+  },
+  {
+   "id": "28",
+   "titulo": "Outra mulher agora mesmo",
+   "formato": "tela dividida",
+   "angulo": "urgência / outra mulher",
+   "gancho": "Mientras ves esto, otra mujer le está escribiendo",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Mientras ves este video, otra mujer le está escribiendo al hombre que tú quieres.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "Y no le escribe 'hola, ¿cómo estás?'. Ni un párrafo enorme a las dos de la mañana.",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "B",
+     "fala": "Le escribe una frase corta. Y él le contesta en segundos.",
+     "prompt": "a woman in her 30s smiling at her phone notification in a bright living room, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No es porque ella valga más que tú. Es porque aprendió a hablar en su frecuencia.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Y tú todavía no. Pero eso se puede cambiar hoy.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Son 21 frases. Copias, adaptas y envías.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Un hombre no se engancha con la mujer más disponible. Se engancha con la que le despierta las ganas de conquistar.",
+     "cena": "noche"
+    },
+    {
+     "t": "B",
+     "fala": "¿Cuántas primeras citas prometedoras nunca tuvieron una segunda?",
+     "prompt": "a woman sitting alone at a restaurant table checking her phone, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Aunque él lleve días sin escribirte, todavía hay una forma correcta de volver a abrir la conversación.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te explico el principio que hay detrás de cada frase, para que nunca más te quedes sin saber qué responder.",
+     "cena": "noche"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "noche"
+    }
+   ],
+   "primary_text": "Mientras ves esto, otra mujer le está escribiendo. Y él sí le contesta."
+  },
+  {
+   "id": "29",
+   "titulo": "Teste: qual você mandaria?",
+   "formato": "quiz A/B",
+   "angulo": "quiz interativo",
+   "gancho": "¿Cuál de estos mensajes le mandarías? (casi todas fallan)",
+   "cenas": [
+    {
+     "t": "D",
+     "fala": "Él no te escribe hace dos días. ¿Cuál de estos mensajes le mandarías?",
+     "cena": "estudio"
+    },
+    {
+     "t": "T",
+     "fala": "A: '¿Por qué desapareciste?'  B: 'Hola, ¿cómo estás?'  C: 'Hoy pasó algo que te va a dar risa'",
+     "texto": "A · B · C"
+    },
+    {
+     "t": "D",
+     "fala": "Si elegiste A, lo alejaste. Suena a reclamo y él se va a defender o a desaparecer.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Si elegiste B, lo aburriste. Es un mensaje de compromiso que contesta por educación.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "La C despierta su curiosidad. Lo obliga a preguntar. Y la conversación vuelve a ser tuya.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Eso es hablar en la frecuencia masculina. Y se aprende.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Te enseño 21 frases así, para cada momento.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Él no se mueve por lo que le pides. Se mueve por lo que le haces sentir cuando habla contigo.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Él no es un mal hombre. Y tú mereces ser amada. Solo están hablando idiomas distintos.",
+     "prompt": "a man and a woman texting each other from different rooms, both confused, split mood, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No tienes que cambiar quién eres. Solo la forma en que se lo dices.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video te muestro las frases de obsesión, para que él deje una salida con amigos solo para escribirte.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "¿A, B o C? Casi todas eligen el mensaje equivocado 😬"
+  },
+  {
+   "id": "30",
+   "titulo": "Notícia: a frase que viralizou",
+   "formato": "manchete / notícia",
+   "angulo": "curiosidade",
+   "gancho": "Esta frase de 2 palabras está haciendo que los hombres dejen de ignorar",
+   "cenas": [
+    {
+     "t": "T",
+     "fala": "",
+     "texto": "LA FRASE DE 2 PALABRAS QUE HACE QUE UN HOMBRE DEJE DE IGNORARTE"
+    },
+    {
+     "t": "D",
+     "fala": "Hay una frase de dos palabras que hace que un hombre deje de ignorarte. Y no es 'te extraño'.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Tampoco es 'te amo'. Ni '¿por qué no me escribes?'.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Es una frase que él no interpreta como rechazo, sino como un reto que quiere ganar.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Y cuando un hombre siente ese reto, empieza a buscarte, a invertir, a planear.",
+     "prompt": "a handsome man in his 30s reading a text message on his phone and smiling, interested, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "Te explico cuál es, por qué funciona y otras 20 frases parecidas.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "La curiosidad y un poco de misterio conectan más con un hombre que cien mensajes de cariño.",
+     "cena": "estudio"
+    },
+    {
+     "t": "B",
+     "fala": "Meses invirtiendo tiempo y emoción en alguien que nunca termina de comprometerse.",
+     "prompt": "a woman in her 30s sitting on her bed at night staring at her phone, sad, dim light, cinematic, vertical 9:16"
+    },
+    {
+     "t": "D",
+     "fala": "No necesitas ser más joven, ni más bonita, ni mandar fotos. Necesitas otras palabras.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "En el video aprendes a convertir un reclamo en un reto. Y eso cambia por completo cómo te ve.",
+     "cena": "estudio"
+    },
+    {
+     "t": "D",
+     "fala": "Toca en 'Más información' y mira el video completo. Ahí te enseño las 21 frases, gratis, antes de que lo quiten.",
+     "cena": "estudio"
+    }
+   ],
+   "primary_text": "La frase de 2 palabras que hace que un hombre deje de ignorarte (no es 'te extraño')."
+  }
+ ],
+ "regras": "Daniel com a voz clonada; Flow sempre no modelo Lower Priority (0 crédito); mínimo 60 s; sem números/estudos inventados; sem avatar fingindo cliente."
+}
