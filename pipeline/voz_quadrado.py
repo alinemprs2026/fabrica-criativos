@@ -8,9 +8,16 @@ from fabrica import http, HEYGEN, tts, storage_enviar
 
 proj, arq = sys.argv[1], sys.argv[2]
 texto = open(arq, encoding="utf-8").read().strip()
-st, d = http("GET", f"{HEYGEN}/v2/voices")
-vozes = (d or {}).get("data", {}).get("voices", []) if st == 200 else []
-pt = [v for v in vozes if "portug" in str(v.get("language", "")).lower() and str(v.get("gender", "")).lower() == "male"]
+vozes = []
+for ep in ("/v3/voices?language=Portuguese&gender=male&limit=100", "/v3/voices?limit=200", "/v2/voices"):
+    st, d = http("GET", HEYGEN + ep)
+    print("GET", ep, st, str(d)[:400])
+    if st == 200 and isinstance(d, dict):
+        dd = d.get("data", d)
+        lst = dd.get("voices") if isinstance(dd, dict) else dd
+        if isinstance(lst, list) and lst:
+            vozes = lst; print("  exemplo:", json.dumps(lst[0])[:400]); break
+pt = [v for v in vozes if "portug" in json.dumps(v).lower() and "female" not in str(v.get("gender", "")).lower()]
 br = [v for v in pt if "bra" in json.dumps(v).lower()] or pt
 print("vozes PT masculinas:", len(pt), "| BR:", len(br))
 for v in br[:15]: print(" ", v.get("voice_id"), v.get("name"), v.get("language"), v.get("emotion_support"))
