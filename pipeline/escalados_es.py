@@ -1,3 +1,4 @@
+import sys; sys.exit("escalados_es: JA FEITO em 16/11 - bloqueado para nao gastar HeyGen de novo")
 """2 criativos adaptados de concorrentes (ES): voz clonada do Daniel em todas as falas + Avatar IV só no gancho (look lapela_preto).
 Sobe tudo para criativos/21-frases/lotes/2026-11-16-ESC/ e grava indice.json."""
 import json, os, sys
